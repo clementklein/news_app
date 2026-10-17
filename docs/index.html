@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12222B">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg">
+<title>Veille</title>
+<style>
+:root{--fond:#EDF0F1;--encre:#12222B;--discret:#76858F;--trait:#CBD3D8;--accent:#0E7C6B;
+ --serif:Charter,"Iowan Old Style","Palatino Linotype",Georgia,serif;--sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+@media (prefers-color-scheme:dark){:root{--fond:#0F1A21;--encre:#E6ECEF;--discret:#7F909B;--trait:#26363F}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--fond);color:var(--encre);font-family:var(--sans)}
+body{min-height:100vh;padding:env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom))}
+header{padding:20px 20px 8px;max-width:640px;margin:auto}
+h1{font:700 30px/1.1 var(--serif);margin:0}
+#maj{margin:4px 0 0;font-size:13px;color:var(--discret)}
+#alerte{max-width:640px;margin:8px auto;padding:10px 20px;font-size:13px;border-left:4px solid #B25E09}
+main{max-width:640px;margin:auto;padding:0 20px}
+.sep{font:600 13px var(--sans);color:var(--discret);margin:28px 0 4px;padding-top:12px;border-top:1px solid var(--trait)}
+article{border-bottom:1px solid var(--trait)}
+.titre{all:unset;display:block;width:100%;cursor:pointer;padding:16px 0 12px;font:600 19px/1.3 var(--serif);color:var(--encre)}
+.titre:focus-visible,nav button:focus-visible,.lien:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.meta{font-size:13px;color:var(--discret);margin:0 0 12px}
+article.lu .titre{color:var(--discret);font-weight:400}
+.detail{padding:0 0 18px}
+.detail p{margin:0 0 10px;font:17px/1.55 var(--serif);max-width:60ch}
+.detail .note{font:13px/1.4 var(--sans);color:var(--discret)}
+.lien{display:inline-block;font:600 15px var(--sans);color:var(--accent);padding:8px 0}
+.vide{padding:40px 0;color:var(--discret);font-size:15px}
+.avis{margin:16px 0 0;font-size:13px;color:var(--discret)}
+nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--encre);padding-bottom:env(safe-area-inset-bottom)}
+nav button{all:unset;flex:1;text-align:center;cursor:pointer;padding:18px 4px 16px;font:600 15px var(--sans);color:#9FB0BA;border-top:4px solid transparent}
+nav button[aria-selected=true]{color:#fff;border-top-color:var(--c)}
+@media (prefers-color-scheme:dark){nav{background:#0A1217;border-top:1px solid var(--trait)}}
+</style>
+</head>
+<body>
+<header><h1>Veille</h1><p id="maj"></p></header>
+<div id="alerte" hidden></div>
+<main id="liste"></main>
+<nav role="tablist" aria-label="Catégories">
+  <button role="tab" data-cat="sante" style="--c:#2BB89F">Santé</button>
+  <button role="tab" data-cat="economie" style="--c:#E8963A">Économie</button>
+  <button role="tab" data-cat="geopolitique" style="--c:#7E8CE6">Géopolitique</button>
+</nav>
+<script>
+const ACCENTS={sante:"#0E7C6B",economie:"#A55600",geopolitique:"#3B4BA8"};
+const jour=new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"long"});
+const heure=new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"});
+let data={articles:[]},cat="sante",lus=new Set();
+try{lus=new Set(JSON.parse(localStorage.getItem("lus")||"[]"));cat=localStorage.getItem("cat")||cat}catch(e){}
+const sauve=()=>{try{localStorage.setItem("lus",JSON.stringify([...lus]))}catch(e){}};
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e};
+
+function marqueLu(id,art){if(!lus.has(id)){lus.add(id);sauve()}art.classList.add("lu")}
+
+function carte(a){
+  const art=el("article",lus.has(a.id)?"lu":"");
+  const b=el("button","titre",a.titre);b.setAttribute("aria-expanded","false");
+  const d=el("div","detail");d.hidden=true;
+  d.append(el("p","meta",`${a.source} · publié le ${jour.format(new Date(a.publie))}`),el("p","",a.resume));
+  d.append(el("p","note","Résumé automatique, rédigé à partir des seules informations en libre accès"+(a.limite?" (extrait très court : lire la source pour le détail)":"")+"."));
+  const l=el("a","lien","Lire à la source");l.href=a.lien;l.target="_blank";l.rel="noopener noreferrer";
+  l.addEventListener("click",()=>marqueLu(a.id,art));d.append(l);
+  b.addEventListener("click",()=>{const o=d.hidden;d.hidden=!o;b.setAttribute("aria-expanded",o);if(o)marqueLu(a.id,art)});
+  art.append(b,d);return art;
+}
+
+function rendu(){
+  document.documentElement.style.setProperty("--accent",ACCENTS[cat]);
+  document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.cat===cat));
+  const m=document.getElementById("liste");m.replaceChildren();
+  const items=data.articles.filter(a=>a.cat===cat).sort((x,y)=>y.lot.localeCompare(x.lot)||y.publie.localeCompare(x.publie));
+  if(!items.length){m.append(el("p","vide","Aucun article pour l'instant. La prochaine mise à jour a lieu chaque matin."))}
+  let sep=false;
+  for(const a of items){
+    if(!sep&&a.lot!==data.lot&&items.some(i=>i.lot===data.lot)){m.append(el("h2","sep","Jours précédents"));sep=true}
+    m.append(carte(a));
+  }
+  if(cat==="sante")m.append(el("p","avis","Information générale issue de sources publiques : ne remplace pas un avis médical."));
+}
+
+document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>{cat=b.dataset.cat;try{localStorage.setItem("cat",cat)}catch(e){}rendu();scrollTo(0,0)}));
+
+fetch("data/articles.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{
+  data=j;
+  document.getElementById("maj").textContent=j.maj?"Mis à jour le "+heure.format(new Date(j.maj)):"";
+  const ids=new Set(j.articles.map(a=>a.id));lus=new Set([...lus].filter(i=>ids.has(i)));sauve();
+  const s=j.sources_silencieuses||[];
+  if(s.length){const a=document.getElementById("alerte");a.textContent="Sources sans activité récente : "+s.join(", ")+".";a.hidden=false}
+  rendu();
+}).catch(()=>{document.getElementById("maj").textContent="Données indisponibles. Réessayez avec une connexion.";rendu()});
+if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");
+</script>
+</body>
+</html>

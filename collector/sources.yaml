@@ -1,0 +1,23 @@
+# Sources candidates. Les URL de flux sont à VALIDER avec :  python collect.py --check
+# Un flux qui échoue se corrige ici (aucun code à toucher). Chercher "RSS" sur le site de la source.
+sources:
+  # --- Santé : institutions + revues à comité de lecture (pas de préprints) ---
+  - {nom: "OMS", cat: sante, type: organisation, url: "https://www.who.int/rss-feeds/news-english.xml"}
+  - {nom: "Nature Medicine", cat: sante, type: revue, url: "https://www.nature.com/nm.rss", agent: "Mozilla/5.0 (compatible; lecteur-rss)"}
+  - {nom: "The Lancet", cat: sante, type: revue, url: "https://www.thelancet.com/rssfeed/lancet_current.xml"}
+  - {nom: "NEJM", cat: sante, type: revue, url: "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss"}
+  - {nom: "CDC - MMWR", cat: sante, type: institution, url: "https://tools.cdc.gov/api/v2/resources/media/342778.rss"}
+  # À ajouter après recherche du flux : Santé publique France, Inserm, Institut Pasteur, HAS, ANSM, EMA
+
+  # --- Économie ---
+  - {nom: "BCE - communiqués", cat: economie, type: institution, url: "https://www.ecb.europa.eu/rss/press.html"}
+  #- {nom: "FMI", cat: economie, type: organisation, url: "https://www.imf.org/external/rss/rsslist/rsslist.aspx"}
+  #- {nom: "OCDE", cat: economie, type: organisation, url: "https://www.oecd.org/newsroom/rss.xml"}
+  #- {nom: "Banque mondiale", cat: economie, type: organisation, url: "https://www.worldbank.org/en/news/all/rss"}
+  # À ajouter : INSEE, Banque de France, Eurostat
+
+  # --- Géopolitique : sources multilatérales (étiquetées, pas de ligne nationale unique) ---
+  - {nom: "ONU Info", cat: geopolitique, type: organisation, url: "https://news.un.org/feed/subscribe/fr/news/all/rss.xml"}
+  #- {nom: "OTAN", cat: geopolitique, type: organisation, url: "https://www.nato.int/cps/en/natohq/news.rss"}
+  - {nom: "Conseil de l'UE", cat: geopolitique, type: organisation, url: "https://www.consilium.europa.eu/fr/rss/pressreleases.ashx"}
+  # À ajouter : France Diplomatie, et 1 ou 2 sources nationales étrangères (à étiqueter "source gouvernementale")
