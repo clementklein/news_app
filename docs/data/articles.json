@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-17T16:04:13.054467+00:00",
+ "maj": "2026-10-17T17:10:20.140131+00:00",
  "lot": "2026-10-17",
  "articles": [
   {
@@ -929,10 +929,5 @@
    "derniere_activite": "2026-10-17"
   }
  },
- "sources_silencieuses": [
-  "FMI",
-  "OCDE",
-  "Banque mondiale",
-  "OTAN"
- ]
+ "sources_silencieuses": []
 }
