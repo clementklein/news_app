@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-17T17:10:20.140131+00:00",
- "lot": "2026-10-17",
+ "maj": "2026-10-18T08:33:21.884521+00:00",
+ "lot": "2026-10-18",
  "articles": [
   {
    "id": "demo01",
@@ -901,32 +901,80 @@
    "type_source": "organisation",
    "publie": "2026-10-14T17:53:00+00:00",
    "lot": "2026-10-17"
+  },
+  {
+   "id": "15a9e7353454",
+   "cat": "sante",
+   "titre": "Spinal Tuberculosis",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2607513?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-17T11:30:00+00:00",
+   "lot": "2026-10-18"
+  },
+  {
+   "id": "59695c4e0af0",
+   "cat": "sante",
+   "titre": "What I See before Anyone Speaks",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2604584?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-17T11:30:00+00:00",
+   "lot": "2026-10-18"
+  },
+  {
+   "id": "93f0d1d55c55",
+   "cat": "sante",
+   "titre": "Why Shared-Savings ACOs Have Failed to Deliver for Primary Care",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2605590?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-17T11:30:00+00:00",
+   "lot": "2026-10-18"
+  },
+  {
+   "id": "bfd871113727",
+   "cat": "sante",
+   "titre": "Community Engagement Requirements in Medicaid — Law as a Determinant of Health",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2608810?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-17T11:30:00+00:00",
+   "lot": "2026-10-18"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-17"
+   "derniere_activite": "2026-10-18"
   }
  },
  "sources_silencieuses": []
