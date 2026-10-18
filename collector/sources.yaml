@@ -7,12 +7,17 @@ sources:
   - {nom: "The Lancet", cat: sante, type: revue, url: "https://www.thelancet.com/rssfeed/lancet_current.xml"}
   - {nom: "NEJM", cat: sante, type: revue, url: "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss"}
   - {nom: "CDC - MMWR", cat: sante, type: institution, url: "https://tools.cdc.gov/api/v2/resources/media/342778.rss"}
+  - {nom: "Institut pasteur", cat: sante, type: institution, url: "https://research.pasteur.fr/en/feed/"}
+  - {nom: "HAS guides", cat: sante, type: organisation, url: "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081452"}
+  - {nom: "HAS DM", cat: sante, type: organisation, url: "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081446"}
+  - {nom: "HAS bulletin officiel", cat: sante, type: organisation, url: "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3113093"}
   # À ajouter après recherche du flux : Santé publique France, Inserm, Institut Pasteur, HAS, ANSM, EMA
 
   # --- Économie ---
   - {nom: "BCE - communiqués", cat: economie, type: institution, url: "https://www.ecb.europa.eu/rss/press.html"}
-  #- {nom: "FMI", cat: economie, type: organisation, url: "https://www.imf.org/external/rss/rsslist/rsslist.aspx"}
-  #- {nom: "OCDE", cat: economie, type: organisation, url: "https://www.oecd.org/newsroom/rss.xml"}
+  - {nom: "INSEE", cat: economie, type: organisation, url: "https://www.insee.fr/fr/flux/2"}
+  - {nom: "OCDE", cat: economie, type: organisation, url: "https://api.oecd.org/webcms/search/rss?siteName=oecd&interfaceLanguage=fr&hiddenFacets=oecd-content-types%3Apublications%2Freports&hiddenFacets=oecd-content-types%3Apublications%2Fworking-papers&facets=oecd-languages%3Afr"}
+  - {nom: "Banque mondiale - rapports", cat: economie, type: organisation, api: banque_mondiale, url: "https://search.worldbank.org/api/v3/wds", rows: 50, params: {lang_exact: "English"}}
   #- {nom: "Banque mondiale", cat: economie, type: organisation, url: "https://www.worldbank.org/en/news/all/rss"}
   # À ajouter : INSEE, Banque de France, Eurostat
 
@@ -21,3 +26,7 @@ sources:
   #- {nom: "OTAN", cat: geopolitique, type: organisation, url: "https://www.nato.int/cps/en/natohq/news.rss"}
   - {nom: "Conseil de l'UE", cat: geopolitique, type: organisation, url: "https://www.consilium.europa.eu/fr/rss/pressreleases.ashx"}
   # À ajouter : France Diplomatie, et 1 ou 2 sources nationales étrangères (à étiqueter "source gouvernementale")
+
+
+  #--- Jobs
+  - {nom: "Pasteur ingé", cat: jobs, type: entreprise, url: "https://institutpasteur-recrute.talent-soft.com/handlers/offerRss.ashx?LCID=1036"}

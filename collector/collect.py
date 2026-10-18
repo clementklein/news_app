@@ -6,7 +6,7 @@ import argparse, calendar, hashlib, html, itertools, json, re, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
-import feedparser, yaml
+import feedparser, yaml, urllib
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT.parent / "docs" / "data" / "articles.json"
@@ -36,6 +36,9 @@ def date_entree(e):
 
 def lire_source(src, depuis):
     """Retourne (nb_entrées_du_flux, candidats récents)."""
+    if src.get("api") == "banque_mondiale":
+        return lire_api_bm(src, depuis)
+    
     f = feedparser.parse(src["url"], agent=UA)
     if not f.entries:
         return 0, []
@@ -60,6 +63,41 @@ def resumer(client, a):
     except Exception as ex:
         print(f"  ! résumé impossible ({a['source']}): {ex}", file=sys.stderr)
         return None
+
+
+def analyse_bm(j, src, depuis):
+    """Transforme la réponse JSON de l'API Documents & Reports en candidats."""
+    docs = j.get("documents", {})
+    out = []
+    for d in (docs.values() if isinstance(docs, dict) else docs):
+        if not isinstance(d, dict) or not d.get("display_title"):
+            continue
+        try:
+            date = datetime.fromisoformat(d["docdt"].replace("Z", "+00:00"))
+        except Exception:
+            continue
+        lien = d.get("url") or d.get("pdfurl")
+        ab = d.get("abstracts")
+        extrait = ab.get("cdata!", "") if isinstance(ab, dict) else (ab or "")
+        if lien and date >= depuis:
+            out.append({"titre_original": d["display_title"].strip(), "lien": lien, "publie": date.isoformat(),
+                        "extrait": " ".join(str(extrait).split())[:1500], "source": src["nom"],
+                        "type_source": src.get("type", ""), "cat": src["cat"]})
+    return len(docs), sorted(out, key=lambda a: a["publie"], reverse=True)
+
+
+def lire_api_bm(src, depuis):
+    params = {"format": "json", "rows": src.get("rows", 50), "srt": "docdt", "order": "desc",
+              "fl": "display_title,docdt,docty,url,pdfurl,abstracts",
+              "strdate": depuis.date().isoformat(), **src.get("params", {})}
+    url = src["url"] + "?" + urllib.parse.urlencode(params)
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
+            j = json.load(r)
+    except Exception as ex:
+        return 0, [], f"{type(ex).__name__}: {ex}"
+    n, cands = analyse_bm(j, src, depuis)
+    return n, cands, "API"
 
 
 def main():
