@@ -105,7 +105,7 @@ def main():
             acceptes += 1
             connus.add(a["id"])
             #"categorie": a["cat"], "titre": a["titre_original"], "extrait": a["extrait"]
-            articles.append({"id": a["id"], "cat": cat, "titre": a["titre_original"], "resume": a["extrait"],
+            articles.append({"id": a["id"], "cat": cat, "titre": a["titre_original"], "resume": a["extrait"][:300],
                              "limite": 0, "lien": a["lien"], "source": a["source"],
                              "type_source": a["type_source"], "publie": a["publie"], "lot": aujourdhui.isoformat()})
         print(f"{cat}: {acceptes} nouveaux articles")
