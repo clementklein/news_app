@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 import feedparser, yaml, urllib
+from connecteur_ats import lire_ats
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT.parent / "docs" / "data" / "articles.json"
@@ -38,6 +39,8 @@ def lire_source(src, depuis):
     """Retourne (nb_entrées_du_flux, candidats récents, diagnostic)."""
     if src.get("api") == "banque_mondiale":
         return lire_api_bm(src, depuis)
+    if src.get("ats"):
+        return lire_ats(src, depuis)
 
     f = feedparser.parse(src["url"], agent=src.get("agent", UA))
     diag = f"HTTP {f.get('status', '?')}" + (f", {type(f.bozo_exception).__name__}: {f.bozo_exception}" if f.bozo else "")

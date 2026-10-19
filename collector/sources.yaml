@@ -30,3 +30,5 @@ sources:
 
   #--- Jobs
   - {nom: "Pasteur ingé", cat: jobs, type: entreprise, url: "https://institutpasteur-recrute.talent-soft.com/handlers/offerRss.ashx?LCID=1036"}
+  - {nom: "Aidoc", cat: jobs, type: entreprise, ats: greenhouse, compte: "aidocmedical"}
+  - {nom: "Nom de l'entreprise", cat: jobs, type: entreprise, ats: lever, compte: "NOM_SUR_LE_SITE", mots_cles: ["biomédical", "biomedical"], lieux: ["France", "Paris"], jours: 7}
