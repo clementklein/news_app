@@ -35,13 +35,14 @@ def date_entree(e):
 
 
 def lire_source(src, depuis):
-    """Retourne (nb_entrées_du_flux, candidats récents)."""
+    """Retourne (nb_entrées_du_flux, candidats récents, diagnostic)."""
     if src.get("api") == "banque_mondiale":
         return lire_api_bm(src, depuis)
-    
-    f = feedparser.parse(src["url"], agent=UA)
+
+    f = feedparser.parse(src["url"], agent=src.get("agent", UA))
+    diag = f"HTTP {f.get('status', '?')}" + (f", {type(f.bozo_exception).__name__}: {f.bozo_exception}" if f.bozo else "")
     if not f.entries:
-        return 0, []
+        return 0, [], diag
     out = []
     for e in f.entries:
         d, lien, titre = date_entree(e), e.get("link"), nettoie(e.get("title"))
@@ -49,7 +50,7 @@ def lire_source(src, depuis):
             out.append({"titre_original": titre, "lien": lien, "publie": d.isoformat(),
                         "extrait": nettoie(e.get("summary"))[:1500], "source": src["nom"],
                         "type_source": src.get("type", ""), "cat": src["cat"]})
-    return len(f.entries), sorted(out, key=lambda a: a["publie"], reverse=True)
+    return len(f.entries), sorted(out, key=lambda a: a["publie"], reverse=True), diag
 
 
 def resumer(client, a):
@@ -116,8 +117,8 @@ def main():
 
     par_cat = {}
     for s in sources:
-        n, cands = lire_source(s, now - timedelta(hours=FENETRE_H))
-        print(f"{'OK ' if n else 'KO '} {s['nom']:<22} {n:>3} entrées, {len(cands)} récentes")
+        n, cands, diag = lire_source(s, now - timedelta(hours=FENETRE_H))
+        print(f"{'OK ' if n else 'KO '} {s['nom']:<22} {n:>3} entrées, {len(cands)} récentes" + ("" if n else f"  [{diag}]"))
         if n:
             etat[s["nom"]] = {"derniere_activite": aujourdhui.isoformat()}
         par_cat.setdefault(s["cat"], {}).setdefault(s["nom"], []).extend(cands)

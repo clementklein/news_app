@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-18T08:33:21.884521+00:00",
- "lot": "2026-10-18",
+ "maj": "2026-10-19T12:47:40.840918+00:00",
+ "lot": "2026-10-19",
  "articles": [
   {
    "id": "demo01",
@@ -39,18 +39,6 @@
    "lot": "2026-10-13"
   },
   {
-   "id": "demo04",
-   "cat": "sante",
-   "titre": "[Exemple] Article plus ancien",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": true,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-11T09:27:14.109986+00:00",
-   "lot": "2026-10-11"
-  },
-  {
    "id": "demo05",
    "cat": "economie",
    "titre": "[Exemple] Article du jour A",
@@ -87,18 +75,6 @@
    "lot": "2026-10-13"
   },
   {
-   "id": "demo08",
-   "cat": "economie",
-   "titre": "[Exemple] Article plus ancien",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": true,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-11T05:27:14.109986+00:00",
-   "lot": "2026-10-11"
-  },
-  {
    "id": "demo09",
    "cat": "geopolitique",
    "titre": "[Exemple] Article du jour A",
@@ -133,18 +109,6 @@
    "type_source": "organisation",
    "publie": "2026-10-13T02:27:14.109986+00:00",
    "lot": "2026-10-13"
-  },
-  {
-   "id": "demo12",
-   "cat": "geopolitique",
-   "titre": "[Exemple] Article plus ancien",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": true,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-11T01:27:14.109986+00:00",
-   "lot": "2026-10-11"
   },
   {
    "id": "7bac9686df5b",
@@ -949,33 +913,314 @@
    "type_source": "revue",
    "publie": "2026-10-17T11:30:00+00:00",
    "lot": "2026-10-18"
+  },
+  {
+   "id": "8b5e7807eb8f",
+   "cat": "sante",
+   "titre": "Waiting to get sick enough",
+   "resume": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04701-2",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-19T00:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "9e7427583e22",
+   "cat": "sante",
+   "titre": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
+   "resume": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04692-0 In a multiomic analysis of samples from patients with newly diagnosed multiple myeloma treated with isatuximab, carfilzomib, lenalidomide and dexamethasone induction therapy followed by consolidation treatment guided ",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04692-0",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-19T00:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "69afe8bb3edd",
+   "cat": "economie",
+   "titre": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-19T06:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "fa764e429f01",
+   "cat": "economie",
+   "titre": "Actionnariat et gouvernance des entreprises publiques 2026 (version abrégée)",
+   "resume": "Depuis une vingtaine d’années, les entreprises publiques, qui exercent leurs activités à la frontière entre l’action publique et le marché, jouent un rôle croissant dans l’économie mondiale. Le présent rapport vise à examiner les évolutions concernant l’actionnariat et la gouvernance des entreprises",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/actionnariat-et-gouvernance-des-entreprises-publiques-2026-version-abregee_e2b5454e-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-10-21T22:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "7f1f5a60d006",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125191591417",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "ecfb1ad45eaf",
+   "cat": "economie",
+   "titre": "Déclaration pays par pays – Recueil 2026 de rapports d’examen par les pairs (version abrégée) : Cadre inclusif sur le BEPS : Action 13",
+   "resume": "Dans le cadre du standard minimum de l’action 13, les juridictions se sont engagées à favoriser la transparence fiscale en demandant aux plus grands groupes d’entreprises multinationales de fournir la répartition globale de leurs revenus, impôts et autres indicateurs du lieu de l’activité économique",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/declaration-pays-par-pays-recueil-2026-de-rapports-d-examen-par-les-pairs-version-abregee_c2831e37-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T09:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "5194f770ea4a",
+   "cat": "economie",
+   "titre": "Official Documents- Loan Agreement for Loan 9619-BR.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125194536043",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "29adad54cc69",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment  No. 1 to the GRPBA Grant Agreement for Grant TF0B3026.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183538911",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "2d36a27218ec",
+   "cat": "economie",
+   "titre": "Livrabilul 6: Raport privind evaluarea ex-post a concursului național de\nrecrutare",
+   "resume": "În ultimul deceniu, România a urmărit un plan ambițios de modernizare a administrației sale publice, managementul resurselor umane (MRU) reprezentând o pârghie centrală pentru profesionalizare și guvernanță meritocratică. Ghidate de strategiile naționale de consolidare a administrației publice și de",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099052826051024774",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "a5985fd294ec",
+   "cat": "economie",
+   "titre": "Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183017477",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-30T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "33392ea39364",
+   "cat": "economie",
+   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK - P151169 - Supporting the economic inclusion of youth - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626041015489",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "f46330d518a7",
+   "cat": "economie",
+   "titre": "Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626034042413",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "4c66aee67185",
+   "cat": "economie",
+   "titre": "Suriname - LATIN AMERICA AND CARIBBEAN - P166187 - Competitiveness and Sector Diversification - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626035011907",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "b5795dae4ea3",
+   "cat": "economie",
+   "titre": "Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P508408- Bulsho: Strengthening Community and Local Institutions for Social Cohesion, Inclusion, and Resilience - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926051023454",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-19T04:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "5bd1c70b1503",
+   "cat": "geopolitique",
+   "titre": "One-year badge 2026 - accreditation is open",
+   "resume": "Information about accreditation requirements for the one-year badge (2026)",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T14:40:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "ded0b4bee43c",
+   "cat": "geopolitique",
+   "titre": "EU Integrated Resolve 2026 Exercise: Enhancing EU Crisis Response Coordination",
+   "resume": "The European Union is carrying out the 2026 edition of its crisis management exercise - EU Integrated Resolve (EU IR26).",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T14:00:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "5dcf014e58bd",
+   "cat": "geopolitique",
+   "titre": "European Peace Facility: Council adopts assistance measure to support defence capacities of Nigeria",
+   "resume": "The Council has adopted the first bilateral assistance measure under the European Peace Facility, worth €20 million, to support the Nigerian armed forces.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-nigeria/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T13:40:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "06cccf4a125c",
+   "cat": "geopolitique",
+   "titre": "Human rights: EU appoints a new Special Representative",
+   "resume": "The Council has appointed Ilze Brands Kehris as EU Special Representative for Human Rights, from 19 October 2026 to 29 February 2028.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T13:35:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "f8a9b31982ad",
+   "cat": "geopolitique",
+   "titre": "A place to call home: Council adopts recommendation on addressing housing exclusion and homelessness",
+   "resume": "The Council has adopted a recommendation setting out a person-centred, housing-led approach to preventing housing exclusion, including homelessness, in the EU.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/a-place-to-call-home-council-adopts-recommendation-on-tackling-housing-exclusion-and-homelessness/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T11:50:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "c3fce7bd9cbb",
+   "cat": "geopolitique",
+   "titre": "MFF 2028-2034: Council agrees position on the common market organisation for agricultural products",
+   "resume": "Council reaches partial negotiating position on an updated set of rules governing the common market organisation for agricultural products in the framework of the negotiations on the post-2027 MFF.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/mff-2028-2034-council-agrees-position-on-the-common-market-organisation-for-agricultural-products/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T11:32:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "f3d3d1f3ea69",
+   "cat": "geopolitique",
+   "titre": "Council calls for greater equality to boost EU competitiveness",
+   "resume": "The Council has approved conclusions calling for greater efforts to boost equality as a means of strengthening economic growth and competitiveness in Europe.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/council-calls-for-greater-equality-to-boost-eu-competitiveness/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T09:55:00+00:00",
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "515878615bdb",
+   "cat": "geopolitique",
+   "titre": "Council greenlights measures to protect workers from exposure to hazardous substances",
+   "resume": "The Council of the EU has adopted a set of revised rules aimed at protecting workers in the EU from exposure to hazardous substances that could cause illnesses such as cancer or asthma.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-19T09:44:00+00:00",
+   "lot": "2026-10-19"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-18"
+   "derniere_activite": "2026-10-19"
+  },
+  "Institut pasteur": {
+   "derniere_activite": "2026-10-19"
+  },
+  "INSEE": {
+   "derniere_activite": "2026-10-19"
+  },
+  "OCDE": {
+   "derniere_activite": "2026-10-19"
+  },
+  "Banque mondiale - rapports": {
+   "derniere_activite": "2026-10-19"
   }
  },
- "sources_silencieuses": []
+ "sources_silencieuses": [
+  "HAS guides",
+  "HAS DM",
+  "HAS bulletin officiel",
+  "Pasteur ingé"
+ ]
 }
