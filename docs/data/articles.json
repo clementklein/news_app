@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-19T20:16:08.197675+00:00",
- "lot": "2026-10-19",
+ "maj": "2026-10-20T09:07:49.127546+00:00",
+ "lot": "2026-10-20",
  "articles": [
   {
    "id": "demo01",
@@ -1705,54 +1705,260 @@
    "type_source": "entreprise",
    "publie": "2026-10-19T03:04:08-04:00",
    "lot": "2026-10-19"
+  },
+  {
+   "id": "18ada448671f",
+   "cat": "economie",
+   "titre": "Frank Elderson: Interview with Die Presse",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-20T07:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "e53fa2d232f1",
+   "cat": "economie",
+   "titre": "China - EAST ASIA AND PACIFIC - P177590 - Green Agricultural and Rural Revitalization Program for Results - Phase I - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926225529169",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "4b974da495df",
+   "cat": "economie",
+   "titre": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926235540769",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "a70aa7e624e0",
+   "cat": "economie",
+   "titre": "Bangladesh - SOUTH ASIA- P178077- Economic Acceleration and Resilience for NEET (EARN) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026024517149",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "9ebfcf3dd2a8",
+   "cat": "economie",
+   "titre": "China - EAST ASIA AND PACIFIC- P162178- China Food Safety Improvement Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926225021650",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "632d8c6b40c1",
+   "cat": "economie",
+   "titre": "Cambodia - EAST ASIA AND PACIFIC- P179159- Skills for Better Jobs Project  - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026014013405",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "07c37a6bc92c",
+   "cat": "economie",
+   "titre": "Madagascar - EASTERN AND SOUTHERN AFRICA- P176811- Madagascar Road Sector Sustainability Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026015520599",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "fb0ccc6c9a62",
+   "cat": "economie",
+   "titre": "Solomon Islands - EAST ASIA AND PACIFIC- P180723- Building Capacity in Statistics and Audit Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026015526629",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "ca81bb551316",
+   "cat": "economie",
+   "titre": "Tunisia - MID EAST,NORTH AFRICA,AFG,PAK- P182014- Preparation Facility Tunisia Water Security and Resilience Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026002528014",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "6eaf6a80062d",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P180811- Indonesia Health Systems Strengthening Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026023529424",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "94bcbd50fc89",
+   "cat": "economie",
+   "titre": "Disclosable Restructuring Paper - Digital Tanzania Project - P160766",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926233016066",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "7924ff65f9e9",
+   "cat": "economie",
+   "titre": "Disclosable Restructuring Paper - Water Emergency Relief Project - P179311",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101926214536397",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-20T04:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "de31189547ac",
+   "cat": "geopolitique",
+   "titre": "Enfants soldats : le Conseil de sécurité s’attaque au recrutement en ligne",
+   "resume": "Un Android ou un iPad peuvent désormais suffire à un groupe armé pour enrôler un enfant. Lundi, le Conseil de sécurité de l’ONU a adopté à l’unanimité une résolution visant à mieux protéger les mineurs contre leur recrutement dans l’espace numérique. Derrière ce consensus, plusieurs pays, dont les É",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159690",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-19T12:00:00+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "1ed6e1d6b8b7",
+   "cat": "jobs",
+   "titre": "2026-18022 - Ingénieur de Recherche Virologie H/F/X",
+   "resume": "Métier : Autres domaines Ingénierie de la recherche/Ingénieur de recherche Type de contrat : Contrat à durée déterminée Description du poste : Dans le cadre de l'étude de VIRAGE (https://clinicaltrials.gov/study/NCT07539103), nous recherchons un(e) Ingénieur(e) de recherche virologie pour rejoindre ",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18022&idOrigine=502&LCID=1036&offerReference=2026-18022",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-10-19T12:47:30+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "e9140fe3b38c",
+   "cat": "jobs",
+   "titre": "Legal Director",
+   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5009604101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-10-20T02:52:39-04:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "a1fcbaae8503",
+   "cat": "jobs",
+   "titre": "2026-17801 - Technicien de recherche Virologie H/F/X",
+   "resume": "Métier : Autres domaines Ingénierie de la recherche/Technicien supérieur de recherche Type de contrat : Contrat à durée déterminée Description du poste : Le poste est à pourvoir au sein du CNR des Virus Influenzae. Ce centre est chargé de la surveillance virologique et épidémiologique de la grippe e",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17801&idOrigine=502&LCID=1036&offerReference=2026-17801",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-10-17T23:02:13+00:00",
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "e9a87edee8d9",
+   "cat": "jobs",
+   "titre": "Regional Development Manager (Inside Sales)",
+   "resume": "US. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016, Aidoc has raised over $500 million a",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5010389101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-10-19T17:57:39-04:00",
+   "lot": "2026-10-20"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-19"
+   "derniere_activite": "2026-10-20"
+  },
+  "Pasteur ingé": {
+   "derniere_activite": "2026-10-20"
   }
  },
  "sources_silencieuses": [
   "HAS guides",
   "HAS DM",
   "HAS bulletin officiel",
-  "Pasteur ingé",
   "Nom de l'entreprise"
  ]
 }
