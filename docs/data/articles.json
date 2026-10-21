@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-20T09:07:49.127546+00:00",
- "lot": "2026-10-20",
+ "maj": "2026-10-21T09:07:38.697048+00:00",
+ "lot": "2026-10-21",
  "articles": [
   {
    "id": "demo01",
@@ -27,18 +27,6 @@
    "lot": "2026-10-14"
   },
   {
-   "id": "demo03",
-   "cat": "sante",
-   "titre": "[Exemple] Article de la veille",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": false,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-13T10:27:14.109986+00:00",
-   "lot": "2026-10-13"
-  },
-  {
    "id": "demo05",
    "cat": "economie",
    "titre": "[Exemple] Article du jour A",
@@ -63,18 +51,6 @@
    "lot": "2026-10-14"
   },
   {
-   "id": "demo07",
-   "cat": "economie",
-   "titre": "[Exemple] Article de la veille",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": false,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-13T06:27:14.109986+00:00",
-   "lot": "2026-10-13"
-  },
-  {
    "id": "demo09",
    "cat": "geopolitique",
    "titre": "[Exemple] Article du jour A",
@@ -97,18 +73,6 @@
    "type_source": "organisation",
    "publie": "2026-10-14T03:27:14.109986+00:00",
    "lot": "2026-10-14"
-  },
-  {
-   "id": "demo11",
-   "cat": "geopolitique",
-   "titre": "[Exemple] Article de la veille",
-   "resume": "Texte fictif pour tester l'affichage. Les vrais résumés apparaîtront après la première collecte.",
-   "limite": false,
-   "lien": "https://example.com/",
-   "source": "Source de démonstration",
-   "type_source": "organisation",
-   "publie": "2026-10-13T02:27:14.109986+00:00",
-   "lot": "2026-10-13"
   },
   {
    "id": "7bac9686df5b",
@@ -1909,50 +1873,386 @@
    "type_source": "entreprise",
    "publie": "2026-10-19T17:57:39-04:00",
    "lot": "2026-10-20"
+  },
+  {
+   "id": "d63c26854b0b",
+   "cat": "sante",
+   "titre": "Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
+   "resume": "Nature Medicine, Published online: 20 October 2026; doi:10.1038/s41591-026-04757-0 Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04757-0",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-20T00:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "4d3f46ef0cac",
+   "cat": "sante",
+   "titre": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611477?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-21T06:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "86d050633f6b",
+   "cat": "sante",
+   "titre": "Mechanical heterogeneity in cancer cell collectives (Artur Ruppel’s research)",
+   "resume": "No two cells in a tissue are the same. In a tumour the differences are stark: soft cells next to stiff ones, regions that flow next to regions that are stuck. Physics has models […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/project/mechanical-heterogeneity-in-cancer-cell-collectives-artur-ruppels-research/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-10-20T13:48:49+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "d8a178347842",
+   "cat": "sante",
+   "titre": "Prix du Poster Eloi Vincent JDD ( 8-10 juin 2026)",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/news/prix-du-poster-eloi-vincent-jdd-8-10-juin-2026/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-10-20T13:17:25+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "c89c45c47763",
+   "cat": "economie",
+   "titre": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-21T08:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "b4388548771b",
+   "cat": "economie",
+   "titre": "Les entreprises en France",
+   "resume": "Cet espace recense les analyses structurelles sur les entreprises en France, leurs caractéristiques, leur diversité, leur dynamique de croissance et de renouvellement, leurs performances, l’emploi qu’elles génèrent. Les analyses traitent également des grands enjeux de l’économie française (mondialis",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/7667330",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-10-21T07:24:47+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "c66aeb50a0f6",
+   "cat": "economie",
+   "titre": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-21T04:15:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "dd18687f028d",
+   "cat": "economie",
+   "titre": "Les fortes hausses de prix entre 2020 et 2024 ont favorisé la rentabilité économique des grossistes de l’agroalimentaire",
+   "resume": "Les grossistes de l’agroalimentaire sont des acteurs majeurs de la distribution de ces produits, qui réalisent 49 milliards d’euros de marge commerciale en 2025. Entre 2020 et 2024, les prix du commerce de gros agroalimentaire ont fortement augmenté, dans le sillage de la hausse des cours mondiaux d",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9086100",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-10-20T15:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "0bae1f84df84",
+   "cat": "economie",
+   "titre": "Gabon - WESTERN AND CENTRAL AFRICA- P175987- Digital Gabon Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026204520796",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "bffcd1126730",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Indonesia Supporting Tuberculosis Elimination Project - P514808",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026235023541",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "cec5e419e0a5",
+   "cat": "economie",
+   "titre": "Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P121507- Dasu Hydropower Stage I Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026215077405",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "4da225671cc5",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for Resilient Surveillance and Pandemic Preparedness in Indonesia Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102126001520159",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "9f940134ceac",
+   "cat": "economie",
+   "titre": "Appraisal Environmental and Social Review Summary (ESRS) - Indonesia Supporting Tuberculosis Elimination Project - P514808",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102026235020942",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "127473cae173",
+   "cat": "economie",
+   "titre": "Uzbekistan - EUROPE AND CENTRAL ASIA- P181922- Uzbekistan - National Energy-Efficient Heating and Cooling Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102126015521286",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "17be174757ff",
+   "cat": "economie",
+   "titre": "India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102126001527280",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "361b08a40151",
+   "cat": "economie",
+   "titre": "India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102126002040435",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-21T04:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "856316519f60",
+   "cat": "geopolitique",
+   "titre": "Soudan : les frappes de drones se multiplient dans les marchés et les quartiers résidentiels",
+   "resume": "Une douzaine d’enfants ont été tués ces derniers jours dans des attaques au Soudan, tandis qu’une frappe de drone sur un marché aurait fait plus de 150 morts dans la région disputée d’Abyei. Mardi, l’ONU a dénoncé la multiplication des bombardements, imputés aux deux camps, à la veille de nouvelles ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159699",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "bc817455b7bf",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Agriculture and Fisheries Council of 26-27 October 2026",
+   "resume": "Press briefing ahead of the upcoming Agriculture and Fisheries Council will take place on 23 October 2026 at 13:00.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/press-briefing-agriculture-and-fisheries-council-of-26-27-october-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-21T11:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "7b660ffb5a6d",
+   "cat": "geopolitique",
+   "titre": "Kosovo : les fractures communautaires inquiètent l’ONU",
+   "resume": "Face à la montée des tensions au Kosovo, l’ONU appelle Belgrade et Pristina à relancer le dialogue, à faire respecter les droits de toutes les communautés et à poursuivre les efforts de réconciliation. Devant le Conseil de sécurité, mardi, un haut responsable onusien a notamment mis en garde contre ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159698",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "4456cc7e512b",
+   "cat": "geopolitique",
+   "titre": "Rapport du président António Costa au Parlement européen réuni en séance plénière",
+   "resume": "António Costa, président du Conseil européen, a présenté à la plénière du Parlement européen, à Strasbourg, un compte rendu des discussions qui ont eu lieu lors de la réunion du Conseil européen des 15 et 16 octobre 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/report-by-president-antonio-costa-to-the-european-parliament-plenary-session/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-21T10:25:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "5b00e8b2365d",
+   "cat": "geopolitique",
+   "titre": "IA : l’ONU alerte sur le risque d’une guerre menée par les machines",
+   "resume": "L’intelligence artificielle s’impose dans les arsenaux militaires, accélérant les décisions et réduisant la part du jugement humain, y compris dans le domaine nucléaire. Mardi, l’ONU a mis en garde contre une évolution que les règles internationales peinent à encadrer, tout en annonçant plusieurs in",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159697",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "aa943c199bb2",
+   "cat": "geopolitique",
+   "titre": "Joint statement by the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen",
+   "resume": "Joint statement by the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/20/joint-statement-by-the-president-of-the-european-council-and-the-president-of-the-european-commission/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-20T21:30:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "5d674aa71334",
+   "cat": "geopolitique",
+   "titre": "Manifestations en Europe : l’ONU dénonce les violences et met en garde contre la répression",
+   "resume": "De la France à la Belgique en passant par l'Italie, la colère sociale gagne plusieurs pays européens, portée notamment par une jeunesse exaspérée par la vie chère, la crise du logement et la dégradation des services publics. Mardi, le chef des droits humains à l’ONU a condamné les violences qui émai",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159695",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "a2a804b403f6",
+   "cat": "geopolitique",
+   "titre": "Council and Parliament strike deal on updated measures to support organic farming in the EU",
+   "resume": "The Council and the European Parliament have reached a provisional agreement on simpler and clearer rules on the production, labelling, certification and trade of organic products.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/20/council-and-parliament-strike-deal-on-updated-measures-to-support-organic-farming-in-the-eu/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:20:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "6f6ea03d0b34",
+   "cat": "geopolitique",
+   "titre": "Yémen : Taëz encerclée, l’ONU craint une catastrophe humanitaire",
+   "resume": "L’encerclement de Taëz par les rebelles houthis entrave l’acheminement de l’aide et aggrave une crise déjà marquée par la faim, les pénuries d’eau et la progression du choléra. Le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, a appelé mardi à rouvrir immédiatement les voies ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159691",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "a8ecdd98413c",
+   "cat": "geopolitique",
+   "titre": "Maladies non transmissibles : le poids des inégalités de sexe et de revenus",
+   "resume": "Tabagisme, alcool, pollution, dépistage : les risques liés aux maladies non transmissibles et l’accès aux soins varient fortement selon le sexe, les revenus et le lieu de résidence, souligne un rapport de l’Organisation mondiale de la santé (OMS). Ces maladies, dont les cancers, les affections cardi",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159693",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "3422bf49f0a9",
+   "cat": "geopolitique",
+   "titre": "Faim en Afghanistan : la nourriture est là, mais reste hors de portée de millions de personnes",
+   "resume": "En Afghanistan, des millions de personnes peinent toujours à se nourrir, malgré une amélioration des précipitations et de la production agricole. La pauvreté, le coût des intrants agricoles et l’accès limité aux services essentiels empêchent de nombreuses familles de sortir de la crise. Plus de 19 m",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159692",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "017d9b7c0bb1",
+   "cat": "geopolitique",
+   "titre": "Centrafrique : les progrès de la paix menacés par la violence aux frontières",
+   "resume": "Malgré le désarmement de près de 2 000 combattants et la finalisation progressive du dernier cycle électoral, la République centrafricaine reste confrontée à une recrudescence des violences dans l'est du pays. Mardi, l'ONU a mis en garde contre un retrait prématuré de ses Casques bleus, alors que la",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159694",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-20T12:00:00+00:00",
+   "lot": "2026-10-21"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-20"
+   "derniere_activite": "2026-10-21"
   }
  },
  "sources_silencieuses": [
