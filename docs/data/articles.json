@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-23T09:06:30.097201+00:00",
- "lot": "2026-10-23",
+ "maj": "2026-10-24T08:39:25.759294+00:00",
+ "lot": "2026-10-24",
  "articles": [
   {
    "id": "7bac9686df5b",
@@ -3073,50 +3073,482 @@
    "type_source": "entreprise",
    "publie": "2026-10-22T13:58:23+00:00",
    "lot": "2026-10-23"
+  },
+  {
+   "id": "c9e6283ece42",
+   "cat": "sante",
+   "titre": "Anbenitamab plus HB1801 for HER2-Positive Advanced Breast Cancer",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610345?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T06:30:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "ddd60b99c382",
+   "cat": "sante",
+   "titre": "Zakaria M. Mougin",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/zakaria-mougin-copy/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-10-23T14:47:59+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "cb1053e056a4",
+   "cat": "sante",
+   "titre": "Targeting HER2 — A Triumph of Science",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2611466?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T06:30:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "e574c577b8e8",
+   "cat": "sante",
+   "titre": "Trial of Endovascular Therapy for Mild Stroke with Large-Vessel Occlusion",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609149?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T01:40:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "0a484441118b",
+   "cat": "sante",
+   "titre": "[World Report] Latvian alcohol control policies reducing harms",
+   "resume": "Latvia has one of the world's highest rates of alcohol consumption but recent policy changes are starting to lessen direct harms to health. Ed Holt reports.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02115-X/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "8c46764ca0f9",
+   "cat": "sante",
+   "titre": "Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609362?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T01:40:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "6d89b9ad3edd",
+   "cat": "sante",
+   "titre": "[Perspectives] A guide to anti-racist medicine",
+   "resume": "Far-right movements in many countries are fuelling xenophobia and racism and gaining traction through policy and media. By conflating equity with equality in their attacks on initiatives to advance equity, diversity, and inclusion, these movements are weaponising equality to foster societal division",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02110-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "72dbd6904ffa",
+   "cat": "sante",
+   "titre": "Expanding the Evidence and Indications for Thrombectomy in Ischemic Stroke",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2612692?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T01:40:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "3196351d691b",
+   "cat": "sante",
+   "titre": "[Perspectives] Wisdom and tenderness",
+   "resume": "In the wake of the COVID-19 pandemic, the widespread mental health toll of the pandemic was quickly appreciated by communities, educators, and health-care providers. Children, adolescents, and young adults generally fared the worst, despite having lower rates of severe COVID-19 morbidity, hospitalis",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02111-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "67e73b548aca",
+   "cat": "sante",
+   "titre": "Ravulizumab in IgA Nephropathy — Interim Analysis of a Phase 3 Trial",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607544?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-23T04:30:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "95dbd98a31bb",
+   "cat": "sante",
+   "titre": "[Perspectives] Longevity is a political concern",
+   "resume": "Having immersed myself in death and dying for well over a decade—I wrote a book, The Way We Die Now (2016), and was later a member of the Lancet Commission on The Value of Death—it was inevitable that I would become interested in the flip side of that subject: the world of longevity. I use the word ",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02112-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "cc408a7f9618",
+   "cat": "sante",
+   "titre": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608682?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-23T04:30:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "23d46987719e",
+   "cat": "economie",
+   "titre": "Piero Cipollone: Interview with Milano Finanza",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-24T06:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "83249cb0d38b",
+   "cat": "economie",
+   "titre": "Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P177627- Barwaaqo - Somalia Water for Rural Resilience Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326035531103",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "4d3c49f6ad1b",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Sudan Primary Education Emergency Support Project - P504621 - Sequence No : 5",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326050015337",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "6fa7c89cdae5",
+   "cat": "economie",
+   "titre": "Zambia - EASTERN AND SOUTHERN AFRICA- P512746- SUPPORT TO TRANSPARENCY IN ENERGY TRANSITION MINERALS DEVELOPMENT - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326070016137",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "dd95de068ff6",
+   "cat": "economie",
+   "titre": "Project Paper",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326070016535",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "b296f21c6992",
+   "cat": "economie",
+   "titre": "Kenya - EASTERN AND SOUTHERN AFRICA- P176758- NATIONAL AGRICULTURAL VALUE CHAIN DEVELOPMENT PROJECT (NAVCDP) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326075013443",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "aac45a1c181d",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment to the Financing Agreement for Grant E189-ST.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326095012585",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "f2b0102106d1",
+   "cat": "economie",
+   "titre": "Official Documents- Financing Agreement for Additional Financing for Grant E782-ST.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326095017848",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "4d9ff6b0a819",
+   "cat": "economie",
+   "titre": "Official Documents- Emission Reductions Payment Agreement by and between Kyrgyz Republic and the IBRD for TF0D1618-KG.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326134512918",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "655d86e99caa",
+   "cat": "economie",
+   "titre": "Core Health Insurance Functions: Member Management",
+   "resume": "Member management refers to the administrative tasks that manage the relationship between the purchaser or insurer and the insured individual across the full coverage lifecycle. Core tasks include determining eligibility, registering and enrolling members, maintaining accurate member data, and custo",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326134514523",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "2b8877a095d9",
+   "cat": "economie",
+   "titre": "Central Asia - EUROPE AND CENTRAL ASIA- P174135- RESILAND CA+ Program: Uzbekistan Resilient Landscapes Restoration Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326064022579",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "56c3b631a62f",
+   "cat": "economie",
+   "titre": "Botswana - EASTERN AND SOUTHERN AFRICA- P510190- Botswana Health Emergency Preparedness, Response and Resilience Project Using the Multi-Phase Programmatic Approach - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326065526852",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "fb20783a3d3e",
+   "cat": "geopolitique",
+   "titre": "Cisjordanie : l’ONU dénonce les bouclages israéliens après une attaque meurtrière à Hébron",
+   "resume": "L’ONU s’est déclarée vendredi « extrêmement alarmée » par l’escalade de la violence en Cisjordanie occupée, après qu’Israël a imposé de nouvelles restrictions de circulation à la suite d’une attaque meurtrière contre ses soldats près de Hébron. Le Secrétaire général, António Guterres, s’inquiète not",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159721",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-23T12:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "69b31284f503",
+   "cat": "geopolitique",
+   "titre": "Forward look: 26 October - 8 November 2026",
+   "resume": "Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/forward-look-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T17:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "1a1979704371",
+   "cat": "geopolitique",
+   "titre": "Nucléaire iranien : l’AIEA presse Téhéran de rouvrir ses installations aux inspecteurs",
+   "resume": "Alors que les négociations sur le programme nucléaire iranien restent dans l’impasse, le chef de l’Agence internationale de l’énergie atomique (AIEA), Rafael Grossi, a appelé vendredi à un retour rapide de ses inspecteurs en Iran. Depuis le siège de l’ONU, à New York, il a également alerté sur les f",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159719",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-23T12:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "27a9a747c356",
+   "cat": "geopolitique",
+   "titre": "Weekly schedule of President António Costa",
+   "resume": "Weekly schedule of President António Costa, 26 October-1 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T17:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "a43a0d907d04",
+   "cat": "geopolitique",
+   "titre": "RDC : la crise alimentaire s’aggrave dans les zones touchées par Ebola",
+   "resume": "Alors que l'épidémie d'Ebola de souche Bundibugyo s’est propagée au Nigéria, près de 3,5 millions de personnes sont confrontées à de graves pénuries alimentaires dans les zones touchées par cette épidémie en République démocratique du Congo (RDC), a alerté vendredi une agence des Nations Unies.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159716",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-23T12:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "64eeced171c5",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Agriculture and Fisheries Council of 26-27 October 2026",
+   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T16:35:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "947a1332bf23",
+   "cat": "geopolitique",
+   "titre": "Yémen : l'inquiétude grandit à Taëz, alors que l’aide humanitaire reste bloquée",
+   "resume": "Les agences humanitaires ont alerté vendredi sur l’aggravation de la crise humanitaire dans la ville de Taëz, le long de la côte ouest du Yémen, qui est encerclée par les rebelles houthistes affrontant les troupes gouvernementales.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159717",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-23T12:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "4745b033752f",
+   "cat": "geopolitique",
+   "titre": "Press briefing - EU-Canada summit of 29-30 October 2026",
+   "resume": "The press briefing will take place on Tuesday 27 October 2026 at 10:30.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T16:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "7b2e55382606",
+   "cat": "geopolitique",
+   "titre": "El Fasher : un an après l’horreur, les survivantes restent hantées par la peur",
+   "resume": "Un an après les atrocités commises à El Fasher, au Darfour soudanais, les femmes et les filles qui ont fui la ville continuent de subir les conséquences des violences. Une enquête d’ONU Femmes révèle l’ampleur des traumatismes psychologiques, aggravés par les disparitions, la précarité et l’absence ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159715",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-23T12:00:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "06209df571c6",
+   "cat": "geopolitique",
+   "titre": "Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956",
+   "resume": "On 23 October 2026, European Council President António Costa travelled to Budapest and delivered a speech to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T15:30:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "06c9e714935e",
+   "cat": "geopolitique",
+   "titre": "EU Inc: Council adopts position on a new EU corporate law for innovative companies",
+   "resume": "Council adopts its negotiating position on the regulation to create a 28th regime corporate legal framework, EU inc.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T11:39:00+00:00",
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "6bc174cb611c",
+   "cat": "geopolitique",
+   "titre": "Informations destinées aux médias - Accréditation pour le Conseil européen extraordinaire des 26 et 27 novembre 2026",
+   "resume": "Le Conseil européen extraordinaire se tiendra les 26 et 27 novembre 2026 dans le bâtiment Europa à Bruxelles.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-and-27-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-23T11:30:00+00:00",
+   "lot": "2026-10-24"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "Nature Medicine": {
    "derniere_activite": "2026-10-23"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-24"
   }
  },
  "sources_silencieuses": [
