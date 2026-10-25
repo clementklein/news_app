@@ -1,763 +1,7 @@
 {
- "maj": "2026-10-24T08:39:25.759294+00:00",
- "lot": "2026-10-24",
+ "maj": "2026-10-25T08:57:21.804335+00:00",
+ "lot": "2026-10-25",
  "articles": [
-  {
-   "id": "7bac9686df5b",
-   "cat": "sante",
-   "titre": "[Comment] Establishing cardiovascular safety of the small-molecule GLP-1 receptor agonist orforglipron in type 2 diabetes",
-   "resume": "Cardiovascular outcomes trials with GLP-1 receptor agonists, which to date have largely comprised peptide analogues of the incretin hormone GLP-1, have evolved from studies primarily designed to establish cardiovascular safety to trials demonstrating cardiovascular benefit.1–3 Substantial reductions in major adverse cardiovascular events (MACE) and kidney protection have been demonstrated with multiple GLP-1 receptor agonists for subcutaneous administration,1–3 and, more recently, with oral semaglutide.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02045-3/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "8cf79d753fc2",
-   "cat": "sante",
-   "titre": "Notes from the Field: Molecular Detections of Cladophialophora bantiana at a Clinical Reference Laboratory - United States, 2009-2026",
-   "resume": "This report describes 48 confirmed cases and one probable case of C. bantiana in clinical samples from 2009-2026.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766563",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-15T19:42:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "3b4e2fbb9761",
-   "cat": "sante",
-   "titre": "[Comment] Making every vial count: fractional dosing of yellow fever vaccine",
-   "resume": "Yellow fever is an important public health problem, but vaccine manufacturing cannot be scaled up easily, making it necessary to use existing vaccine stocks to protect as many people as possible. Fractional doses, usually one-fifth of a vial, have been used during outbreaks. The use of fractional doses is supported by evidence in adults showing immunogenicity1,2 and is endorsed by WHO.3 Yellow fever vaccine is routinely given to infants and young children in endemic areas, but whether fractional dosing is effective in children was unclear until recent trials from 2023 and 2026 addressed this question.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01863-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "88ae4793542a",
-   "cat": "sante",
-   "titre": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
-   "resume": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-15T19:42:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "36bc7465a11a",
-   "cat": "sante",
-   "titre": "[Comment] Shortening treatment to accelerate hepatitis C elimination",
-   "resume": "Simple oral direct-acting antiviral treatment for hepatitis C virus (HCV) infection has transformed clinical management and paved the way for elimination.1 The first pan-genotypic fixed-dose combination regimen, sofosbuvir–velpatasvir, was approved for use in 2016, with the second, glecaprevir–pibrentasvir, following in 2017. Both recommended first-line HCV treatments for people with or without compensated cirrhosis share several important features—high efficacy, excellent tolerability, oral administration, once daily dosing—but differ by pill burden, treatment duration, and availability, with sofosbuvir–velpatasvir prescribed for 12 weeks (one tablet daily; available as a generic formulation) and glecaprevir–pibrentasvir for 8 weeks (three tablets daily; under patent protection).",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01613-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "b5c9b8d24042",
-   "cat": "sante",
-   "titre": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
-   "resume": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-15T19:42:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "c0b9c8831b99",
-   "cat": "sante",
-   "titre": "[Comment] Offline: In praise of astrologers, sorcerers, and magicians",
-   "resume": "“Prophecies are the grounds on which fights over the future take place”, writes Carissa Véliz in Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI (2026). That fight intensified this week with the publication of our Commission on 21st century global threats to health. Commissioners reviewed almost 400 risks to human health. They identified two existential threats and 15 major catastrophic threats. The peer review process was instructive about how these findings might be received.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02083-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "c2d93c973b5a",
-   "cat": "sante",
-   "titre": "QuickStats: Age-Adjusted Female Breast Cancer Death Rates, by State - United States, 2024",
-   "resume": "This report describes age-adjusted female breast cancer death rates in the U.S. during 2024.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766651",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-15T19:42:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "85667f5ffc5e",
-   "cat": "sante",
-   "titre": "[World Report] “You have to be willing to take risks”: the 2026 Nobel prizes",
-   "resume": "Karl Deisseroth, Peter Hegemann, and Georg Nagel have been awarded the 2026 Nobel Prize in Physiology or Medicine. Talha Burki reports.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02082-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "b96c2023eb4e",
-   "cat": "sante",
-   "titre": "[World Report] Health in Brazil's election",
-   "resume": "Ahead of a presidential runoff between Lula and Flávio Bolsonaro, experts outline what is at stake for health. Luke Taylor reports from Rio de Janeiro.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02084-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "4919c4ed796b",
-   "cat": "sante",
-   "titre": "[Perspectives] Shadows and interiority",
-   "resume": "American television series The Pitt may have redefined the popularity of medical drama, but hospitals have always provided a rich seam for creatives, whether their medium is page or screen. From novels like Aleksandr Solzhenitsyn's 1966 Soviet-era Cancer Ward and Abraham Verghese's epic saga Cutting for Stone (2009) all the way through to television dramas such as Casualty, ER, and Grey's Anatomy, it seems we can’t get enough of human stories played out in a tense clinical setting. This is the absolute opposite of what author Chloe Aridjis does in The Shadow of the Object.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02050-7/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "af7c43072366",
-   "cat": "sante",
-   "titre": "[Perspectives] Beyond the battlefield: war and global health security",
-   "resume": "During the Syrian war (2011–24), the Assad Government forces and their Russian allies conducted hundreds of strikes on medical facilities in opposition-held areas. Monitoring groups documented over 600 attacks on health care, resulting in the deaths of hundreds of health-care workers throughout the conflict. Hospitals in eastern Aleppo and other contested regions were reduced to rubble. Surgeons operated in underground rooms illuminated by generators, and ambulances were targeted while transporting patients between sites.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02051-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "e545c030814a",
-   "cat": "economie",
-   "titre": "Christine Lagarde: IMFC Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-17T05:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "01936ff04ac2",
-   "cat": "geopolitique",
-   "titre": "Ebola : au Kenya, un troisième cas détecté en quarantaine",
-   "resume": "Le Kenya a confirmé vendredi un nouveau cas d’Ebola, portant à trois le nombre de personnes infectées dans le pays, dont une décédée. Déjà placé en quarantaine, le patient a été détecté dès l’apparition des premiers symptômes, limitant le risque de propagation du virus, selon l’Organisation mondiale de la santé (OMS).",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159683",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "74a07a1994a9",
-   "cat": "geopolitique",
-   "titre": "Calendrier à venir: 19 octobre – 1er novembre 2026",
-   "resume": "Aperçu des principaux sujets qui seront examinés lors des sessions du Conseil de l'UE au cours des deux prochaines semaines et événements médias à venir.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/17/forward-look-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-17T14:20:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "60792c3738ee",
-   "cat": "geopolitique",
-   "titre": "À l’approche de la conférence sur le climat, l’ONU appelle à passer des promesses aux actes",
-   "resume": "À moins d’un mois de la Conférence des Nations Unies sur le climat, COP31, le président de l’Assemblée générale des Nations Unies, Khalilur Rahman, a appelé les États à transformer leurs engagements climatiques en actions concrètes, financées et mesurables. Il a plaidé pour un meilleur accès aux financements, le renforcement de l’adaptation et des systèmes d’alerte précoce afin de protéger les populations les plus vulnérables.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159681",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "815c480941fb",
-   "cat": "geopolitique",
-   "titre": "Weekly schedule of President António Costa",
-   "resume": "Weekly schedule of President António Costa, 19-25 October 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/weekly-schedule-of-president-antonio-costa/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T20:30:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "9f9c91b47a47",
-   "cat": "geopolitique",
-   "titre": "La faim recule dans le monde, mais la famine revient comme arme de guerre",
-   "resume": "Alors que le nombre de personnes souffrant de la faim a légèrement diminué, les situations de famine se multiplient, alimentées par les conflits, les bouleversements climatiques et les perturbations du commerce mondial. Vendredi, l’ONU dénonce le paradoxe d’un monde qui dispose des moyens de nourrir sa population, mais laisse des millions de personnes privées de nourriture.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159682",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "a961995e79ed",
-   "cat": "geopolitique",
-   "titre": "Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026",
-   "resume": "During the press conference held after at the end of the European Council meeting of 15-16 October 2026, President António Costa presented the main results of the discussions on competitiveness and energy prices, trade, the next multiannual financial framework, Ukraine, and migration.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T20:13:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "7c00fca81d8d",
-   "cat": "geopolitique",
-   "titre": "À Gaza, une enfance en mode survie malgré le cessez-le-feu",
-   "resume": "À Gaza, les enfants continuent d’être tués malgré le cessez-le-feu. Au cours des deux dernières semaines, sept auraient perdu la vie et au moins 33 autres auraient été grièvement blessés dans des frappes aériennes, des attaques de drones et des tirs.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159678",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "4c56a287ee71",
-   "cat": "geopolitique",
-   "titre": "Conclusions du Conseil européen, 15 et 16 octobre 2026",
-   "resume": "Les 15 et 16 octobre, le Conseil européen a adopté des conclusions sur la compétitivité, l'Ukraine, la République de Moldavie, le prochain cadre financier pluriannuel, le Moyen-Orient, la défense et la sécurité européennes, les migrations, l'élargissement et les réformes, et d'autres points.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T20:10:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "9d9ca603016e",
-   "cat": "geopolitique",
-   "titre": "Soudan : les belligérants misent toujours sur la guerre, malgré les appels à une trêve",
-   "resume": "Trois ans et demi après le début du conflit soudanais, les combats s'intensifient et les attaques de drones frappent toujours davantage les civils. Devant le Conseil de sécurité, vendredi, l'ONU a dénoncé l'intransigeance des belligérants, encouragés par leurs soutiens étrangers, malgré la multiplication des initiatives diplomatiques.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159679",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "d2c3976c64a2",
-   "cat": "geopolitique",
-   "titre": "Media advisory - Employment, Social Policy, Health and Consumer Affairs (Employment and social policy) Council of 19 October 2026",
-   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/media-advisory-employment-social-policy-health-and-consumer-affairs-employment-and-social-policy-council-of-19-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T18:10:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "7fcc53666103",
-   "cat": "geopolitique",
-   "titre": "Ukraine : à l’approche de l’hiver, des millions de déplacés risquent de devoir fuir à nouveau",
-   "resume": "Après avoir fui les combats, près de 3,8 millions d’Ukrainiens ont regagné leur domicile depuis le début de l’invasion russe. Mais les logements endommagés, les attaques contre les infrastructures énergétiques et le coût du chauffage menacent de provoquer une nouvelle vague de déplacements, alerte l’ONU.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159677",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "bd831cdd0273",
-   "cat": "geopolitique",
-   "titre": "Intervention du président António Costa lors de la déclaration conjointe à la presse avec les présidents Volodymyr Zelensky et Ursula von der Leyen",
-   "resume": "Avant le début de la seconde journée de la réunion du Conseil européen des 15 et 16 octobre 2026, le président du Conseil européen, António Costa, la présidente de la Commission européenne, Ursula von der Leyen, et le président de l'Ukraine, Volodymyr Zelensky, se sont adressés à la presse.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-joint-doorstep-with-presidents-volodymyr-zelenskyy-and-ursula-von-der-leyen/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T09:55:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "f056fc023169",
-   "cat": "sante",
-   "titre": "Only time will tell",
-   "resume": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04699-7 Chronotherapy promises to improve medicine by aligning treatment with the body’s internal clock. As this idea moves into clinical trials, a high-profile retraction reveals the ups and downs of circadian medicine.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04699-7",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-16T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "39a7704e8417",
-   "cat": "sante",
-   "titre": "A reality check for autoimmune CAR T cells",
-   "resume": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/d41591-026-00052-0 The hope with CAR T cell therapies for autoimmune disease is that they can reset the immune system and induce deep remission. But recent trial pauses have renewed concerns about safety, patient selection and acceptable risk.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00052-0",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-16T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "75da80a04f9f",
-   "cat": "sante",
-   "titre": "Conversational brain AI for adaptive epilepsy care",
-   "resume": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04719-6 A small study shows that patients can help fine-tune their own seizure detectors by chatting with an AI agent. However, the more difficult challenge ahead is to build AI that responds appropriately.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04719-6",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-16T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "f3f9fbd9289d",
-   "cat": "sante",
-   "titre": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
-   "resume": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04715-w Results of a phase 1 trial of the antibody−toxin conjugate D2C7-ATC targeting EGFR/EGFRvIII in patients with recurrent malignant glioma show encouraging safety and efficacy signals, with translational analyses of patient samples indicating intratumoral and systemic immune activation.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04715-w",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-16T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "5103373df6aa",
-   "cat": "sante",
-   "titre": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
-   "resume": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04687-x At 6 months, a cohort of 8,127 women in the UK initiating GLP-1 receptor agonist therapy via a digital platform showed mean weight reduction comparable to that in randomized clinical trials.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04687-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-16T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "9154bd6c89df",
-   "cat": "sante",
-   "titre": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
-   "resume": "Nature Medicine, Published online: 15 October 2026; doi:10.1038/d41591-026-00051-1 In a small study involving patients with blindness due to advanced retinitis pigmentosa, optogenetic therapy appears safe; early efficacy signals are promising and reveal opportunities for technical refinement.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00051-1",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-15T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "ec07ac17b285",
-   "cat": "sante",
-   "titre": "Hidden race disparities in cancer treatment toxicity",
-   "resume": "Nature Medicine, Published online: 15 October 2026; doi:10.1038/d41591-026-00050-2 Large-scale analysis of real-world data reveals racial disparities in the occurrence of immune-related adverse events during cancer immunotherapy — which were not evident in trial data, owing to the enrollment of mostly white patients.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00050-2",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-15T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "5249a73fbef1",
-   "cat": "sante",
-   "titre": "[Perspectives] Temporal rationing: a man with gastric cancer in Colombia",
-   "resume": "Pepe, a 45-year-old man living in the city of Cali, Colombia, worked as a self-employed hauler of goods with a wheelbarrow. In 2010, he presented to a general practitioner with several months of abdominal heaviness and non-exertional substernal burning. The physician provisionally diagnosed gastro-oesophageal reflux disease and prescribed omeprazole. However, Pepe's symptoms slowly worsened and 10 weeks later he returned to the physician, who ordered a gastroscopy, which occurred 2 months later, revealing an ulcerated mass.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02052-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "c020484df7af",
-   "cat": "sante",
-   "titre": "[Obituary] Roger Detels",
-   "resume": "Epidemiologist and pioneer in HIV research. Born on Oct 14, 1936, in Brooklyn, New York, NY, USA, he died on July 25, 2026, in Los Angeles, CA, USA, aged 89 years.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02053-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "7b25a713fc40",
-   "cat": "sante",
-   "titre": "[Correspondence] WHO should adjust its cervical cancer plan",
-   "resume": "In Gary M Clifford's Comment, he observed that the dominant driver of global inequalities in cervical cancer burden, which are poised to increase dramatically, is unequal access to cervical screening.1 WHO perpetuates such inequalities by offering paradoxical guidance for low-income and middle-income countries (LMICs), where 95% of global cervical cancer deaths occur.2 In 2000, the WHO International Agency for Research on Cancer's (IARC) Head of Cancer Screening stated he would be “loath to recommend starting a screening programme with conventional Paps in a country with no current screening programme in place”.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01641-7/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "64a4fae7b6c6",
-   "cat": "sante",
-   "titre": "[Correspondence] WHO should adjust its cervical cancer plan – Authors’ reply",
-   "resume": "We agree with Eric J Suba that current global inequalities in cervical cancer burden are driven largely by unequal access to effective screening programmes. This point was highlighted by Brisson and colleagues1 and in an accompanying Comment2 that warned that human papillomavirus (HPV) vaccination implementation must not follow the same inequitable path.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01852-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "56b97171ecee",
-   "cat": "sante",
-   "titre": "[Correspondence] Smoking rates: when should harm-reduction evidence be updated?",
-   "resume": "In their Comment, Ruth Bonita and Robert Beaglehole use New Zealand as an example to argue that smoke-free nicotine products accelerate adult smoking declines, stating that annual decline increased “around four-fold” after vapes became widely available.1 But their claim rests on evidence that was either unavailable to readers at the time of publication or ends before the two most recent New Zealand Health Survey waves (2023–24 and 2024–25). Their supporting self-citation was in press, whereas Borland and colleagues,2 also referenced in the Comment, rely on Mendelsohn and colleagues3 for their New Zealand evidence, which stops at 2022–23.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01716-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "c9fa43f12bd2",
-   "cat": "geopolitique",
-   "titre": "La nature en péril : Guterres réclame un sursaut mondial",
-   "resume": "À quelques jours de l'ouverture de la COP17 sur la biodiversité, le Secrétaire général de l’ONU, António Guterres, a appelé vendredi les gouvernements, les entreprises et la société civile à intensifier leurs efforts pour protéger la nature. Malgré des avancées depuis 2022, le monde reste loin des objectifs fixés pour 2030, notamment celui de protéger 30 % des terres et des mers de la planète.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159676",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-16T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "c7613bb7217c",
-   "cat": "geopolitique",
-   "titre": "Conclusions du Conseil européen sur la compétitivité, sur le prochain cadre financier pluriannuel et sur l'élargissement et les réformes",
-   "resume": "Le 15 octobre, le Conseil européen a adopté des conclusions sur la compétitivité, sur le prochain cadre financier pluriannuel et sur l'élargissement et les réformes.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/16/european-council-conclusions-on-competitiveness-the-next-multiannual-financial-framework-and-enlargement-and-reforms/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-16T00:40:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "151b7350edb1",
-   "cat": "geopolitique",
-   "titre": "Afghanistan : la faim atteint des records, les droits humains reculent",
-   "resume": "Près de 16 millions d’Afghans sont confrontés à une insécurité alimentaire aiguë, un chiffre qui pourrait dépasser 19 millions cet hiver, prévient l’ONU qui appelle à une mobilisation urgente contre la faim et la malnutrition.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159674",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "83924c7fcabe",
-   "cat": "geopolitique",
-   "titre": "President of the Eurogroup, Kyriakos Pierrakakis, discusses “How to raise Europe’s productivity” with the Atlantic Council at the IMF meetings in Bangkok",
-   "resume": "President of the Eurogroup, Kyriakos Pierrakakis, discussed “How to raise Europe’s productivity” with the Atlantic Council at the IMF meetings in Bangkok",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/15/president-of-the-eurogroup-kyriakos-pierrakakis-discusses-how-to-raise-europe-s-productivity-with-the-atlantic-council-at-the-imf-meetings-in-bangkok/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-15T18:15:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "ed5f585d1700",
-   "cat": "geopolitique",
-   "titre": "L'objectif des sanctions visant Haïti : priver les gangs de munitions",
-   "resume": "Haïti traverse l’une des crises sécuritaires les plus sévères au monde. Des gangs armés contrôlent de vastes zones de la capitale, Port-au-Prince, et étendent leur emprise aux zones rurales. Ils terrorisent les populations, tuent, violent, enlèvent contre rançon et rackettent particuliers et entreprises.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159672",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "3f8009d4a32e",
-   "cat": "geopolitique",
-   "titre": "Closing loopholes: Council lists individuals and entities for circumventing EU sanctions",
-   "resume": "The Council has adopted restrictive measures against three individuals and nine entities involved in the import of sanctioned goods to Russia, and in the circumvention of sanctions related to oil and financial transactions.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/15/closing-loopholes-council-lists-individuals-and-entities-for-circumventing-eu-sanctions/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-15T17:50:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "ab2709f95357",
-   "cat": "geopolitique",
-   "titre": "L’innovation progresse, les inégalités persistent : l’ONU appelle à repenser le développement",
-   "resume": "De l’intelligence artificielle à la transition énergétique, en passant par l’essor du numérique, les mutations de l’économie mondiale ne profitent pas à tous. Dans un rapport publié jeudi, l’ONU démontre que les pays les plus avancés technologiquement ne sont pas nécessairement les plus inclusifs et met en garde contre le coût économique croissant de l’exclusion sociale.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159673",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "74782d6a18fb",
-   "cat": "geopolitique",
-   "titre": "Press briefing - Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy) of 19 October 2026",
-   "resume": "Press briefing ahead of the Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy) will take place on 16 October at 17:00. The briefing will be \"off the record\".",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/15/press-briefing-employment-social-policy-health-and-consumer-affairs-council-employment-and-social-policy-of-19-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:40:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "fdff081c14a5",
-   "cat": "geopolitique",
-   "titre": "Biodiversité : le monde loin du compte pour 2030",
-   "resume": "À quatre ans de l’échéance de 2030, le monde reste loin du compte pour enrayer la destruction de la nature. Selon un nouveau rapport de l’ONU, moins de la moitié des objectifs nationaux en matière de biodiversité sont en bonne voie.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159671",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "1647bc792218",
-   "cat": "geopolitique",
-   "titre": "Report du sommet UE-CCG",
-   "resume": "Le deuxième sommet entre l'Union européenne et le Conseil de coopération du Golfe, initialement prévu le 24 octobre 2026 à Riyad (Arabie saoudite), est reporté. Une nouvelle date sera annoncée en temps utile.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/15/postponement-of-the-second-eu-gcc-summit/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "75419b2bd224",
-   "cat": "geopolitique",
-   "titre": "Ebola : l'épidémie persiste en RDC, le Kenya confirme un 2e cas",
-   "resume": "Cinq mois après sa déclaration officielle, l’épidémie d’Ebola Bundibugyo en République démocratique du Congo (RDC) reste marquée par une transmission élevée et fluctuante, « sans qu’une tendance à la baisse durable ne se dessine », selon l’OMS. Le Kenya a, de son côté, confirmé un deuxième cas.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159669",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "7fa07067d6e1",
-   "cat": "geopolitique",
-   "titre": "Feuille de route \"Une Europe, un marché\": des progrès constants",
-   "resume": "À l'occasion de leur deuxième examen, les institutions de l'UE ont réaffirmé l'importance qu'elles attachent à la mise en œuvre en temps utile de la déclaration commune et de la feuille de route, destinées à stimuler la croissance économique.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/15/steady-progress-of-the-one-europe-one-market-roadmap/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-15T11:20:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "49912a12edf0",
-   "cat": "sante",
-   "titre": "[Correspondence] Smoking rates: when should harm-reduction evidence be updated? – Authors’ reply",
-   "resume": "The striking feature of recent New Zealand smoking trends is the statistically significant acceleration in smoking decline after 2019, not the subsequent plateau. The critical issue is why smoking declined so rapidly after vaping became widespread.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01901-X/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "13f75e58afc1",
-   "cat": "sante",
-   "titre": "[Correspondence] Underuse of neuromodulation in depression care",
-   "resume": "As members of the European College of Neuropsychopharmacology Neuromodulation Network, we welcome Gin S Malhi and colleagues’ valuable Seminar on depression.1 Yet neuromodulation is almost absent: electroconvulsive therapy and “other neuromodulators” are grouped as physical treatments and excluded because they are “used less often than the other strategies”.1",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01423-6/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "e59a6a4c66cb",
-   "cat": "sante",
-   "titre": "[Correspondence] Underuse of neuromodulation in depression care – Authors’ reply",
-   "resume": "We thank Roel J T Mocking and colleagues for their comments on our Seminar;1 however, we would like to clarify any confusion over how we have classified neuromodulators and electroconvulsive therapy, as well as argue that they have no justification for their claim of underuse of neuromodulation interventions. Furthermore, in our view, some of these interventions should in fact be used much less, if at all. However, before turning to these points, it is necessary to set a few matters straight.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01900-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "97a62d766cd8",
-   "cat": "sante",
-   "titre": "[Correspondence] Cultural calibration is needed in global mental disorder burden estimates",
-   "resume": "The Global Burden of Disease (GBD) 2023 Mental Disorder Collaborators provide an indispensable update on the global burden of mental disorders, estimating 1·17 billion prevalent cases in 2023 and identifying mental disorders as the leading cause of years lived with disability globally.1 However, global estimates also depend on whether diagnostic categories, instruments, and disability weights are culturally comparable.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01666-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "13183578e662",
-   "cat": "sante",
-   "titre": "[Correspondence] Cultural calibration is needed in global mental disorder burden estimates – Authors’ reply",
-   "resume": "We thank Yasuhiro Kotera for commenting on our Article reporting the global prevalence and burden of mental disorders from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023.1 We welcome their emphasis on the importance of cultural comparability when interpreting GBD findings. In the GBD study, we have an obligation to provide the best available burden estimates for mental disorders across all locations included. We work on the principle that uncertain burden estimates, despite limitations to the underlying data or analytical process, are preferable to no estimate for a condition or population.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01850-7/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "9a71929d74e6",
-   "cat": "sante",
-   "titre": "[Correspondence] Optimising standard of care in non-small-cell lung cancer trials",
-   "resume": "We read Anwen Xiong and colleagues’ study with great interest.1 Despite the established first-line role of immune checkpoint inhibitors in advanced non-small-cell lung cancer (NSCLC) without targetable genomic alterations, outcomes remain poor. In the phase 3 OptiTROP-Lung05 trial, sacituzumab tirumotecan (sac-TMT) plus pembrolizumab showed a significant improvement in progression-free survival (PFS) compared with pembrolizumab monotherapy (median not reached vs 5·7 months; hazard ratio 0·35, 95% CI 0·26–0·47) in programmed death ligand 1 (PD-L1)-positive advanced NSCLC (PD-L1 tumour proportion score ≥1%).",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01672-7/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "93016fbc09a0",
-   "cat": "sante",
-   "titre": "[Correspondence] Optimising standard of care in non-small-cell lung cancer trials – Authors’ reply",
-   "resume": "We thank Emma D A Wagener and Wouter H van Geffen for emphasising the importance of comparator selection. We agree that pembrolizumab plus platinum-based chemotherapy is commonly preferred for many patients with a programmed death ligand 1 (PD-L1) tumour proportion score (TPS) of 1–49%, and that OptiTROP-Lung05 was not designed to establish superiority of sacituzumab tirumotecan plus pembrolizumab over chemoimmunotherapy.1",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01851-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "22405181a20d",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Klein KR, Wysham C, Tuttle KR, et al. Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial. Lancet 2026; 408: 1557–70—The appendix of this Article has been corrected as of Oct 15, 2026.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02055-6/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "5e42cc63539b",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Murray CJL, Kanem N, Abed S, et al. The Lancet Commission on 21st century global threats to health. Lancet 2026; 408: 1603–61—In this Commission, Prof Lothar H Wieler's name and affiliations have been corrected. The affiliations should have been “Chair Digital Global Public Health, University Potsdam, Potsdam, Germany; Adjunct Faculty Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai and Mount Sinai Health System, New York, NY, USA; Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai and Mount Sinai Health System, New York, NY, USA; Adjunct Faculty Institute of Microbiology and Epizootics, Freie University Berlin, Berlin, Germany”.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02056-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-17T00:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "3f6175e782bb",
-   "cat": "geopolitique",
-   "titre": "Le plomb, ce métal toxique qui tue 3,5 millions de personnes par an",
-   "resume": "Responsable de millions de morts dans le monde et de dommages irréversibles chez les enfants, l’exposition au plomb demeure une menace sanitaire mondiale. Jeudi, l’Organisation mondiale de la santé (OMS) a appelé les États à renforcer leur législation pour réduire les risques liés à ce métal toxique, encore présent dans de nombreux produits du quotidien.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159668",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "2f7385eef999",
-   "cat": "geopolitique",
-   "titre": "Media advisory - European Council meeting of 15-16 October 2026",
-   "resume": "Approximate timing, public sessions and press opportunities.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/14/media-advisory-european-council-meeting-of-15-16-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-14T19:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "11dbdbee6828",
-   "cat": "geopolitique",
-   "titre": "Gaza : un an après le cessez-le-feu, l’ONU craint la reprise de la guerre",
-   "resume": "Depuis la trêve d’octobre 2025, quelque 1 500 Palestiniens ont été tués dans l’enclave. Devant le Conseil de sécurité, jeudi, le plus haut responsable de l’ONU dans la région a dénoncé l’impasse du processus de paix, tandis que la colonisation israélienne et les violences s’intensifient en Cisjordanie.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159670",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-15T12:00:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "40fa4e57ea5a",
-   "cat": "geopolitique",
-   "titre": "Principaux messages issus du sommet social tripartite du 14 octobre 2026",
-   "resume": "Les dirigeants de l'UE et les partenaires sociaux se sont réunis à Bruxelles pour le sommet social tripartite, un forum de dialogue qui réunit deux fois par an les dirigeants des institutions de l'UE et les partenaires sociaux européens. La discussion d'aujourd'hui était axée sur le thème \"Faire avancer l'Europe\".",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/14/main-messages-from-the-tripartite-social-summit-of-14-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-14T17:55:00+00:00",
-   "lot": "2026-10-17"
-  },
-  {
-   "id": "47b7ec7da61c",
-   "cat": "geopolitique",
-   "titre": "Intervention du président António Costa lors de la conférence de presse à l'issue du sommet social tripartite",
-   "resume": "Intervention du président António Costa lors de la conférence de presse à l'issue du sommet social tripartite du 14 octobre 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/14/remarks-by-president-antonio-costa-at-the-press-conference-following-the-tripartite-social-summit/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-14T17:53:00+00:00",
-   "lot": "2026-10-17"
-  },
   {
    "id": "15a9e7353454",
    "cat": "sante",
@@ -3505,50 +2749,350 @@
    "type_source": "organisation",
    "publie": "2026-10-23T11:30:00+00:00",
    "lot": "2026-10-24"
+  },
+  {
+   "id": "2a4771795224",
+   "cat": "sante",
+   "titre": "Thelaziasis",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609683?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T11:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "2964ae7cc4d7",
+   "cat": "sante",
+   "titre": "My Father’s Code",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2605919?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T11:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "1717ce13620e",
+   "cat": "sante",
+   "titre": "Abortion Care in Puerto Rico — A Fragile Legal Landscape",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607323?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T11:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "d3f2a8e28b60",
+   "cat": "sante",
+   "titre": "The Future of Health Agency Enforcement Fines",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2609972?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T11:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "74e71c81c9f0",
+   "cat": "sante",
+   "titre": "Durvalumab, Tremelimumab, and Enfortumab Vedotin in Muscle-Invasive Bladder Cancer",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608323?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T02:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "c9f85a86d669",
+   "cat": "sante",
+   "titre": "[Obituary] Khairul Islam",
+   "resume": "Public health doctor and sanitation pioneer. Born on June 25, 1959, in Tangail, in what is now Bangladesh, he died from a cardiac arrest in Dhaka, Bangladesh, on Aug 21, 2026, aged 68 years.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02113-6/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "53477e627e3d",
+   "cat": "sante",
+   "titre": "Tarlatamab–Durvalumab Maintenance for Extensive-Stage Small-Cell Lung Cancer",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609482?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-24T02:30:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "d9a40020930b",
+   "cat": "sante",
+   "titre": "[Correspondence] Communication: the missing pillar of clinical trial governance",
+   "resume": "On Sept 2, 2026, negative results of the phase 3 ASPIRE trial (NCT06617429) of apazunersen in Angelman syndrome were announced in a press release issued after the stock market closed.1 Angelman syndrome is a severe neurodevelopmental condition causing intellectual disability, epilepsy, and behaviour",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02030-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "9aec616d297b",
+   "cat": "sante",
+   "titre": "[Correspondence] Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease",
+   "resume": "We read with great interest the Review by Albert C M Ong and colleagues1 on autosomal dominant polycystic kidney disease (ADPKD), which we regard as an important contribution to the field.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "3b7dd37f572d",
+   "cat": "sante",
+   "titre": "[Correspondence] Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease – Authors’ reply",
+   "resume": "We thank Matteo Brambilla Pisoni and colleagues for highlighting the importance of nutritional assessment in autosomal dominant polycystic kidney disease (ADPKD). Their comments provide an opportunity to expand on this important aspect of ADPKD care. We agree that conventional anthropometric measure",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01902-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "fcbb5eaa5b8e",
+   "cat": "sante",
+   "titre": "[Correspondence] Beyond imaging thresholds in large-core stroke thrombectomy",
+   "resume": "Amrou Sarraj and colleagues reported an important individual patient data meta-analysis regarding endovascular thrombectomy (EVT) in patients with large-core ischaemic stroke, showing improved functional outcomes and reduced mortality up to 24 h after stroke onset.1 These findings challenge the para",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01642-9/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "05ae8dad4edb",
+   "cat": "sante",
+   "titre": "[Correspondence] Beyond imaging thresholds in large-core stroke thrombectomy – Authors’ reply",
+   "resume": "We thank Jordan Bakhriansyah and colleagues for their thoughtful commentary on our manuscript from the ATLAS individual patient data meta-analysis.1 Although their conceptual arguments merit consideration, we respectfully disagree with the clinical implications drawn from them.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01903-3/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "659c932b6ef8",
+   "cat": "economie",
+   "titre": "Initial Project Information Document (PID) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102526011024116",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-25T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "7fef85916b02",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) Liberia Forest Economy Project (LiFE-P) (P508345)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426145036160",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "5fb6f359b4ae",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Improving Frontline Workers Performance in Education and Health Project - P507442 - Sequence No : 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426114532920",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "a339d16b24e4",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - ENHANCING NIGER NORTHEASTERN CONNECTIVITY - P171793 - Sequence No : 11",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426063542803",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "310dd4ad5f8f",
+   "cat": "economie",
+   "titre": "Djibouti - MID EAST,NORTH AFRICA,AFG,PAK - P174461 - Djibouti Digital Foundations Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426091076261",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "b9672e28cd7a",
+   "cat": "economie",
+   "titre": "Environmental and Social Management Framework (ESMF) Recovery of Electricity Sector for Equitable Transition in Yemen (RESET) (P516972)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426092033238",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "b29b3321c1cb",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Romania First Fiscal and Growth DPF - P513191 - Sequence No : 1",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426060028113",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-24T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "47d4b643579a",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Benin Health System Enhancement Program (P172940) - P172940 - Sequence No : 10",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326093512178",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "3e97127bea52",
+   "cat": "economie",
+   "titre": "India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326101542050",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "4e001f7ee08b",
+   "cat": "economie",
+   "titre": "A Primer for Health Insurance Design: Issues and Options",
+   "resume": "This primer is written for policymakers who have decided to adopt new, or reform existing, health insurance schemes. Its purpose is to provide an overview of the design options, related concerns, and useful practices that have been observed in country experiences. The focus is on health insurance sc",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326134518190",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "4cc0a5df27e5",
+   "cat": "economie",
+   "titre": "Official Documents- Mitigation Outcome Purchase Agreement by and between Kyrgyz Republic and the IBRD for TF0D3216-KG.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326135077058",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "e9b10d700bed",
+   "cat": "economie",
+   "titre": "Key Performance Indicators for Health Insurance Schemes: The Essentials",
+   "resume": "This implementation guidance note introduces a framework for understanding and organizing key performance indicators (KPIs) for health insurance (HI) schemes, alongside global best practices. It is intended for policymakers and practitioners seeking practical insights to strengthen the performance a",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102326135027781",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-23T04:00:00+00:00",
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "565c18deb666",
+   "cat": "geopolitique",
+   "titre": "Dans un monde fracturé, Guterres plaide pour une ONU renforcée",
+   "resume": "À l’occasion de la Journée des Nations Unies, célébrée le 24 octobre, le Secrétaire général António Guterres appelle les États à réaffirmer leur attachement au multilatéralisme, au droit international et aux valeurs fondatrices de l’Organisation. Face aux conflits, à la crise climatique et aux inéga",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159720",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-24T12:00:00+00:00",
+   "lot": "2026-10-25"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "Nature Medicine": {
    "derniere_activite": "2026-10-23"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-24"
+   "derniere_activite": "2026-10-25"
   }
  },
  "sources_silencieuses": [
