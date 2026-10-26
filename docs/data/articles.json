@@ -1,55 +1,7 @@
 {
- "maj": "2026-10-25T08:57:21.804335+00:00",
- "lot": "2026-10-25",
+ "maj": "2026-10-26T09:43:26.588399+00:00",
+ "lot": "2026-10-26",
  "articles": [
-  {
-   "id": "15a9e7353454",
-   "cat": "sante",
-   "titre": "Spinal Tuberculosis",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2607513?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-17T11:30:00+00:00",
-   "lot": "2026-10-18"
-  },
-  {
-   "id": "59695c4e0af0",
-   "cat": "sante",
-   "titre": "What I See before Anyone Speaks",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2604584?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-17T11:30:00+00:00",
-   "lot": "2026-10-18"
-  },
-  {
-   "id": "93f0d1d55c55",
-   "cat": "sante",
-   "titre": "Why Shared-Savings ACOs Have Failed to Deliver for Primary Care",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2605590?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-17T11:30:00+00:00",
-   "lot": "2026-10-18"
-  },
-  {
-   "id": "bfd871113727",
-   "cat": "sante",
-   "titre": "Community Engagement Requirements in Medicaid — Law as a Determinant of Health",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2608810?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-17T11:30:00+00:00",
-   "lot": "2026-10-18"
-  },
   {
    "id": "8b5e7807eb8f",
    "cat": "sante",
@@ -3049,50 +3001,350 @@
    "type_source": "organisation",
    "publie": "2026-10-24T12:00:00+00:00",
    "lot": "2026-10-25"
+  },
+  {
+   "id": "e3b00d91960d",
+   "cat": "sante",
+   "titre": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
+   "resume": "Nature Medicine, Published online: 26 October 2026; doi:10.1038/s41591-026-04742-7 As presented at the ESMO Congress 2026: In the global phase 2 MDT-BRIDGE trial, neoadjuvant durvalumab plus chemotherapy in patients with resectable and borderline resectable non-small-cell lung cancer, followed by mu",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04742-7",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-26T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "a4ea29c8093c",
+   "cat": "sante",
+   "titre": "Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1–Negative Advanced NSCLC",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611280?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-25T09:15:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "d3eba20d29b0",
+   "cat": "sante",
+   "titre": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
+   "resume": "Nature Medicine, Published online: 24 October 2026; doi:10.1038/s41591-026-04756-1 As presented at the ESMO Congress 2026: In a 5 year follow-up of survival and correlative data from the pivotal phase 3 RELATIVITY-047 trial comparing relatlimab plus nivolumab versus nivolumab alone in patients with ",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04756-1",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "24e1728d5be3",
+   "cat": "sante",
+   "titre": "Divarasib as Compared with Sotorasib or Adagrasib in KRAS G12C–Mutated NSCLC",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605703?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-25T03:30:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "755f5d41204d",
+   "cat": "sante",
+   "titre": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
+   "resume": "Nature Medicine, Published online: 24 October 2026; doi:10.1038/s41591-026-04740-9 As presented at the ESMO Congress 2026: In this exploratory, nonrandomized phase 2a trial, treatment of patients with immune checkpoint inhibitor-naive muscle-invasive bladder cancer with the GDF-15-neutralizing antib",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04740-9",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "a876a207ea8b",
+   "cat": "sante",
+   "titre": "Osimertinib–Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611335?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-10-25T03:30:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "faef89f67deb",
+   "cat": "sante",
+   "titre": "[Correspondence] Unanswered questions from the NIMBLE trial",
+   "resume": "Tuan Vu and colleagues reported that cemdisiran monotherapy (76·6% mean reduction from baseline in total complement haemolysis activity [CH50] inhibition) and cemdisiran–pozelimab combination therapy (99·6% CH50 inhibition) achieved similar clinical efficacy in patients with generalised myasthenia g",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01643-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "c31339e444bb",
+   "cat": "sante",
+   "titre": "[Correspondence] Unanswered questions from the NIMBLE trial – Authors’ reply",
+   "resume": "Xiaohua Tao raises three questions about the interpretation of the NIMBLE findings.1 We welcome the exchange and believe the study findings support the interpretation presented in our report.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01942-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "3f437b2ac437",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Maure-Blesa L, Carmona-Iragui M, Barroeta I, et al. Natural history and clinical impact of epilepsy in adults with Down syndrome: a multicentre clinical study. Lancet 2026; 408: 1198–210—In this Article, the Summary should have read “Active epilepsy prevalence was 145·2 per 1000 adults with Down syn",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02106-9/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "f9a8229c35a3",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Mora P, Aroda VR, Asong M, et al. Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial. Lancet 2026; 408: 607–20—I",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02107-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "82d61d4016ab",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "NCD Risk Factor Collaboration (NCD-RisC). Metabolic traits in obesity and normal BMI in industrialised countries: a multi-country analysis of national population-based studies. Lancet 2026; 408: 325–47—In this Article, the NCD Risk Factor Collaboration list has been updated. This correction has been",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02108-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "f7f1ef46c287",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Parsons H, Metcalfe A, Griffin J, et al. Robotic-arm-assisted versus conventional total knee replacement (RACER-Knee): a pragmatic, multicentre, participant-masked and assessor-masked, superiority, randomised controlled trial. Lancet 2026; 408: 924–34—In this Article, the second sentence of the four",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02109-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-24T00:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "f737e8530d3d",
+   "cat": "economie",
+   "titre": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-26T09:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "4aa2eb3e52ea",
+   "cat": "economie",
+   "titre": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-26T05:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "5f01205593e4",
+   "cat": "economie",
+   "titre": "Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P173731- Somalia Recurrent Cost  and  Reform Financing Project - Phase 3 - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626042516124",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "ff8f3b31c61c",
+   "cat": "economie",
+   "titre": "Insects for Impacts : Models for Farming Black Soldier Fly in Sub-Saharan Africa",
+   "resume": "This report assesses the role of black soldier fly (BSF) farming in sub-Saharan Africa’s emerging circular food economy. It examines whether BSF can help address three linked pressures: insufficient affordable protein, unmanaged organic waste, and soil fertility constraints. The report focuses on BS",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426085085305",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "4a980d24b055",
+   "cat": "economie",
+   "titre": "Nepal - SOUTH ASIA- P512377- Greater Lumbini Area Development Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626042013360",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "32cba1c5b0d4",
+   "cat": "economie",
+   "titre": "Tuvalu - EAST ASIA AND PACIFIC- P182093- Project Preparation for Pacific Island Countries Teacher Upgrading and Resourcing for the Early Years (PICTURE) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626041541780",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "280e97fd6954",
+   "cat": "economie",
+   "titre": "Additional Financing Stakeholder Engagement Plan (SEP) - Maritime Investment in Climate Resilient Operations II - P177100 - AF No: 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102526202532995",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "c9def59f74e6",
+   "cat": "economie",
+   "titre": "Nepal - SOUTH ASIA- P180665- Institutionalizing GBV Response in Nepal - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626040536809",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "639db026b7c3",
+   "cat": "economie",
+   "titre": "Mozambique - EASTERN AND SOUTHERN AFRICA- P175266- Mozambique Northern Urban Development Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626041039315",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "95a03e357f55",
+   "cat": "economie",
+   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - Maritime Investment in Climate Resilient Operations II - P177100 - AF No: 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102526203015185",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "efe66ee3a191",
+   "cat": "economie",
+   "titre": "Fermentation Innovation : The Future of Protein, Food Systems, and Industry in Africa",
+   "resume": "Sub-Saharan Africa faces a severe and growing protein deficit: as of 2021, no country in the region met per capita protein-quality requirements, and closing the gap will require an estimated 25 million metric tons of high-quality protein by 2030, a US$10–15 billion market opportunity. This report ex",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102426085034748",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "b98761fc4c87",
+   "cat": "economie",
+   "titre": "West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P507514- Second Real Estate Registration Project  - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102626041510897",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-26T04:00:00+00:00",
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "fa4dca04b2ec",
+   "cat": "geopolitique",
+   "titre": "À New York, une course contre la montre pour sauver un siècle d’archives audiovisuelles",
+   "resume": "Dans les sous-sols du Lincoln Center, des spécialistes tentent de sauver des milliers d’enregistrements menacés par l’usure du temps et la disparition des appareils capables de les lire. Des films familiaux de Harry Belafonte aux premières archives radiophoniques de l’ONU, c’est tout un pan de la mé",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159687",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-25T12:00:00+00:00",
+   "lot": "2026-10-26"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-23"
+   "derniere_activite": "2026-10-26"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-25"
+   "derniere_activite": "2026-10-26"
   }
  },
  "sources_silencieuses": [
