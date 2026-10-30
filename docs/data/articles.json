@@ -1,379 +1,7 @@
 {
- "maj": "2026-10-29T10:42:48.522993+00:00",
- "lot": "2026-10-29",
+ "maj": "2026-10-30T10:42:57.689529+00:00",
+ "lot": "2026-10-30",
  "articles": [
-  {
-   "id": "68a12519d497",
-   "cat": "sante",
-   "titre": "Ianalumab for the Treatment of Patients with Sjögren’s Disease",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1585-1599, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601088?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "cc70f1cc4746",
-   "cat": "sante",
-   "titre": "Journée de la Recherche Translationnelle “Necrotizing Enterocolitis (NEC) and Neonatal Sepsis”",
-   "resume": "The Translational Research Day is an event organised by the Medical Department that brings together leading scientists and clinicians in biomedical research. The upcoming Translational Research Day will take place on November 18, 2026 […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/journee-de-la-recherche-translationnelle-necrotizing-enterocolitis-nec-and-neonatal-sepsis/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T16:03:25+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "c44545edea98",
-   "cat": "sante",
-   "titre": "Helicobacter pylori Infection — Advances, Challenges, and the Road Ahead",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1621-1633, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMra2414530?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "3c60a9dd31f4",
-   "cat": "sante",
-   "titre": "PEPR ACCREDIA (ACCelerating Research for Early Development of Innovative Antibodies)",
-   "resume": "The ambition of the project is to minimize the part of empirical approaches to identify, among drug candidates, the lead molecules to be introduced into the clinic, by deciphering the rules, which govern expression […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/pepr-accredia-accelerating-research-for-early-development-of-innovative-antibodies/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T12:24:14+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "0791808d3b0f",
-   "cat": "sante",
-   "titre": "IVUS-Guided PCI in Left Main Coronary Disease",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1662-1665, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2609433?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "6d1a2c2ad31f",
-   "cat": "sante",
-   "titre": "Pathological human IgG functions in vivo",
-   "resume": "We propose to investigate the repertoire and effector functions of human IgG antibodies in two non-communicable disease families: systemic anaphylaxis and autoimmune disorders. Both involve circulating IgG antibodies targeting harmless antigens and triggering FcγR-mediated […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/pathological-human-igg-functions-in-vivo/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T12:17:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "89d0b060d5a7",
-   "cat": "sante",
-   "titre": "Pulsed Field Ablation for Persistent Atrial Fibrillation",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1665-1667, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2610073?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "13c0b051c7fc",
-   "cat": "sante",
-   "titre": "Role of memory B cells in seasonal IgE responses to airborne allergens",
-   "resume": "E-MEMO investigates the role of memory B cells (MBCs) in sustaining IgE recall responses using mouse models of seasonal allergen exposure. The project has three main goals: Overall, E-MEMO seeks to clarify how MBCs […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/role-of-memory-b-cells-in-seasonal-ige-responses-to-airborne-allergens/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T12:11:49+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "3ef5acfe5fda",
-   "cat": "sante",
-   "titre": "Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1661-1662, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611022?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "41761b58f9ed",
-   "cat": "sante",
-   "titre": "Identification of antibody repertoires in Atracurium hypersensitivity for novel diagnostics and therapies",
-   "resume": "NeuroMuscular Blocking Agents (NMBA; curares) relax skeletal muscles to facilitate surgeries and permit intubation, but lead to adverse reactions: (a) severe hypersensitivity reactions (anaphylaxis) thought to rely on pre-existing anti-NMBA antibodies; (b) complications due […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/identification-of-antibody-repertoires-in-atracurium-hypersensitivity-for-novel-diagnostics-and-therapies/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T12:06:28+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "3c722074f87e",
-   "cat": "sante",
-   "titre": "Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 16, Page 1667-1668, October 22, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611023?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-21T09:00:02+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "265df2c2876b",
-   "cat": "sante",
-   "titre": "Immunogenic product comprising IL-4 and/or IL-13 for treating disorders associated with aberrant IL-4 and/or IL-13 expression or activity",
-   "resume": "The invention relates to an immunogenic product comprising a cytokine conjugated with a carrier protein, wherein the cytokine is selected from the group comprising IL-4, IL-13 and mixtures thereof, and wherein the carrier protein […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/patent/immunogenic-product-comprising-il-4-and-or-il-13-for-treating-disorders-associated-with-aberrant-il-4-and-or-il-13-expression-or-activity/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-21T11:57:04+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "a5075aab4241",
-   "cat": "economie",
-   "titre": "Moldova - EUROPE AND CENTRAL ASIA- P180306- Modernization and Improvement of Rehabilitation Services Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226013027948",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "3844c0a33763",
-   "cat": "economie",
-   "titre": "Urban Nature : Invaluable but Uncounted - Unlocking the Value of Nature in Cities through Natural Capital Accounting",
-   "resume": "Cities depend on nature, but municipal decisions often do not reflect its value. Urban natural capital, such as wetlands, rivers, forests, parks, and other green and blue spaces, helps cities manage floods, reduce heat, improve public health, support livability, and strengthen long -term resilience.",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226004035065",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "4b9449a1503a",
-   "cat": "economie",
-   "titre": "Initial Environmental and Social Review Summary (ESRS) - Sustainable Climate-Resilient Accelerated Local Economic Development - P518779",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102126231519666",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "24403cfa21bb",
-   "cat": "economie",
-   "titre": "St Maarten - LATIN AMERICA AND CARIBBEAN- P177679- Improving Mental Health Services in Sint Maarten - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226025515094",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "276e1d9681fa",
-   "cat": "economie",
-   "titre": "Philippines - EAST ASIA AND PACIFIC- P173866- Mindanao Inclusive Agriculture Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102126212036510",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "a372d4c9a34c",
-   "cat": "economie",
-   "titre": "Initial Project Information Document (PID) - Public Expenditures for Administrative Capacity Endurance (PEACE) in Ukraine - P178946",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102126212540411",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "242bbea6defa",
-   "cat": "economie",
-   "titre": "Georgia - EUROPE AND CENTRAL ASIA- P518850- Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste GFPP - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226001524289",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "4347d8cd1553",
-   "cat": "economie",
-   "titre": "India - SOUTH ASIA- P170873- Second Dam Rehabilitation and Improvement Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226002514244",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "be0bfb4a2e27",
-   "cat": "economie",
-   "titre": "Project Information Document - Pathways to Sustainable Livelihoods Project - P177814",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226025018690",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "96de21b3d0bb",
-   "cat": "economie",
-   "titre": "Azerbaijan - EUROPE AND CENTRAL ASIA- P515925- GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in Azerbaijan - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226031523282",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "dfe58a64fc8c",
-   "cat": "economie",
-   "titre": "Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P131324- PK-Sindh Barrages Improvement Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102126214532711",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "1110fbd505ef",
-   "cat": "economie",
-   "titre": "Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P167428- Kyrgyz Republic Regional Economic Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226031525758",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-22T04:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "67b6e1aa831c",
-   "cat": "geopolitique",
-   "titre": "Presentation of letters of credence to the President of the European Council António Costa and the President of the European Commission Ursula von der Leyen",
-   "resume": "President Costa and President von der Leyen received letters of credence from nineteen new Ambassadors to the European Union.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/22/presentation-of-letters-of-credence-to-the-president-of-the-european-council-antonio-costa-and-the-president-of-the-european-commission-ursula-von-der-leyen/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-22T11:00:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "9d631368269d",
-   "cat": "geopolitique",
-   "titre": "Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market",
-   "resume": "The Council and the Parliament agreed new rules to revitalise the EU’s securitisation market - an integral part of the savings and investments union (SIU) and the ‘One Europe, One Market’ roadmap to boost economic growth.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-21T23:17:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "1070e91fc004",
-   "cat": "geopolitique",
-   "titre": "Libya/Türkiye: Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives",
-   "resume": "Statement by the High Representative on behalf of the EU on the ratification of the Libya-Türkiye MoU by Libya’s House of Representatives.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-21T18:54:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "128697f96dad",
-   "cat": "geopolitique",
-   "titre": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers",
-   "resume": "Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-21T17:40:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "cf00b121e9a6",
-   "cat": "geopolitique",
-   "titre": "Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules",
-   "resume": "Simplification: Council agrees position to streamline EU’s data, privacy and cyber reporting rules.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-21T17:30:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "ee173bf7ef23",
-   "cat": "geopolitique",
-   "titre": "ETS market stability reserve: Council and Parliament reach provisional agreement on targeted amendment",
-   "resume": "The Council and the European Parliament reached a provisional agreement on amending the rules on the invalidation of allowances in the market stability reserve, in order to increase long-term market liquidity and predictability within its emission trading system.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-21T11:49:00+00:00",
-   "lot": "2026-10-22"
-  },
-  {
-   "id": "e0be5642ad11",
-   "cat": "jobs",
-   "titre": "AI Solution Engineer",
-   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5013115101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T04:37:44-04:00",
-   "lot": "2026-10-22"
-  },
   {
    "id": "064c79570992",
    "cat": "sante",
@@ -3169,59 +2797,491 @@
    "type_source": "entreprise",
    "publie": "2026-10-28T08:57:46-04:00",
    "lot": "2026-10-29"
+  },
+  {
+   "id": "e183f4ceaeb8",
+   "cat": "sante",
+   "titre": "[Editorial] Improving men's health in a changing world",
+   "resume": "Many men are failing to thrive. Shorter life expectancies for men than for woman first emerged in the 19th century and the gap has continued to widen (albeit with geographical variations). Men have a higher burden of illness: global disability-adjusted life-years are 16% greater among men than women",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02190-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "10e256baf890",
+   "cat": "sante",
+   "titre": "QuickStats: Percentage of Children and Adolescents Aged 5-17 Years Who Had Ever Received a Diagnosis of Attention-Deficit/Hyperactivity Disorder, by Sex and Year - United States, 2019-2025",
+   "resume": "This report describes the percentage of children and adolescents who had ever received an attention-deficit/hyperactivity disorder diagnosis during 2019-2025.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766759",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-10-29T17:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "576c66b227d1",
+   "cat": "sante",
+   "titre": "Alejandro De Cruz Hiernaux",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/alejandro-de-cruz-hiernaux/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-10-29T15:25:03+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "728963d0a0d8",
+   "cat": "sante",
+   "titre": "[Comment] From PROSpect to the bedside: contextual and pathophysiological considerations",
+   "resume": "Paediatric acute respiratory distress syndrome (PARDS) is a common, severe manifestation of direct or indirect lung injury in children. Management focuses on the careful implementation of lung protective strategies with high-frequency oscillatory ventilation (HFOV) and prone positioning often deploy",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02054-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "e33ac990b470",
+   "cat": "sante",
+   "titre": "Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Experiencing Homelessness - Missoula County, Montana, July 2024-September 2025",
+   "resume": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766756",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-10-29T17:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "8e44ccb89c0a",
+   "cat": "sante",
+   "titre": "Julie Cathala",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/julie-cathala/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-10-29T15:22:59+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "62d552a4c756",
+   "cat": "sante",
+   "titre": "[Comment] Non-invasive tests in MASH: clinical practice versus trials",
+   "resume": "Non-invasive tests (NITs) are central to clinical decision making in metabolic dysfunction-associated steatotic liver disease, including risk stratification, treatment decisions, referral pathways, and recruitment into clinical trials.1 As pharmacological treatments for metabolic dysfunction-associa",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01144-X/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "3b83b2f9e368",
+   "cat": "sante",
+   "titre": "Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Experiencing Homelessness - Missoula County, Montana, July 2024-September 2025",
+   "resume": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766755",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-10-29T17:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "63a83e3f90b4",
+   "cat": "sante",
+   "titre": "[Comment] Men's health: recognising and responding to the problems",
+   "resume": "The authors of The Lancet's Series on men's health1–3 provide a genuinely world-scale picture of the issues. Their approach links biological with social process, and emphasises intersectional perspectives. The Series papers offer valuable case studies, and a suite of proposals to move health policy ",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02098-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "6fc2800299e1",
+   "cat": "sante",
+   "titre": "[Comment] Offline: Seizing new opportunities for climate and health",
+   "resume": "The Lancet Countdown on health and climate change celebrated its tenth anniversary this week. The Countdown was preceded by two Lancet Commissions that sought to mobilise multiple disciplines within universities to address the climate crisis. The first Commission, in 2009, identified climate change ",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02141-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "075a03c19d78",
+   "cat": "sante",
+   "titre": "[World Report] Health-care costs could help decide US midterm elections",
+   "resume": "With an opportunity to overturn Republican control of Congress, Democrats hope to win voters’ support by focusing on cuts to health-care programmes. Susan Jaffe reports from Washington, DC.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02187-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "7e1fbf30df3f",
+   "cat": "sante",
+   "titre": "[World Report] Wild polio cases rise in Afghanistan",
+   "resume": "Afghanistan has reported twice as many polio cases than in 2025, prompting concern over the Taliban's vaccination policies. Samaan Lateef reports.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02188-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "e362e4d7ebda",
+   "cat": "economie",
+   "titre": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-30T09:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "b4388548771b",
+   "cat": "economie",
+   "titre": "Les entreprises en France",
+   "resume": "Cet espace recense les analyses structurelles sur les entreprises en France, leurs caractéristiques, leur diversité, leur dynamique de croissance et de renouvellement, leurs performances, l’emploi qu’elles génèrent. Les analyses traitent également des grands enjeux de l’économie française (mondialis",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/7667330",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-10-29T14:54:18+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "2fadf1e7ec08",
+   "cat": "economie",
+   "titre": "Le financement des PME et des entrepreneurs 2026 (version abrégée) : Tableau de bord de l’OCDE",
+   "resume": "Les petites et moyennes entreprises (PME) et les entrepreneurs ont dû faire face à une succession de chocs ces dernières années, qui ont pesé sur leur accès au financement. Si les conditions de financement se sont assouplies dans de nombreuses économies après une période de resserrement monétaire, l",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/le-financement-des-pme-et-des-entrepreneurs-2026-version-abregee_fde24b00-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-01T23:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "1e2ee9828f32",
+   "cat": "economie",
+   "titre": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-29T15:50:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "e199bca473c6",
+   "cat": "economie",
+   "titre": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-29T14:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "8be498015a19",
+   "cat": "economie",
+   "titre": "Monetary policy decisions",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-29T13:15:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "807313260077",
+   "cat": "economie",
+   "titre": "Tonga - Pacific Resilience Program Project",
+   "resume": "Ratings of the Pacific Resilience Program for Tonga were as follows: outcome was moderately satisfactory; Bank performance was moderately satisfactory; M&E quality was substantial. Lessons learned indicate that comprehensively strengthening early warning, resilient investments, and financial protect",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102926034514333",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "8260009842b8",
+   "cat": "economie",
+   "titre": "Sri Lanka - SOUTH ASIA- P163714- General Education Modernization Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102926232521545",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "da1e76e55354",
+   "cat": "economie",
+   "titre": "Initial Environmental and Social Review Summary (ESRS) - Himachal Pradesh Progressive Roads for  Agro-Logistics Growth and Accessibility through Technology &​ Innovation​ - P519325",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102926234530917",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "149ac6cab81c",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P173487- Agriculture Value Chain Development Project (ICARE) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102926231542737",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "5b56804b7788",
+   "cat": "economie",
+   "titre": "Disclosable Restructuring Paper - Fiscal Management Project - P181155",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026022537019",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "488866c8d486",
+   "cat": "economie",
+   "titre": "Lao People's Democratic Republic - EAST ASIA AND PACIFIC- P507442- Improving Frontline Workers Performance in Education and Health Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099102926231541817",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "28a85f4aef76",
+   "cat": "geopolitique",
+   "titre": "Afghanistan : la production d’opium remonte en flèche malgré l’interdiction des talibans",
+   "resume": "Quatre ans après l’interdiction de la culture du pavot par les talibans, la production d’opium a été multipliée par cinq en Afghanistan. Selon un rapport de l’ONU publié jeudi, la pauvreté pousse les agriculteurs à défier les autorités, tandis que les prix élevés et la résistance des réseaux de traf",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159750",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "15dd9e765cc5",
+   "cat": "geopolitique",
+   "titre": "Remarks by President António Costa at the official dinner of the EU-Canada summit",
+   "resume": "On 29 October 2026, President António Costa delivered remarks at the official dinner of the 21st EU-Canada summit of 29-30 October 2026, in Montreal.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-official-dinner-of-the-eu-canada-summit/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-30T07:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "864cfd55cda6",
+   "cat": "geopolitique",
+   "titre": "Ukraine : quand prendre le train devient un risque mortel",
+   "resume": "Au moins 13 personnes ont été tuées et 10 autres blessées jeudi dans une attaque russe par drone contre la gare principale de Dnipro, dans le centre-est de l’Ukraine. Le Secrétaire général de l'ONU et le coordinateur humanitaire des Nations Unies dans le pays ont condamné cette frappe, qui a frappé ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159749",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "354495d7f1cc",
+   "cat": "geopolitique",
+   "titre": "Closing remarks by President António Costa at the EU-Canada Business Forum",
+   "resume": "On 29 October 2026, President António Costa delivered closing remarks at the EU-Canada Business Forum, ahead of the 21st EU-Canada summit of 29-30 October 2026, in Montreal.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/29/closing-remarks-by-president-antonio-costa-at-the-eu-canada-business-forum/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-29T20:15:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "87e4e1685b1c",
+   "cat": "geopolitique",
+   "titre": "La nature reprend ses droits, mais les financements pour la restaurer doivent quadrupler",
+   "resume": "De la Chine à l’Afrique, 252 millions d’hectares d’écosystèmes sont en cours de restauration dans le monde. Un effort sans précédent, mais encore très insuffisant pour atteindre les objectifs fixés pour 2030. Les milieux aquatiques restent particulièrement négligés, tandis que les financements néces",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159748",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "7d76c63c3a62",
+   "cat": "geopolitique",
+   "titre": "Discours du président António Costa au Conseil des relations internationales de Montréal",
+   "resume": "Le 29 octobre 2026, le président António Costa a prononcé un discours devant le Conseil des relations internationales de Montréal (CORIM), en amont du vingt-et-unième sommet UE-Canada, qui se tiendra les 29 et 30 octobre 2026 à Montréal.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/29/speech-by-president-antonio-costa-at-the-montreal-council-on-foreign-relations/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-29T18:45:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "a2cd5cc5b3e1",
+   "cat": "geopolitique",
+   "titre": "Haïti : l’insécurité alimentaire menace d’atteindre un niveau record",
+   "resume": "La violence, l’instabilité économique, les mauvais résultats agricoles et les déplacements de population, associés à l’impact croissant du phénomène El Niño, sont à l’origine de « perspectives sombres » pour Haïti. Selon une nouveau rapport de l’ONU, la faim aiguë dans le pays insulaire poursuit sa ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159744",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "4dbe165a7a34",
+   "cat": "geopolitique",
+   "titre": "European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania",
+   "resume": "The Council adopted the fourth bilateral assistance measure, worth €20 million, under the European Peace Facility (EPF) in support of the armed forces of Mauritania, which will help the country promote stability in the Sahel and safeguard its territorial integrity and sovereignty.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/29/european-peace-facility-council-adopts-4th-bilateral-assistance-measure-in-support-of-mauritania/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:30:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "c697320905ef",
+   "cat": "geopolitique",
+   "titre": "Kenya : l’ONU anticipe un nouvel afflux de réfugiés venus d'Ethiopie",
+   "resume": "Environ 50.000 personnes ont déjà fui les violences en Éthiopie pour trouver refuge dans le nord du Kenya et l'ONU prévoit l’arrivée de 30 000 réfugiés supplémentaires dans les prochains jours. Face à cet afflux, les autorités kenyanes et leurs partenaires humanitaires préparent une opération d’assi",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159746",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "ab7fe1ec58ac",
+   "cat": "geopolitique",
+   "titre": "Council publishes 2025 international climate finance figures",
+   "resume": "In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt to the impacts of climate change.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-29T10:48:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "6a986166c930",
+   "cat": "geopolitique",
+   "titre": "En mer, l’IA bouleverse les règles de la guerre",
+   "resume": "Traditionnellement, la puissance navale se mesurait au tonnage des bâtiments, à l’épaisseur de leur blindage et à la portée de leurs missiles. Cette époque touche à sa fin. À l’heure des drones autonomes, des cyberattaques et des navires sans équipage, l’intelligence artificielle transforme la sécur",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159747",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "e7e326b485c2",
+   "cat": "geopolitique",
+   "titre": "Yémen : le système de santé au bord de la rupture",
+   "resume": "Depuis début août, plus de 281 000 personnes ont été déplacées au Yémen, dont plus de la moitié dans le gouvernorat de Taëz. Alors que les combats entre les rebelles houthis et les forces progouvernementales entravent l’accès humanitaire, les attaques contre les structures de santé, les pénuries de ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159745",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-29T12:00:00+00:00",
+   "lot": "2026-10-30"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "Nature Medicine": {
    "derniere_activite": "2026-10-28"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "HAS guides": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "HAS DM": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-10-29"
+   "derniere_activite": "2026-10-30"
   }
  },
  "sources_silencieuses": [
