@@ -1,571 +1,7 @@
 {
- "maj": "2026-10-30T10:42:57.689529+00:00",
- "lot": "2026-10-30",
+ "maj": "2026-10-31T10:12:08.342001+00:00",
+ "lot": "2026-10-31",
  "articles": [
-  {
-   "id": "064c79570992",
-   "cat": "sante",
-   "titre": "Milk multi-omics links maternal health to infant growth",
-   "resume": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/d41591-026-00053-z Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00053-z",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-22T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "4fa9a5ef81c5",
-   "cat": "sante",
-   "titre": "[Comment] Mitapivat in the RISE UP trial: a new therapy for sickle cell disease",
-   "resume": "Sickle cell disease is the most common haemoglobinopathy, affecting more than 7 million people worldwide.1 Despite substantial morbidity and mortality, access to effective disease-modifying therapies remains limited.2,3 Hydroxyurea and chronic blood transfusions have both been shown to reduce acute ",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02046-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "03e88448a7fa",
-   "cat": "sante",
-   "titre": "Sibeprenlimab in IgA Nephropathy — Final Phase 3 Trial Analysis",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609127?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-22T02:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "b7b645962c3b",
-   "cat": "sante",
-   "titre": "Notes from the Field: Nontuberculous Mycobacteria Infections After Cosmetic Surgery Procedures in Mexico - United States, April-September 2025",
-   "resume": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766718",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-22T17:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "1579e754a006",
-   "cat": "sante",
-   "titre": "Immunology Dpt Seminar : “New insights into fine-tuning the actions of gc-family cytokines” by Waren Leonard",
-   "resume": "Warren Leonard NIH Distinguished Investigator National Heart, Lung, and Blood Institute, NIH Chief, Laboratory of Molecular Immunology and Director, Immunology Center Invited by James Di Santo & Lars Rogge",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/seminar-new-insights-into-fine-tuning-the-actions-of-gc-family-cytokines/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-22T16:36:44+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "b63412a780bd",
-   "cat": "sante",
-   "titre": "Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer",
-   "resume": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/s41591-026-04750-7 Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04750-7",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-22T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "813118c25156",
-   "cat": "sante",
-   "titre": "[Comment] Offline: Berlin diary",
-   "resume": "“WHO is a retirement home…We must reinvent multilateralism…We must be more candid with one another…We do not spend enough time talking with people who totally disagree with us…I have seen very few SDG badges…On trust, AI will not help…The paradox of using a product of science to disseminate anti-sci",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02116-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "5360f8f27c10",
-   "cat": "sante",
-   "titre": "Atacicept in IgA Nephropathy — Phase 3 Trial Final Efficacy Analysis",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610103?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-22T02:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "8fcea5bc40c7",
-   "cat": "sante",
-   "titre": "Acute Kidney Injury Among Patients with Drug Overdose-Involved Hospitalizations - United States, 2016-2025",
-   "resume": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766717",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-10-22T17:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "0ff1669c5b4e",
-   "cat": "sante",
-   "titre": "Seminar: Engineering human tissues for medical impact",
-   "resume": "Gordana Vunjak-Novakovic Columbia University, New York, NY All tissues and organs in the human body originate from populations of stem and progenitor cells that grow, differentiate, and assemble into functional structures in response to […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/seminar-engineering-human-tissues-for-medical-impact/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-10-22T12:23:14+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "77bd375368f7",
-   "cat": "sante",
-   "titre": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
-   "resume": "Nature Medicine, Published online: 21 October 2026; doi:10.1038/s41591-026-04749-0 Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04749-0",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-21T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "dd9edf24b612",
-   "cat": "sante",
-   "titre": "[World Report] Warnings over Ukraine maternity care",
-   "resume": "Russia's invasion and continued conflict have damaged facilities and led to workforce shortages. Ed Holt reports.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02114-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "da039c1481be",
-   "cat": "economie",
-   "titre": "ECB Consumer Expectations Survey results – September 2026",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-23T08:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "8e2096a0a0a7",
-   "cat": "economie",
-   "titre": "Les salaires dans le secteur privé en 2025",
-   "resume": "En 2025, un salarié du secteur privé gagne en moyenne 2 797 euros net par mois en équivalent temps plein (EQTP). L’inflation poursuivant sa décrue en 2025 (+0,9 %, après +2,0 % en 2024), le salaire net moyen en euros constants progresse pour la deuxième année consécutive : +1,5 %, après +0,8 % en 20",
-   "limite": 0,
-   "lien": "https://www.insee.fr/fr/statistiques/9087193",
-   "source": "INSEE",
-   "type_source": "organisation",
-   "publie": "2026-10-22T15:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "75298697c2f7",
-   "cat": "economie",
-   "titre": "East Asia and Pacific - EAST ASIA AND PACIFIC- P181555- Accelerating Sustainable Energy Transition Program - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326014073690",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "8651fd4f4671",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Gujarat Outcomes for Accelerated Learning (GOAL) - P173704 - Sequence No : 11",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226232012155",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "226305566025",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Sava and Drina Rivers Corridors Integrated Development Program - P168862 - Sequence No : 14",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326031534999",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "01b22e5802ea",
-   "cat": "economie",
-   "titre": "Indonesia - EAST ASIA AND PACIFIC- P180811- Indonesia Health Systems Strengthening Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226232015736",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "3fb472435f29",
-   "cat": "economie",
-   "titre": "South Sudan - EASTERN AND SOUTHERN AFRICA- P176900- South Sudan Women's Social and Economic Empowerment Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326024016235",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "173c09b30047",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Gujarat Outcomes for Accelerated Learning (GOAL) - P173704 - Sequence No : 11",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226232088848",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "7aeca349f959",
-   "cat": "economie",
-   "titre": "Guyana - LATIN AMERICA AND CARIBBEAN- P508693- Guyana One Health Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226214021058",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "4aabf5b28ea8",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Kiribati Outer Islands Transport Infrastructure Investment Project - P165838 - Sequence No : 14",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102226232521539",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "1ec56221fd55",
-   "cat": "economie",
-   "titre": "Appraisal Project Information Document (PID)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326011542295",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "b02ddf082a6b",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Agriculture Modernization Project - P168014 - Sequence No : 15",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326030512308",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "83b99c9bb988",
-   "cat": "geopolitique",
-   "titre": "Congé parental : 196 jours pour les mères, 25 pour les pères",
-   "resume": "À l’échelle mondiale, les mères bénéficient de près de huit fois plus de jours de congé payé que les pères, les femmes continuant d’assumer l’essentiel des responsabilités liées aux soins des enfants et des proches. Un déséquilibre qui pénalise les femmes et affecte les familles, les enfants et les ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159714",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "34e3bd9112b5",
-   "cat": "geopolitique",
-   "titre": "EU-Western Balkans summit to take place in Brussels on 25 November",
-   "resume": "EU and Western Balkans leaders will meet in Brussels on 25 November. The Summit will highlight the strategic importance of the relations between the EU and the Western Balkans. The President of the European Council will represent the EU at the summit together with the President of the European Commi",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-23T10:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "4d6f1a1efb50",
-   "cat": "geopolitique",
-   "titre": "« Guerre au narcoterrorisme » : un expert de l’ONU dénonce des exécutions illégales",
-   "resume": "La lutte contre le narcotrafic ne saurait justifier des exécutions extrajudiciaires ni le recours aux pouvoirs antiterroristes contre les gangs criminels. C’est l’avertissement lancé jeudi par un expert indépendant de l’ONU qui dénonce les conséquences de la nouvelle stratégie de « guerre au narcote",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159713",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "9f2bd320a703",
-   "cat": "geopolitique",
-   "titre": "Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission",
-   "resume": "On 22 October 2026, European Council President António Costa and European Commission President Ursula von der Leyen held talks with President of Viet Nam Tô Lâm in Brussels on bilateral cooperation, regional security and global challenges.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-22T16:20:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "619d725cdf50",
-   "cat": "geopolitique",
-   "titre": "Somalie : plus de 800 000 personnes menacées de déplacement par les inondations",
-   "resume": "En Somalie, des pluies supérieures à la normale sont attendues d'ici à la fin de l'année. Elles risquent de chasser de chez elles des centaines de milliers de personnes déjà éprouvées par la sécheresse et les déplacements à répétition.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159711",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "ec12472a3ad6",
-   "cat": "geopolitique",
-   "titre": "Moyen-Orient : Guterres dénonce une escalade militaire « hors de contrôle »",
-   "resume": "Alors que les combats s’intensifient au Yémen, le chef de l’ONU a mis en garde, jeudi, contre l’extension des conflits au Moyen-Orient. Il a également dénoncé les restrictions israéliennes à l’aide humanitaire à Gaza et les violences de colons en Cisjordanie occupée, avant une visite prévue vendredi",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159712",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "b9d2c40a6972",
-   "cat": "geopolitique",
-   "titre": "Asie-Pacifique : le PNUD veut placer le développement au cœur des stratégies de sécurité",
-   "resume": "Catastrophes climatiques, précarité économique, cybercriminalité, commerce illicite, défiance envers les institutions : en Asie-Pacifique, les menaces pour la sécurité se multiplient et se renforcent les unes les autres. Dans un rapport publié jeudi, le Programme des Nations Unies pour le développem",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159708",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "05ca45cfac92",
-   "cat": "geopolitique",
-   "titre": "Ebola : face à la propagation régionale du virus, l’OMS appelle à une vigilance collective",
-   "resume": "La confirmation d’un cas importé au Nigéria, neuf cas signalés au Kenya et la persistance de l’épidémie en République démocratique du Congo (RDC) soulignent l’ampleur régionale de la menace liée au virus Ebola de Bundibugyo. Face à cette propagation, l’Organisation mondiale de la santé (OMS) appelle",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159709",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "9ffd4c4b46a9",
-   "cat": "geopolitique",
-   "titre": "De la multiplication des guerres aux manifestations de rue : « faites le lien », exhorte Guterres",
-   "resume": "De l’Europe aux pays en développement, la multiplication des conflits dans le monde alimente la hausse du coût de la vie et les frustrations sociales. Jeudi, le chef de l’ONU a alerté sur le lien entre les guerres, le creusement des inégalités et les mouvements de contestation qui secouent plusieurs",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159710",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-22T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "2c8cb696e7f5",
-   "cat": "geopolitique",
-   "titre": "Trafic de migrants vers l’Europe : des centaines de millions de dollars engrangés par les passeurs",
-   "resume": "Les migrants ayant tenté de rejoindre l’Europe par la mer ont versé entre 388 et 509 millions de dollars aux réseaux de passeurs en 2025, selon des estimations de l’Office des Nations Unies contre la drogue et le crime (ONUDC), publiées mercredi avec l’Organisation internationale pour les migrations",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159707",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-21T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "ca8bff4eff1a",
-   "cat": "geopolitique",
-   "titre": "Chaleur extrême : mieux mesurer les risques pour protéger mères et enfants",
-   "resume": "La chaleur extrême menace la santé des femmes enceintes, des nouveau-nés et des enfants. Quatre agences des Nations Unies lancent une série inédite d’indicateurs pour aider les pays à mesurer ces risques et à mieux protéger les plus vulnérables.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159706",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-21T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "86ceb0b134a6",
-   "cat": "geopolitique",
-   "titre": "À Samarcande, un sommet pour changer la vie des enfants",
-   "resume": "Face aux conflits, à la pauvreté et au dérèglement climatique, investir dans la santé, l’éducation et la protection des enfants est plus urgent que jamais. Réunis à Samarcande, en Ouzbékistan, plus de 600 participants venus de plus de 100 pays cherchent des solutions pour garantir à chaque enfant le",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159705",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-21T12:00:00+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "9e94da30a9eb",
-   "cat": "jobs",
-   "titre": "2026-17841 - Data Manager Senior - Projets biomédicaux de l'Institut Pasteur - CDI H/F/X",
-   "resume": "Métier : Informatique/Ingénieur technique confirmé (Informatique) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en plein Paris (15è arr",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17841&idOrigine=502&LCID=1036&offerReference=2026-17841",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T23:02:14+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "011457c8165e",
-   "cat": "jobs",
-   "titre": "Information Delivery & Visualization Engineer",
-   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5013714101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T09:57:08-04:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "1274fdaf66a0",
-   "cat": "jobs",
-   "titre": "2026-17323 - Ingénieur Virtualisation / Stockage",
-   "resume": "Métier : Informatique/Ingénieur technique confirmé (Informatique) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17323&idOrigine=502&LCID=1036&offerReference=2026-17323",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T14:01:09+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "dff98a47754f",
-   "cat": "jobs",
-   "titre": "Director of Operations, Workplace Experience",
-   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5011870101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T08:08:32-04:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "3aed91178743",
-   "cat": "jobs",
-   "titre": "2026-17058 - Ingénieur système Linux H/F/X",
-   "resume": "Métier : Informatique/Ingénieur technique confirmé (Informatique) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de l",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17058&idOrigine=502&LCID=1036&offerReference=2026-17058",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T14:00:52+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "bff37705a267",
-   "cat": "jobs",
-   "titre": "2026-17433 - Médecin du travail H/F/X",
-   "resume": "Métier : Medecin/Cadre médical (Medecin) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publique avec une ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17433&idOrigine=502&LCID=1036&offerReference=2026-17433",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T14:00:24+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "c850e6148481",
-   "cat": "jobs",
-   "titre": "2026-17724 - Responsable CSP Finance H/F/X",
-   "resume": "Métier : Finance/Cadre administratif confirmé (Finance) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé pub",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17724&idOrigine=502&LCID=1036&offerReference=2026-17724",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T13:59:57+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "d46c11733ad3",
-   "cat": "jobs",
-   "titre": "2026-17998 - Chargé de gestion administrative et financière H/F/X",
-   "resume": "Métier : Finance/Technicien administratif (Finance) Type de contrat : Contrat à durée déterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publique ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17998&idOrigine=502&LCID=1036&offerReference=2026-17998",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T13:59:30+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "23eb99ee321b",
-   "cat": "jobs",
-   "titre": "2026-17987 - Comptable Fournisseurs H/F/X",
-   "resume": "Métier : Finance/Technicien administratif (Finance) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publiqu",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17987&idOrigine=502&LCID=1036&offerReference=2026-17987",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T13:59:11+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "1e105ede104e",
-   "cat": "jobs",
-   "titre": "2026-17983 - Technicien de laboratoire - CNR Mycoses H/F/X",
-   "resume": "Métier : Autres domaines Recherche Clinique/Technicien supérieur de recherche clinique Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17983&idOrigine=502&LCID=1036&offerReference=2026-17983",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T13:58:49+00:00",
-   "lot": "2026-10-23"
-  },
-  {
-   "id": "0160ec54c26f",
-   "cat": "jobs",
-   "titre": "2026-17729 - Ergonome temps partiel 80% H/F/X",
-   "resume": "Métier : Qualité, Hygiène, Sécurité, Sureté, Environnement, Dev.Dur./Technicien (Qualité, Hygiène, Sécurité, Sureté, Environnement, Dev.Dur.) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contrib",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17729&idOrigine=502&LCID=1036&offerReference=2026-17729",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-22T13:58:23+00:00",
-   "lot": "2026-10-23"
-  },
   {
    "id": "c9e6283ece42",
    "cat": "sante",
@@ -3229,59 +2665,527 @@
    "type_source": "organisation",
    "publie": "2026-10-29T12:00:00+00:00",
    "lot": "2026-10-30"
+  },
+  {
+   "id": "234dd17583b4",
+   "cat": "sante",
+   "titre": "Climate change threatens malaria elimination in the Asia Pacific",
+   "resume": "Nature Medicine, Published online: 30 October 2026; doi:10.1038/s41591-026-04722-x A multidisciplinary group of policymakers and researchers discusses the impacts of climate change on malaria in the Asia Pacific, identifies gaps in national adaptation strategies and outlines five priority actions fo",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04722-x",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-30T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "748e28d65a14",
+   "cat": "sante",
+   "titre": "Applying digital twins to prevent preterm births",
+   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/d41591-026-00056-w Researchers developed a digital twin framework to safely evaluate the effects of drugs on the immune system and time to labor, which could enable personalized interventions to prevent preterm births.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/d41591-026-00056-w",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-29T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "a1ac0b0eb872",
+   "cat": "sante",
+   "titre": "A small-molecule TREM2 agonist for Alzheimer’s disease",
+   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/d41591-026-00055-x Preclinical analysis and a phase 1 trial support VG-3927 as a promising drug candidate for Alzheimer’s disease, demonstrating successful penetration of the central nervous system, target engagement and tolerability.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/d41591-026-00055-x",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-29T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "f4fb157a3623",
+   "cat": "sante",
+   "titre": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
+   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04723-w A 5-year secondary analysis of the phase 2 PHERGain trial supports the clinical utility of a PET-guided adaptive strategy for treatment de-escalation in HER2-positive early breast cancer and provides circulating tumor",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04723-w",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-29T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "86ae7eb5bd4f",
+   "cat": "sante",
+   "titre": "A clinical multimodal vision language foundation model with fine-grain explainability",
+   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04655-5 A multimodal vision language foundation model, EVLF-FM, integrates extensive clinical data and advanced training techniques, achieving superior diagnostic accuracy and explainability across diverse imaging modalities,",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04655-5",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-29T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "0b48ffdf5b97",
+   "cat": "sante",
+   "titre": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum",
+   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04721-y A high-resolution snRNA-seq atlas of 189 colorectal tumors from patients aged 20–90+ years uncovers age-associated features of colorectal cancer.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04721-y",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-10-29T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "e0064cb67196",
+   "cat": "sante",
+   "titre": "[World Report] First human case of Shamonda virus recorded",
+   "resume": "A patient in France has died from the infection, which normally affects cattle. Virologists say the wider risk to public health is low. Marianne Guenot reports.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02189-6/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "03135deb03a2",
+   "cat": "sante",
+   "titre": "[Perspectives] Derek Griffith: transformative leader in men's health",
+   "resume": "“We know a lot about male health. We don’t know a lot about men's health”, says Derek Griffith, who is one of the authors of a new Lancet Series on men's health. “Male health is about male bodies and hormones. Men's health is more holistic and comprehensive and should consider psychological, social,",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02151-3/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "847edb2d906c",
+   "cat": "sante",
+   "titre": "[Perspectives] James W Catto: tackling the inequalities in men's health",
+   "resume": "Jim Catto, co-leading author of the Lancet Series on men's health, was reluctant to be the subject of a profile, insisting it is more important to highlight what he is trying to accomplish: tackling the inequalities in men's health. The patients he cares for come mainly from South Yorkshire, where h",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02152-5/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "270f2095f1e9",
+   "cat": "sante",
+   "titre": "[Perspectives] Aid cuts and the slow death of a rural lifeline",
+   "resume": "On my tenth visit, it took me two attempts to find the care and treatment centre (CTC) for people living with HIV/AIDS in Miono, Tanzania. The one-storey white building, where patients used to sit along wooden benches waiting to be called, was now filled with motorbikes and a few people milling outs",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02153-7/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "4ab2a44e95e0",
+   "cat": "sante",
+   "titre": "[Obituary] Paul Veys",
+   "resume": "Pioneer of paediatric stem cell transplantation and Director of the Bone Marrow Transplant Unit at Great Ormond Street Hospital for Children, UK. Born in Dar es Salaam, Tanzania, on Aug 7, 1960, he died of metastatic cholangiocarcinoma on July 18, 2026, in Winchelsea, UK, aged 65 years.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02154-9/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "19e89532eace",
+   "cat": "sante",
+   "titre": "[Correspondence] Lessons from the WHO South-East Asia Regional Director debacle",
+   "resume": "Saima Wazed, the Regional Director for WHO's South-East Asia Regional Office, resigned in September, 2026.1 Wazed's appointment drew considerable public attention and controversy, particularly when her qualifications were compared with those of other candidates.2,3",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02087-8/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "fb4eeae5b207",
+   "cat": "economie",
+   "titre": "Philip R. Lane: AI adoption in Europe",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-30T16:10:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "a664ad024dba",
+   "cat": "economie",
+   "titre": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-10-30T14:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "a7a0d51b75ed",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P180811- Indonesia Health Systems Strengthening Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103126040017124",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-31T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "6c87ae7e6b4e",
+   "cat": "economie",
+   "titre": "India - SOUTH ASIA- P179189- Tamil Nadu Climate Resilient Urban Development Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026204543365",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-31T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "89342aaa4ace",
+   "cat": "economie",
+   "titre": "Burundi - EASTERN AND SOUTHERN AFRICA- P177146- Urban Resilience Emergency Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103126015528514",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-31T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "dc9d3a0d90df",
+   "cat": "economie",
+   "titre": "FinHealth: Public Financial Management in Health Diagnostic Toolkit 2.0",
+   "resume": "This toolkit aims to assist practitioners to identify and address Public Financial Management (PFM) constraints that contribute to shortcomings in health service delivery. This Toolkit is anchored in its orientation toward solving health service problems. It starts by asking what is not working for ",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099101226054532238",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "fee4f9bd3bd0",
+   "cat": "economie",
+   "titre": "Rethinking Fiscal Policy to Support the Green Transition : Ensuring a Just Pathway for Bulgarian Vulnerable Household",
+   "resume": "Bulgaria's fiscal system reduces inequality substantially through in-kind health and education services, but its poverty-reducing capacity has weakened over time — and the green transition threatens to deepen this structural vulnerability. This paper provides the most comprehensive fiscal incidence ",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026072575152",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "c32ed5787099",
+   "cat": "economie",
+   "titre": "Central Africa - WESTERN AND CENTRAL AFRICA- P175235- Central Africa Regional Waterways Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026085536460",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "d9bc4fbfccba",
+   "cat": "economie",
+   "titre": "Burundi - Country Climate and Development Report",
+   "resume": "Climate change is a development challenge for Burundi, but it does not have to determine the country’s future. This first Burundi Country Climate and Development Report (CCDR) shows that ambitious climate action can protect people and livelihoods while supporting accelerated and inclusive growth. Bu",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026123517645",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "c2f44222795f",
+   "cat": "economie",
+   "titre": "Project Information Document - Support for Resilient Livelihoods in the South of Madagascar - MIONJO Project - P171056",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026150548262",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "bfa0cc4dc606",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Getting Results: Access and Delivery of Quality Education Services in Balochistan  - P507512 - Sequence No : 3",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026193040594",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "c2b9d4e2b2cf",
+   "cat": "economie",
+   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176181- Eastern Africa Regional Digital Integration Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099103026055034309",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-10-30T04:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "40c70b6345fb",
+   "cat": "geopolitique",
+   "titre": "À Dakar, six jeunes réfugiés entrent dans l’histoire olympique",
+   "resume": "Pour la première fois, une équipe de réfugiés participera aux Jeux olympiques de la jeunesse, qui s’ouvrent samedi au Sénégal. Derrière cette avancée symbolique, le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) rappelle que des millions d’enfants déracinés restent privés des possibilit",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159761",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "176a8e13af7d",
+   "cat": "geopolitique",
+   "titre": "Weekly schedule of President António Costa",
+   "resume": "Weekly schedule of President António Costa, 2-8 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/weekly-schedule-of-president-antonio-costa/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-30T17:50:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "351300449632",
+   "cat": "geopolitique",
+   "titre": "Cybercriminalité : avec l’IA, tout le monde peut devenir escroc",
+   "resume": "Faux messages, voix clonées, vidéos truquées. L’intelligence artificielle permet aux cybercriminels de multiplier les attaques tout en réduisant leurs coûts et leurs besoins en compétences techniques. L’ONU alerte sur cette démocratisation de la fraude et appelle les États à renforcer leur coopérati",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159760",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "d06125e90401",
+   "cat": "geopolitique",
+   "titre": "Intervention du président António Costa lors de la conférence de presse à l'issue du sommet UE-Canada",
+   "resume": "Le président du Conseil européen, António Costa, a présenté les principaux résultats des discussions menées par les dirigeants lors du 21e sommet UE-Canada qui s'est tenu à Montréal les 29 et 30 octobre 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-canada-summit/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-30T17:20:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "872c1ce12cb4",
+   "cat": "geopolitique",
+   "titre": "Ukraine, Syrie, Liban, Afghanistan : le HCR mobilisé face à l'urgence hivernale",
+   "resume": "Le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) a lancé vendredi un appel aux dons pour venir en aide à 9 millions de personnes en Ukraine, en Syrie, au Liban et en Afghanistan, confrontées aux rigueurs de l’hiver. L’agence espère recueillir au moins 50 millions de dollars pour financ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159755",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "df364e18f348",
+   "cat": "geopolitique",
+   "titre": "Déclaration conjointe du sommet UE-Canada, 30 octobre 2026",
+   "resume": "Les dirigeants de l’Union européenne et du Canada ont tenu leur 21e sommet UE-Canada à Montréal les 29 et 30 octobre 2026, et se sont mis d’accord sur une déclaration conjointe.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-30T16:40:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "df59f60a9755",
+   "cat": "geopolitique",
+   "titre": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
+   "resume": "Du dépistage précoce des maladies à l’automatisation des tâches administratives, l’intelligence artificielle promet de transformer les soins de santé. Mais son déploiement soulève des questions de sécurité, de confidentialité et d’égalité d’accès. Jeudi, les États de la région européenne de l’Organi",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159757",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "8eecc5427f4f",
+   "cat": "geopolitique",
+   "titre": "Calendrier à venir: 2-15 novembre 2026",
+   "resume": "Aperçu des principaux sujets qui seront examinés lors des sessions du Conseil de l'UE au cours des deux prochaines semaines et événements médias à venir.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/forward-look-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-10-30T16:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "0e4dfa3da8ba",
+   "cat": "geopolitique",
+   "titre": "Gaza : l’expansion des positions israéliennes ravive les craintes d’un « nettoyage ethnique »",
+   "resume": "À Gaza, les opérations militaires ne connaissent aucun répit. Alors que les forces israéliennes n'ont de cesse d'étendre leurs positions, les déplacements forcés de Palestiniens se multiplient et leur espace disponible au sein de l’enclave se réduit, sans perspective deretour. Une situation qui ravi",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159756",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "d366fd732900",
+   "cat": "geopolitique",
+   "titre": "RDC : la faim gagne du terrain sur fond de conflits et d’Ebola",
+   "resume": "En République démocratique du Congo (RDC), près d’un quart de la population, soit 28,8 millions de personnes, fait face à une insécurité alimentaire aiguë, selon la dernière analyse du Cadre intégré de classification de la sécurité alimentaire (IPC). Dans l’est du pays, les conflits, les déplacement",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159753",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "b1ccd6dd051c",
+   "cat": "geopolitique",
+   "titre": "Du péril de la traversée à celui de la guerre, les réfugiés pris au piège au Yémen",
+   "resume": "Plus de 65 000 réfugiés et demandeurs d’asile voient leurs conditions de vie se dégrader rapidement au Yémen. Intensification des combats, effondrement économique et restrictions de l’accès humanitaire menacent leur sécurité et leur survie. Malgré ces dangers, des milliers de personnes continuent po",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159754",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-30T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "9ebdeb515d7a",
+   "cat": "geopolitique",
+   "titre": "Femmes journalistes : témoigner de la guerre, au péril de leur vie",
+   "resume": "Menaces, harcèlement en ligne, violences sexistes et impunité : les femmes journalistes qui couvrent les conflits sont confrontées à des risques croissants. À l’ONU, des professionnelles des médias et des responsables onusiens appellent à des mesures concrètes pour garantir leur sécurité et préserve",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159743",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-10-28T12:00:00+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "b7fbe0d1cea0",
+   "cat": "jobs",
+   "titre": "Director of Radiology, Product Marketing",
+   "resume": "US. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016, Aidoc has raised over $500 million a",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5024228101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-10-30T11:56:56-04:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "bff37705a267",
+   "cat": "jobs",
+   "titre": "2026-17433 - Médecin du travail H/F/X",
+   "resume": "Métier : Medecin/Cadre médical (Medecin) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publique avec une ",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17433&idOrigine=502&LCID=1036&offerReference=2026-17433",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-10-30T00:02:36+00:00",
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "1e105ede104e",
+   "cat": "jobs",
+   "titre": "2026-17983 - Technicien de laboratoire - CNR Mycoses H/F/X",
+   "resume": "Métier : Autres domaines Recherche Clinique/Technicien supérieur de recherche clinique Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de ",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17983&idOrigine=502&LCID=1036&offerReference=2026-17983",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-10-28T10:33:15+00:00",
+   "lot": "2026-10-31"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "The Lancet": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "NEJM": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "ONU Info": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-10-28"
+   "derniere_activite": "2026-10-31"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "INSEE": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "OCDE": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "Aidoc": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "HAS guides": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "HAS DM": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-10-30"
+   "derniere_activite": "2026-10-31"
   }
  },
  "sources_silencieuses": [
