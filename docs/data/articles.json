@@ -1,307 +1,7 @@
 {
- "maj": "2026-11-01T11:02:06.011589+00:00",
- "lot": "2026-11-01",
+ "maj": "2026-11-02T11:59:53.998025+00:00",
+ "lot": "2026-11-02",
  "articles": [
-  {
-   "id": "2a4771795224",
-   "cat": "sante",
-   "titre": "Thelaziasis",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609683?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T11:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "2964ae7cc4d7",
-   "cat": "sante",
-   "titre": "My Father’s Code",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2605919?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T11:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "1717ce13620e",
-   "cat": "sante",
-   "titre": "Abortion Care in Puerto Rico — A Fragile Legal Landscape",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607323?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T11:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "d3f2a8e28b60",
-   "cat": "sante",
-   "titre": "The Future of Health Agency Enforcement Fines",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2609972?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T11:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "74e71c81c9f0",
-   "cat": "sante",
-   "titre": "Durvalumab, Tremelimumab, and Enfortumab Vedotin in Muscle-Invasive Bladder Cancer",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608323?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T02:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "c9f85a86d669",
-   "cat": "sante",
-   "titre": "[Obituary] Khairul Islam",
-   "resume": "Public health doctor and sanitation pioneer. Born on June 25, 1959, in Tangail, in what is now Bangladesh, he died from a cardiac arrest in Dhaka, Bangladesh, on Aug 21, 2026, aged 68 years.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02113-6/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "53477e627e3d",
-   "cat": "sante",
-   "titre": "Tarlatamab–Durvalumab Maintenance for Extensive-Stage Small-Cell Lung Cancer",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609482?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-24T02:30:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "d9a40020930b",
-   "cat": "sante",
-   "titre": "[Correspondence] Communication: the missing pillar of clinical trial governance",
-   "resume": "On Sept 2, 2026, negative results of the phase 3 ASPIRE trial (NCT06617429) of apazunersen in Angelman syndrome were announced in a press release issued after the stock market closed.1 Angelman syndrome is a severe neurodevelopmental condition causing intellectual disability, epilepsy, and behaviour",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02030-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "9aec616d297b",
-   "cat": "sante",
-   "titre": "[Correspondence] Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease",
-   "resume": "We read with great interest the Review by Albert C M Ong and colleagues1 on autosomal dominant polycystic kidney disease (ADPKD), which we regard as an important contribution to the field.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "3b7dd37f572d",
-   "cat": "sante",
-   "titre": "[Correspondence] Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease – Authors’ reply",
-   "resume": "We thank Matteo Brambilla Pisoni and colleagues for highlighting the importance of nutritional assessment in autosomal dominant polycystic kidney disease (ADPKD). Their comments provide an opportunity to expand on this important aspect of ADPKD care. We agree that conventional anthropometric measure",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01902-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "fcbb5eaa5b8e",
-   "cat": "sante",
-   "titre": "[Correspondence] Beyond imaging thresholds in large-core stroke thrombectomy",
-   "resume": "Amrou Sarraj and colleagues reported an important individual patient data meta-analysis regarding endovascular thrombectomy (EVT) in patients with large-core ischaemic stroke, showing improved functional outcomes and reduced mortality up to 24 h after stroke onset.1 These findings challenge the para",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01642-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "05ae8dad4edb",
-   "cat": "sante",
-   "titre": "[Correspondence] Beyond imaging thresholds in large-core stroke thrombectomy – Authors’ reply",
-   "resume": "We thank Jordan Bakhriansyah and colleagues for their thoughtful commentary on our manuscript from the ATLAS individual patient data meta-analysis.1 Although their conceptual arguments merit consideration, we respectfully disagree with the clinical implications drawn from them.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01903-3/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "659c932b6ef8",
-   "cat": "economie",
-   "titre": "Initial Project Information Document (PID) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102526011024116",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-25T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "7fef85916b02",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) Liberia Forest Economy Project (LiFE-P) (P508345)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426145036160",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "5fb6f359b4ae",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Improving Frontline Workers Performance in Education and Health Project - P507442 - Sequence No : 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426114532920",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "a339d16b24e4",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - ENHANCING NIGER NORTHEASTERN CONNECTIVITY - P171793 - Sequence No : 11",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426063542803",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "310dd4ad5f8f",
-   "cat": "economie",
-   "titre": "Djibouti - MID EAST,NORTH AFRICA,AFG,PAK - P174461 - Djibouti Digital Foundations Project - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426091076261",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "b9672e28cd7a",
-   "cat": "economie",
-   "titre": "Environmental and Social Management Framework (ESMF) Recovery of Electricity Sector for Equitable Transition in Yemen (RESET) (P516972)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426092033238",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "b29b3321c1cb",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Romania First Fiscal and Growth DPF - P513191 - Sequence No : 1",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426060028113",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-24T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "47d4b643579a",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Benin Health System Enhancement Program (P172940) - P172940 - Sequence No : 10",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326093512178",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "3e97127bea52",
-   "cat": "economie",
-   "titre": "India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326101542050",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "4e001f7ee08b",
-   "cat": "economie",
-   "titre": "A Primer for Health Insurance Design: Issues and Options",
-   "resume": "This primer is written for policymakers who have decided to adopt new, or reform existing, health insurance schemes. Its purpose is to provide an overview of the design options, related concerns, and useful practices that have been observed in country experiences. The focus is on health insurance sc",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326134518190",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "4cc0a5df27e5",
-   "cat": "economie",
-   "titre": "Official Documents- Mitigation Outcome Purchase Agreement by and between Kyrgyz Republic and the IBRD for TF0D3216-KG.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326135077058",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "e9b10d700bed",
-   "cat": "economie",
-   "titre": "Key Performance Indicators for Health Insurance Schemes: The Essentials",
-   "resume": "This implementation guidance note introduces a framework for understanding and organizing key performance indicators (KPIs) for health insurance (HI) schemes, alongside global best practices. It is intended for policymakers and practitioners seeking practical insights to strengthen the performance a",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102326135027781",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-23T04:00:00+00:00",
-   "lot": "2026-10-25"
-  },
-  {
-   "id": "565c18deb666",
-   "cat": "geopolitique",
-   "titre": "Dans un monde fracturé, Guterres plaide pour une ONU renforcée",
-   "resume": "À l’occasion de la Journée des Nations Unies, célébrée le 24 octobre, le Secrétaire général António Guterres appelle les États à réaffirmer leur attachement au multilatéralisme, au droit international et aux valeurs fondatrices de l’Organisation. Face aux conflits, à la crise climatique et aux inéga",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159720",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-24T12:00:00+00:00",
-   "lot": "2026-10-25"
-  },
   {
    "id": "e3b00d91960d",
    "cat": "sante",
@@ -3001,59 +2701,311 @@
    "type_source": "organisation",
    "publie": "2026-10-31T12:00:00+00:00",
    "lot": "2026-11-01"
+  },
+  {
+   "id": "fbe11c0d50e2",
+   "cat": "sante",
+   "titre": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610771?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-01T06:45:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "a982e65e0345",
+   "cat": "sante",
+   "titre": "Antoine Loorius",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/antoine-loorius/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-02T08:00:40+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "48ab0e61fc83",
+   "cat": "sante",
+   "titre": "Paris Postdoc Seminars: “Regulatory Evolution of Streptococcus agalactiae Virulence” by Dr. Geoffrey MALLARET",
+   "resume": "Group B Streptococcus (GBS), Streptococcus agalactiae, is a commensal bacterium of the intestinal and vaginal tracts, carried by approximately 30% of healthy adults. However, GBS is also a pathobiont and a leading cause of […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/paris-postdoc-seminars-regulatory-evolution-of-streptococcus-agalactiae-virulence-by-dr-geoffrey-mallaret/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-02T07:49:49+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "e55971fcca09",
+   "cat": "sante",
+   "titre": "[Series] A global men's health epidemiology within an intersectional framework",
+   "resume": "Males have lower life expectancies and greater disability-adjusted life-years (DALYs) than females, and particularly poor outcomes are seen among males in marginalised contexts. In this paper, we provide an epidemiological overview and highlight the intersectional nature of men's health. We analyse ",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01490-X/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "bfe61a3a3aef",
+   "cat": "sante",
+   "titre": "[Series] Charting a course to men's health and wellbeing: applying a lens of power and politics to improve men's health outcomes",
+   "resume": "Despite long-standing evidence of poor health and life expectancy outcomes among men, particularly among men who are socially or structurally marginalised, men's health has generally received little and uneven attention in health policy and practice. Its gendered and intersectional aspects have been",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01488-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "c00fa1a63472",
+   "cat": "sante",
+   "titre": "[Viewpoint] Reframing the manosphere: a public health response to a commercial ecosystem",
+   "resume": "The manosphere, a diffuse commercial ecosystem and loose collection of online communities united by shared beliefs about masculinity, misogyny, and male victimisation, is an under-recognised determinant of health harms. This network has been implicated in considerable health harms: widespread mental",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02027-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-10-31T00:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "ab4c32c28811",
+   "cat": "economie",
+   "titre": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-02T09:30:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "436fcd9c1e19",
+   "cat": "economie",
+   "titre": "Rapport sur les marchés de capitaux en Afrique 2026",
+   "resume": "Les économies africaines ont été confrontées à un environnement extérieur difficile en 2025 et au début de 2026, marqué par une incertitude mondiale accrue, des changements dans les politiques commerciales et la volatilité des marchés de l’énergie. L’édition 2026 du Rapport sur les marchés de capita",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/rapport-sur-les-marches-de-capitaux-en-afrique-2026_570ef65c-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-06T08:30:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "e7364aa1b021",
+   "cat": "economie",
+   "titre": "Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Algérie 2026 (Deuxième cycle) : Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande",
+   "resume": "Ce rapport d’examen par les pairs analyse la mise en oeuvre de la norme de transparence et d’échange de renseignements sur demande pour l’Algérie, dans le cadre du deuxième cycle d’évaluations menées par le Forum mondial depuis 2016.",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/forum-mondial-sur-la-transparence-et-l-echange-de-renseignements-a-des-fins-fiscales-algerie-2026-deuxieme-cycle_57b13aa5-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T10:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "24254759faf1",
+   "cat": "economie",
+   "titre": "Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Congo 2026 (Deuxième cycle, Phase 1) : Rapport d’examen par les pairs sur la transparence et l’échange de renseignements sur demande",
+   "resume": "Ce rapport d’examen par les pairs analyse la mise en oeuvre de la norme de transparence et d’échange de renseignements sur demande pour la République du Congo, dans le cadre du deuxième cycle d’évaluastions menées par le Forum mondial. En raison de l’expérience pratique limitée de la la République d",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/forum-mondial-sur-la-transparence-et-l-echange-de-renseignements-a-des-fins-fiscales-congo-2026-deuxieme-cycle-phase-1_cc84a5fc-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T10:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "915dd6e011e0",
+   "cat": "economie",
+   "titre": "Politiques agricoles : suivi et évaluation 2026 (version abrégée) : Renforcer la résilience dans un monde aux risques interdépendants",
+   "resume": "Le présent rapport annuel passe en revue les politiques agricoles de 56 pays : les 38 pays Membres de l’OCDE, cinq États membres de l’UE non membres de l’OCDE et 13 économies émergentes. Alors que les chocs mondiaux deviennent plus fréquents, plus graves et plus interdépendants, et que leur impact é",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/politiques-agricoles-suivi-et-evaluation-2026-version-abregee_e1922cbe-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-02T09:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "617625db169e",
+   "cat": "economie",
+   "titre": "Boîte à outils pour la mise en œuvre de l’impôt minimum mondial",
+   "resume": "La Boîte à outils pour la mise en œuvre de l’impôt minimum mondial sert de feuille de route aux administrations fiscales et aux responsables de la politique fiscale en présentant une série d’étapes pour la mise en œuvre, chacune détaillée dans des modules complémentaires. Elle fournit des orientatio",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/boite-a-outils-pour-la-mise-en-oeuvre-de-l-impot-minimum-mondial_afb7e5c9-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-01T23:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "5833671309cc",
+   "cat": "economie",
+   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - Sudan - Enhancing Community Resilience Project - P181490 - AF No: 4",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226011024731",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "17eff11d32ba",
+   "cat": "economie",
+   "titre": "Malawi - EASTERN AND SOUTHERN AFRICA- P505095- Digital Malawi Acceleration Project (DMAP) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226040035897",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "7632e90f0bee",
+   "cat": "economie",
+   "titre": "Burkina Faso - WESTERN AND CENTRAL AFRICA- P177005- Burkina Faso Entrepreneurship, Skills and Technology Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226043039471",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "721605d248a2",
+   "cat": "economie",
+   "titre": "Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P166059- Expanding Opportunities for Learning - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226044039280",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "eed12a964241",
+   "cat": "economie",
+   "titre": "AF Initial Environmental and Social Review Summary (ESRS) - Burundi Digital Foundations Project - P176396 - AF Seq No: 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226022039009",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "4383cc1178c4",
+   "cat": "economie",
+   "titre": "Madagascar - EASTERN AND SOUTHERN AFRICA- P182053- Multimodal Transport and Logistics Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226023018095",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "d987043362d6",
+   "cat": "geopolitique",
+   "titre": "Sahara occidental : fin de la MINURSO, l’ONU demeure prête à soutenir les efforts de paix",
+   "resume": "Faute d’accord au Conseil de sécurité, la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a cessé ses opérations samedi à minuit, après 35 ans de présence. Le Secrétaire général réaffirme l’engagement des Nations Unies à aider les parties à parvenir à une",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159762",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-01T12:00:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "e374bc53cc0f",
+   "cat": "geopolitique",
+   "titre": "Statement by the High Representative on behalf of the European Union on the situation in Yemen",
+   "resume": "The European Union strongly condemns the Houthis' continued military escalation in Yemen and their attacks against Saudi Arabia, particularly those targeting civilians and civilian infrastructure.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-02T11:22:00+00:00",
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "43a28c83ab43",
+   "cat": "jobs",
+   "titre": "2026-18087 - Technicien de recherche Bacteriophages H/F/X",
+   "resume": "Métier : Autres domaines Ingénierie de la recherche/Technicien de recherche Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en plein Paris ",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18087&idOrigine=502&LCID=1036&offerReference=2026-18087",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-02T09:48:48+00:00",
+   "lot": "2026-11-02"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-01"
+   "derniere_activite": "2026-11-02"
   }
  },
  "sources_silencieuses": [
