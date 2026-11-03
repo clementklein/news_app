@@ -1,307 +1,7 @@
 {
- "maj": "2026-11-02T11:59:53.998025+00:00",
- "lot": "2026-11-02",
+ "maj": "2026-11-03T11:38:12.794382+00:00",
+ "lot": "2026-11-03",
  "articles": [
-  {
-   "id": "e3b00d91960d",
-   "cat": "sante",
-   "titre": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
-   "resume": "Nature Medicine, Published online: 26 October 2026; doi:10.1038/s41591-026-04742-7 As presented at the ESMO Congress 2026: In the global phase 2 MDT-BRIDGE trial, neoadjuvant durvalumab plus chemotherapy in patients with resectable and borderline resectable non-small-cell lung cancer, followed by mu",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04742-7",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-26T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "a4ea29c8093c",
-   "cat": "sante",
-   "titre": "Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1–Negative Advanced NSCLC",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611280?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-25T09:15:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "d3eba20d29b0",
-   "cat": "sante",
-   "titre": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
-   "resume": "Nature Medicine, Published online: 24 October 2026; doi:10.1038/s41591-026-04756-1 As presented at the ESMO Congress 2026: In a 5 year follow-up of survival and correlative data from the pivotal phase 3 RELATIVITY-047 trial comparing relatlimab plus nivolumab versus nivolumab alone in patients with ",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04756-1",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "24e1728d5be3",
-   "cat": "sante",
-   "titre": "Divarasib as Compared with Sotorasib or Adagrasib in KRAS G12C–Mutated NSCLC",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605703?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-25T03:30:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "755f5d41204d",
-   "cat": "sante",
-   "titre": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
-   "resume": "Nature Medicine, Published online: 24 October 2026; doi:10.1038/s41591-026-04740-9 As presented at the ESMO Congress 2026: In this exploratory, nonrandomized phase 2a trial, treatment of patients with immune checkpoint inhibitor-naive muscle-invasive bladder cancer with the GDF-15-neutralizing antib",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04740-9",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "a876a207ea8b",
-   "cat": "sante",
-   "titre": "Osimertinib–Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611335?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-25T03:30:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "faef89f67deb",
-   "cat": "sante",
-   "titre": "[Correspondence] Unanswered questions from the NIMBLE trial",
-   "resume": "Tuan Vu and colleagues reported that cemdisiran monotherapy (76·6% mean reduction from baseline in total complement haemolysis activity [CH50] inhibition) and cemdisiran–pozelimab combination therapy (99·6% CH50 inhibition) achieved similar clinical efficacy in patients with generalised myasthenia g",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01643-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "c31339e444bb",
-   "cat": "sante",
-   "titre": "[Correspondence] Unanswered questions from the NIMBLE trial – Authors’ reply",
-   "resume": "Xiaohua Tao raises three questions about the interpretation of the NIMBLE findings.1 We welcome the exchange and believe the study findings support the interpretation presented in our report.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01942-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "3f437b2ac437",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Maure-Blesa L, Carmona-Iragui M, Barroeta I, et al. Natural history and clinical impact of epilepsy in adults with Down syndrome: a multicentre clinical study. Lancet 2026; 408: 1198–210—In this Article, the Summary should have read “Active epilepsy prevalence was 145·2 per 1000 adults with Down syn",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02106-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "f9a8229c35a3",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Mora P, Aroda VR, Asong M, et al. Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial. Lancet 2026; 408: 607–20—I",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02107-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "82d61d4016ab",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "NCD Risk Factor Collaboration (NCD-RisC). Metabolic traits in obesity and normal BMI in industrialised countries: a multi-country analysis of national population-based studies. Lancet 2026; 408: 325–47—In this Article, the NCD Risk Factor Collaboration list has been updated. This correction has been",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02108-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "f7f1ef46c287",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Parsons H, Metcalfe A, Griffin J, et al. Robotic-arm-assisted versus conventional total knee replacement (RACER-Knee): a pragmatic, multicentre, participant-masked and assessor-masked, superiority, randomised controlled trial. Lancet 2026; 408: 924–34—In this Article, the second sentence of the four",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02109-4/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-24T00:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "f737e8530d3d",
-   "cat": "economie",
-   "titre": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-26T09:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "4aa2eb3e52ea",
-   "cat": "economie",
-   "titre": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-26T05:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "5f01205593e4",
-   "cat": "economie",
-   "titre": "Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P173731- Somalia Recurrent Cost  and  Reform Financing Project - Phase 3 - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626042516124",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "ff8f3b31c61c",
-   "cat": "economie",
-   "titre": "Insects for Impacts : Models for Farming Black Soldier Fly in Sub-Saharan Africa",
-   "resume": "This report assesses the role of black soldier fly (BSF) farming in sub-Saharan Africa’s emerging circular food economy. It examines whether BSF can help address three linked pressures: insufficient affordable protein, unmanaged organic waste, and soil fertility constraints. The report focuses on BS",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426085085305",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "4a980d24b055",
-   "cat": "economie",
-   "titre": "Nepal - SOUTH ASIA- P512377- Greater Lumbini Area Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626042013360",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "32cba1c5b0d4",
-   "cat": "economie",
-   "titre": "Tuvalu - EAST ASIA AND PACIFIC- P182093- Project Preparation for Pacific Island Countries Teacher Upgrading and Resourcing for the Early Years (PICTURE) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626041541780",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "280e97fd6954",
-   "cat": "economie",
-   "titre": "Additional Financing Stakeholder Engagement Plan (SEP) - Maritime Investment in Climate Resilient Operations II - P177100 - AF No: 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102526202532995",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "c9def59f74e6",
-   "cat": "economie",
-   "titre": "Nepal - SOUTH ASIA- P180665- Institutionalizing GBV Response in Nepal - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626040536809",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "639db026b7c3",
-   "cat": "economie",
-   "titre": "Mozambique - EASTERN AND SOUTHERN AFRICA- P175266- Mozambique Northern Urban Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626041039315",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "95a03e357f55",
-   "cat": "economie",
-   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - Maritime Investment in Climate Resilient Operations II - P177100 - AF No: 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102526203015185",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "efe66ee3a191",
-   "cat": "economie",
-   "titre": "Fermentation Innovation : The Future of Protein, Food Systems, and Industry in Africa",
-   "resume": "Sub-Saharan Africa faces a severe and growing protein deficit: as of 2021, no country in the region met per capita protein-quality requirements, and closing the gap will require an estimated 25 million metric tons of high-quality protein by 2030, a US$10–15 billion market opportunity. This report ex",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102426085034748",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "b98761fc4c87",
-   "cat": "economie",
-   "titre": "West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P507514- Second Real Estate Registration Project  - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626041510897",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-26T04:00:00+00:00",
-   "lot": "2026-10-26"
-  },
-  {
-   "id": "fa4dca04b2ec",
-   "cat": "geopolitique",
-   "titre": "À New York, une course contre la montre pour sauver un siècle d’archives audiovisuelles",
-   "resume": "Dans les sous-sols du Lincoln Center, des spécialistes tentent de sauver des milliers d’enregistrements menacés par l’usure du temps et la disparition des appareils capables de les lire. Des films familiaux de Harry Belafonte aux premières archives radiophoniques de l’ONU, c’est tout un pan de la mé",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159687",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-25T12:00:00+00:00",
-   "lot": "2026-10-26"
-  },
   {
    "id": "fca6aa43678f",
    "cat": "sante",
@@ -2953,59 +2653,443 @@
    "type_source": "entreprise",
    "publie": "2026-11-02T09:48:48+00:00",
    "lot": "2026-11-02"
+  },
+  {
+   "id": "117c7a08523b",
+   "cat": "sante",
+   "titre": "Global, regional and national burden of cervical cancer in 1990–2023 with forecasts to 2050: a Global Burden of Disease study",
+   "resume": "Nature Medicine, Published online: 02 November 2026; doi:10.1038/s41591-026-04729-4 Analyses of the Global Burden of Disease study reported 887,000 new cases and 369,000 deaths from cervical cancer worldwide in 2023, which are forecasted to rise by 2050.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04729-4",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-02T00:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "8ad062e21f34",
+   "cat": "sante",
+   "titre": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607326?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-02T05:40:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "8302dd93715b",
+   "cat": "sante",
+   "titre": "Institut Pasteur–ASHBi Mini-Symposium on Stem Cell-Based Models of Gastrulation and Germline",
+   "resume": "The meeting will bring together researchers to discuss recent advances in stem cell-based embryo models and early embryogenesis. Among speakers, will be Prof. Cantas Alev, from the Institute for the Advanced Study of Human […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/institut-pasteur-ashbi-mini-symposium-on-stem-cell-based-models-of-gastrulation-and-germline/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-02T22:03:15+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "e2b83aa03d1b",
+   "cat": "sante",
+   "titre": "Décision n°2026.0816/DP/SG du 2 novembre 2026 du président de la Haute Autorité de santé portant délégation de signature (SQI)",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4586882/fr/decision-n2026-0816/dp/sg-du-2-novembre-2026-du-president-de-la-haute-autorite-de-sante-portant-delegation-de-signature-sqi",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-02T08:39:13+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "99979b740cc1",
+   "cat": "sante",
+   "titre": "Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial",
+   "resume": "Nature Medicine, Published online: 02 November 2026; doi:10.1038/s41591-026-04710-1 In the phase 2 UNICORN trial, a short course of neoadjuvant botensilimab and balstilimab achieved the primary endpoint of pathological major response rate in patients with pMMR or dMMR colon cancer.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04710-1",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-02T00:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "5df3500a79a9",
+   "cat": "sante",
+   "titre": "Management of Moderate Aortic Stenosis in Older Adults — The P in PICOT",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2613400?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-02T05:40:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "f0e32d196c2f",
+   "cat": "sante",
+   "titre": "Alfonsina roccia",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/alfonsina-roccia/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-02T15:17:04+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "fc687980ba2b",
+   "cat": "sante",
+   "titre": "Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials",
+   "resume": "Nature Medicine, Published online: 02 November 2026; doi:10.1038/s41591-026-04739-2 In the STOP-V1 and STOP-V2 trials, povorcitinib (an oral JAK1 inhibitor) was superior to placebo in improvement in F-VASI75 score in individuals with nonsegmental vitiligo.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04739-2",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-02T00:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "77c3a2edca76",
+   "cat": "sante",
+   "titre": "Webinaire de l’enseignement – Les bactéries, des modèles pour étudier l’immunité à travers le vivant avec Aude Bernheim",
+   "resume": "Savez-vous que les bactéries possèdent un répertoire immunitaire très diversifié ? Que ce répertoire immunitaire n’est pas si éloigné de celui des animaux et donc de celui de l’espèce humaine ? La direction de […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/webinaire-de-lenseignement-les-bacteries-des-modeles-pour-etudier-limmunite-a-travers-le-vivant-avec-aude-bernheim/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-02T14:00:03+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "229fabad0758",
+   "cat": "economie",
+   "titre": "Études économiques de l'OCDE : Belgique 2026",
+   "resume": "Études économiques de l'OCDE : Belgique 2026",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/etudes-economiques-de-l-ocde-belgique-2026_9c8b6648-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T13:30:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "e9fadb958beb",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Sustainable Financing for Rogun HPP - Phase 2 - P513856 - Sequence No : 1",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226224515783",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "9cb52eab6a39",
+   "cat": "economie",
+   "titre": "Viet Nam - EAST ASIA AND PACIFIC- P173716- Binh Duong Province's Water Environment Improvement Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226225510516",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "a4392518de8b",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P166693- Labor Market Information and Skills System Transformation for Labor Market Flexibility - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226202070941",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "fa942ba8178d",
+   "cat": "economie",
+   "titre": "Madagascar - EASTERN AND SOUTHERN AFRICA- P512330- Multimodal Transport and Logistics Project. - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110326002520786",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "32f91238a2e5",
+   "cat": "economie",
+   "titre": "Sao Tome and Principe - EASTERN AND SOUTHERN AFRICA- P180982- Coastal Resilience and Sustainable Tourism Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226222539938",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "570043acf9be",
+   "cat": "economie",
+   "titre": "Romania - EUROPE AND CENTRAL ASIA- P166302- Strengthening Disaster Risk Management Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110326004017574",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "eee3af3ef76f",
+   "cat": "economie",
+   "titre": "Malawi - EASTERN AND SOUTHERN AFRICA- P165704- Mpatamanga Hydropower Storage Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110326005042600",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "fe4d217a0c6d",
+   "cat": "economie",
+   "titre": "Comoros - EASTERN AND SOUTHERN AFRICA- P182075- Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110326000517671",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-03T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "61c2934fceb7",
+   "cat": "economie",
+   "titre": "Georgia - EUROPE AND CENTRAL ASIA- P173975- Georgia Relief and Recovery for Micro, Small, and Medium Enterprises - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226112050150",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "27452dcd770b",
+   "cat": "economie",
+   "titre": "Burkina Faso - WESTERN AND CENTRAL AFRICA- P177022- Burkina Faso Digital Acceleration Project  - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226123526120",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "4db9f86288c6",
+   "cat": "economie",
+   "titre": "St. Lucia - LATIN AMERICA AND CARIBBEAN- P504998- Saint Lucia Urban Resilient Flood Investment Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110226125535083",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-02T05:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "3080c1fab69b",
+   "cat": "geopolitique",
+   "titre": "Sahara occidental : l’ONU tourne la page de 35 ans de présence",
+   "resume": "La liquidation de la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a débuté dimanche 1er novembre, après la fin de ses opérations faute de renouvellement de son mandat par le Conseil de sécurité de l’ONU.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159772",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "409afe50f299",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Eurogroup meeting of 9 November 2026",
+   "resume": "Press briefing ahead of the upcoming Eurogroup meeting of 9 November will take place on Wednesday, 4 November 2026 at 14.30.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/press-briefing-eurogroup-meeting-of-9-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T10:35:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "2ebc57297497",
+   "cat": "geopolitique",
+   "titre": "Yémen : plus de 300 000 nouveaux déplacés et la troisième ville du pays coupée du monde",
+   "resume": "Plus de 300 000 personnes ont fui les combats dans l’ouest du Yémen, presque toutes au cours des deux derniers mois, selon l’Organisation internationale pour les migrations (OIM). Dans la ville de Taëz, désormais coupée de tout approvisionnement, les prix s’envolent, les hôpitaux menacent de fermer ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159771",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "00b60a7d0e63",
+   "cat": "geopolitique",
+   "titre": "Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.",
+   "resume": "Statement by the HR on behalf of the EU on the alignment of certain third countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T10:10:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "91f14e7eee3e",
+   "cat": "geopolitique",
+   "titre": "Mexique : briser le silence sur les violences sexuelles dans l’armée",
+   "resume": "Dans l’armée mexicaine, un ordre ne se discute pas. Même lorsqu’un officier demande à une femme sous ses ordres de le rejoindre dans sa chambre, révèle la journaliste d’investigation Zorayda Gallegos.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159769",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "f8ff23f560da",
+   "cat": "geopolitique",
+   "titre": "Ukraine : une trêve négociée par Melania Trump permet l’évacuation de centaines de civils",
+   "resume": "Un cessez-le-feu local négocié avec l’aide de la première dame américaine a permis l’évacuation de nombreux civils d’une ville ukrainienne occupée par la Russie durant le weekend. Mais alors que l’ONU vient en aide aux rescapés, les attaques contre les infrastructures énergétiques font planer la men",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159768",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "13f50a594f91",
+   "cat": "geopolitique",
+   "titre": "Journalistes tués : l’impunité progresse pour la première fois depuis 2012",
+   "resume": "Près de neuf meurtres de journalistes sur 10 restent impunis dans le monde. Alors que les enquêtes judiciaires peinent à aboutir, un nouveau rapport de l’UNESCO révèle que le nombre de professionnels des médias tués dans l'exercice de leurs fonctions a augmenté de 20 % en deux ans. En cause, notamme",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159767",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "6ad17ecfacc2",
+   "cat": "geopolitique",
+   "titre": "Des millions de personnes toujours privées de leurs droits fondamentaux, dans un monde plus riche que jamais",
+   "resume": "Malgré des progrès remarquables et des niveaux de richesse sans précédent, plus d’un tiers de l’humanité vit encore dans la pauvreté ou la précarité, a alerté lundi un haut responsable des Nations Unies, à l’ouverture de la 80e session du Comité des droits économiques, sociaux et culturels, à Genève",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159766",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "db8289f3dc54",
+   "cat": "geopolitique",
+   "titre": "Accord sur les pandémies : le partage des agents pathogènes au cœur des négociations finales",
+   "resume": "Après l’adoption de l’Accord de l’OMS relatif aux pandémies et de la Déclaration politique de l’Assemblée générale des Nations Unies sur la prévention, la préparation et la réponse aux pandémies, le chef de l’agence sanitaire mondiale a appelé les États membres à finaliser l’annexe consacrée au syst",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159765",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-02T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "2e541c0a461d",
+   "cat": "geopolitique",
+   "titre": "COP17 : les pays tracent la « Voie d’Erevan » pour accélérer l’action en faveur de la nature",
+   "resume": "À quatre ans de l’échéance de 2030, un bilan mondial montre que le monde n’est pas en voie d’atteindre ses objectifs en matière de biodiversité. Face à ce constat, les pays réunis en Arménie ont adopté une feuille de route pour accélérer l’action en faveur de la nature.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159764",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-01T12:00:00+00:00",
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "6706e9e6e639",
+   "cat": "geopolitique",
+   "titre": "« Ils méritent de connaître la vérité » : l’ONU exige une enquête sur la mort d’un employé détenu par les Houthis",
+   "resume": "Le chef des droits de l’homme de l’ONU a exigé samedi une enquête indépendante sur la mort d’un collègue yéménite détenu par les rebelles houthis depuis plus de deux ans, dont la famille n’a appris le décès que plusieurs semaines après les faits.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159763",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-01T12:00:00+00:00",
+   "lot": "2026-11-03"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-02"
+   "derniere_activite": "2026-11-03"
   }
  },
  "sources_silencieuses": [
