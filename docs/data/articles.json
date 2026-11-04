@@ -1,355 +1,7 @@
 {
- "maj": "2026-11-03T11:38:12.794382+00:00",
- "lot": "2026-11-03",
+ "maj": "2026-11-04T11:51:53.142001+00:00",
+ "lot": "2026-11-04",
  "articles": [
-  {
-   "id": "fca6aa43678f",
-   "cat": "sante",
-   "titre": "Publisher Correction: Phenomic profiles and disease patterns of 1.9 million participants from Our Future Health",
-   "resume": "Nature Medicine, Published online: 26 October 2026; doi:10.1038/s41591-026-04774-z Publisher Correction: Phenomic profiles and disease patterns of 1.9 million participants from Our Future Health",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04774-z",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-26T00:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "dd6942d18d14",
-   "cat": "sante",
-   "titre": "Author Correction: Sex-specific biological aging clocks across organs and omics",
-   "resume": "Nature Medicine, Published online: 26 October 2026; doi:10.1038/s41591-026-04776-x Author Correction: Sex-specific biological aging clocks across organs and omics",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04776-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-26T00:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "fe7a3f4ecdf7",
-   "cat": "sante",
-   "titre": "Author Correction: Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
-   "resume": "Nature Medicine, Published online: 26 October 2026; doi:10.1038/s41591-026-04775-y Author Correction: Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04775-y",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-26T00:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "6ccfaf91462a",
-   "cat": "economie",
-   "titre": "October 2026 euro area bank lending survey",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-27T00:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "dfe38036b90e",
-   "cat": "economie",
-   "titre": "Le rôle déterminant des chefs d’établissement à la lumière de l’Enquête TALIS 2024 (version abrégée)",
-   "resume": "L’Enquête internationale de l’OCDE sur l’enseignement et l’apprentissage (TALIS) est la plus vaste enquête mondiale menée auprès des enseignants et des chefs d’établissement. Dans le cadre de son édition 2024, 280 000 enseignants de 55 systèmes ont fait part de leur point de vue sur le leadership de",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/le-role-determinant-des-chefs-d-etablissement-a-la-lumiere-de-l-enquete-talis-2024-version-abregee_1fe23b0b-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T11:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "7f1f5a60d006",
-   "cat": "economie",
-   "titre": "Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125191591417",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "5194f770ea4a",
-   "cat": "economie",
-   "titre": "Official Documents- Loan Agreement for Loan 9619-BR.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125194536043",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "29adad54cc69",
-   "cat": "economie",
-   "titre": "Official Documents- Amendment  No. 1 to the GRPBA Grant Agreement for Grant TF0B3026.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125183538911",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "2d36a27218ec",
-   "cat": "economie",
-   "titre": "Livrabilul 6: Raport privind evaluarea ex-post a concursului național de\nrecrutare",
-   "resume": "În ultimul deceniu, România a urmărit un plan ambițios de modernizare a administrației sale publice, managementul resurselor umane (MRU) reprezentând o pârghie centrală pentru profesionalizare și guvernanță meritocratică. Ghidate de strategiile naționale de consolidare a administrației publice și de",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099052826051024774",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "a5985fd294ec",
-   "cat": "economie",
-   "titre": "Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125183017477",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-30T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "33392ea39364",
-   "cat": "economie",
-   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK - P151169 - Supporting the economic inclusion of youth - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626041015489",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "f46330d518a7",
-   "cat": "economie",
-   "titre": "Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626034042413",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "4c66aee67185",
-   "cat": "economie",
-   "titre": "Suriname - LATIN AMERICA AND CARIBBEAN - P166187 - Competitiveness and Sector Diversification - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626035011907",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "c77d694ea5bc",
-   "cat": "economie",
-   "titre": "Diagnostic of ID Ecosystems : Haiti",
-   "resume": "This diagnostic exposes the shortcomings of the civil registration and identification systems and analyzes sectoral needs in order to formulate recommendations on the modernisation of these systems and the necessary investments. The analysis is guided by the Principles of Identification for Developm",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099149310262620458",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-01T04:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "e14afaa5509e",
-   "cat": "economie",
-   "titre": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Community Resilience and Sustainable Economic Development in Rural Indonesia - P515935",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099102626211526302",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-27T04:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "adea38f23d56",
-   "cat": "geopolitique",
-   "titre": "Le nombre de femmes tuées dans des conflits armés a doublé en quatre ans",
-   "resume": "Au moins 25 femmes et filles sont tuées chaque jour dans les conflits armés, selon un rapport de l’ONU publié lundi. Alors que les violences sexuelles se multiplient et que les dépenses militaires atteignent des records, les femmes ne représentent plus que 5 % des négociateurs de paix dans le monde.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159727",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "9586a82a8744",
-   "cat": "geopolitique",
-   "titre": "MFF 2028-2034: Council secures negotiating position for a strong and future-oriented common agricultural policy",
-   "resume": "The Council agrees its negotiating position on the regulation for the post-2027 common agricultural policy, aiming to support a more competitive, sustainable and resilient EU agriculture sector.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T20:58:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "1a2bb0f38934",
-   "cat": "geopolitique",
-   "titre": "Somalie : après 30 ans de missions politiques, l’ONU passe le relais",
-   "resume": "Après plus de trois décennies de missions politiques en Somalie, les Nations Unies s’apprêtent à tourner une page de leur engagement dans le pays. La Mission d’assistance transitoire des Nations Unies en Somalie (UNTMIS) cessera ses opérations le 31 octobre, transférant ses responsabilités aux insti",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159726",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "732993ee0671",
-   "cat": "geopolitique",
-   "titre": "Baltic Sea: Council reaches agreement on fishing opportunities for 2027",
-   "resume": "Council agrees on Baltic Sea fisheries catch limits for 2027 for key fish stocks, namely herring, sprat, cod, salmon and plaice.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T16:50:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "0bb2f27b6927",
-   "cat": "geopolitique",
-   "titre": "Cisjordanie : Israël accusé d’« extermination » par une commission d’enquête de l’ONU",
-   "resume": "Un an après avoir conclu à un génocide à Gaza, une commission d’enquête indépendante de l’ONU accuse Israël de crimes contre l’humanité, dont celui d’extermination, contre les Palestiniens de Cisjordanie. Son rapport, publié lundi, dénonce également la poursuite du génocide à Gaza, en dépit du cesse",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159725",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "9a92b71fed85",
-   "cat": "geopolitique",
-   "titre": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility",
-   "resume": "Today the Council adopted a set of decisions mobilising funds for Ukraine under the European Peace Facility. These decisions will allow for the partial reimbursement of previously delivered military aid and provide additional financing for the EU Military Assistance Mission in Support of Ukraine.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/eu-support-for-ukraine-council-mobilises-49-billion-under-the-european-peace-facility/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T16:45:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "e0c981b37254",
-   "cat": "geopolitique",
-   "titre": "Ukraine : les frappes russes contre l’énergie constituent des crimes contre l’humanité, selon des enquêteurs de l’ONU",
-   "resume": "Les autorités russes ont commis des crimes de guerre et des crimes contre l’humanité en menant des attaques répétées contre les infrastructures énergétiques ukrainiennes, privant des millions de civils de chauffage, d’électricité et d’eau en plein hiver, selon une commission d’enquête indépendante d",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159724",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "03088ccb3334",
-   "cat": "geopolitique",
-   "titre": "One-year badge 2027 - accreditation is open",
-   "resume": "Information about accreditation requirements for the one-year badge (2027)",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/one-year-badge-2027-accreditation-is-open/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T13:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "dd065bba4652",
-   "cat": "geopolitique",
-   "titre": "RDC : meurtre d'un infirmier engagé dans la riposte contre Ebola, l’ONU réclame une enquête",
-   "resume": "Les Nations Unies ont condamné le meurtre d’un infirmier engagé dans la riposte contre Ebola, dans la province de la Tshopo, au nord-est de la République démocratique du Congo (RDC). Un autre professionnel de santé a été grièvement blessé lors de cette attaque, qui intervient alors que les violences",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159722",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "ab7cd1a25486",
-   "cat": "geopolitique",
-   "titre": "Media advisory - Accreditation for the European Council, 17 and 18 December 2026",
-   "resume": "The European Council will take place on 17 and 18 December 2026 in the Europa building in Brussels.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T13:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "d468e85fb931",
-   "cat": "geopolitique",
-   "titre": "Enfants dans les conflits : 30 ans de promesses, un nombre record de violations",
-   "resume": "Trente ans après la création d’un mandat de l’ONU destiné à protéger les enfants de la guerre, les violences à leur encontre atteignent des niveaux sans précédent. Lundi, devant le Conseil de sécurité, plusieurs responsables ont dénoncé un paradoxe : jamais les mécanismes de protection n’ont été aus",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159723",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-26T12:00:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "16b18f8ee0d2",
-   "cat": "geopolitique",
-   "titre": "Sanctions de l'UE à l'encontre de l'EIIL/Daech et d'Al-Qaida: le Conseil renouvelle le régime de sanctions jusqu'en 2027",
-   "resume": "Le Conseil a prorogé d'une année supplémentaire, soit jusqu'au 31 octobre 2027, les mesures restrictives à l'encontre de personnes et de groupes associés à l'EIIL/Daech et à Al-Qaida.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/26/eu-sanctions-against-isilda-esh-and-al-qaeda-council-renews-regime-until-2027/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-26T10:05:00+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "7f2cbd8dc321",
-   "cat": "jobs",
-   "titre": "2026-17852 - Responsable du Service Prévention des Risques de l'Institut Pasteur - H/F/X",
-   "resume": "Métier : Qualité, Hygiène, Sécurité, Sureté, Environnement, Dev.Dur./Aide technique (Qualité, Hygiène, Sécurité, Sureté, Environnement, Dev.Dur.) Type de contrat : Contrat à durée indéterminée Description du poste : Le/la Responsable Service SPR met en œuvre la politique de Prévention des Risques et",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17852&idOrigine=502&LCID=1036&offerReference=2026-17852",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-26T09:58:39+00:00",
-   "lot": "2026-10-27"
-  },
-  {
-   "id": "ef24f11d94cc",
-   "cat": "jobs",
-   "titre": "2026-17471 - Ingénieur de recherche en analyse d'images biologiques - H/F/X",
-   "resume": "Métier : Bio info / biostat/Ingénieur de recherche confirmé (Bio info / biostat) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en plein",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17471&idOrigine=502&LCID=1036&offerReference=2026-17471",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-26T09:58:13+00:00",
-   "lot": "2026-10-27"
-  },
   {
    "id": "b0d9598fd2ba",
    "cat": "sante",
@@ -3037,59 +2689,491 @@
    "type_source": "organisation",
    "publie": "2026-11-01T12:00:00+00:00",
    "lot": "2026-11-03"
+  },
+  {
+   "id": "d85696468a57",
+   "cat": "sante",
+   "titre": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
+   "resume": "Nature Medicine, Published online: 04 November 2026; doi:10.1038/s41591-026-04771-2 The incidence of early-onset colorectal cancer is rising, but whether it is biologically distinct from average-onset disease is unclear. Mapping of the transcriptome of colorectal tumors across the age continuum show",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04771-2",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-04T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "93f3b0825ad6",
+   "cat": "sante",
+   "titre": "Ravneet Sidhu",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/ravneet-sidhu/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-03T14:14:12+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "3e6c34c519be",
+   "cat": "sante",
+   "titre": "Décision n°2026.0194/DC/SEVOQSS du 22 octobre 2026 du collège de la Haute Autorité de santé portant adoption du rapport « Analyse des déclarations de la base nationale des évènements indésirables graves associés aux soins (EIGS) en lien avec les gaz à usage médical »",
+   "resume": "Décision n°2026.0194/DC/SEVOQSS du 22 octobre 2026 du collège de la Haute Autorité de santé portant adoption du rapport « Analyse des déclarations de la base nationale des évènements indésirables graves associés aux soins (EIGS) en lien avec les gaz à usage médical »",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4586951/fr/decision-n2026-0194/dc/sevoqss-du-22-octobre-2026-du-college-de-la-haute-autorite-de-sante-portant-adoption-du-rapport-analyse-des-declarations-de-la-base-nationale-des-evenements-indesirables-graves-associes-aux-soins-eigs-en-lien-avec-les-gaz-a-usage-medical",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-03T09:09:54+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "fe06643ee011",
+   "cat": "sante",
+   "titre": "Perioperative ivonescimab with or without chemotherapy in resectable non-small cell lung cancer: a phase 2 trial",
+   "resume": "Nature Medicine, Published online: 04 November 2026; doi:10.1038/s41591-026-04745-4 In a nonrandomized phase 2 trial, patients with resectable non-small cell lung cancer received perioperative ivonescimab as monotherapy or with chemotherapy, leading to encouraging pathological response rates in both",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04745-4",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-04T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "5642ed5c5238",
+   "cat": "sante",
+   "titre": "Ancient DNA reveals the complex social fabric of a colonial city in South America",
+   "resume": "Source: Escobar-Rodriguez et al. “Ancient genomes from Mendoza, Argentina, trace the dynamics of colonial urban formation in the Southern Cone of the Americas”, PNAS, Nov 2nd 2026, doi: 10.1073/pnas.2609419123 Scientific significance of the study: […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/news/ancient-dna-reveals-the-complex-social-fabric-of-a-colonial-city-in-south-america/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-03T13:53:47+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "280b6971b865",
+   "cat": "sante",
+   "titre": "Author Correction: In vivo base editing gene therapy for heterozygous familial hypercholesterolemia: a phase 1 trial",
+   "resume": "Nature Medicine, Published online: 03 November 2026; doi:10.1038/s41591-026-04786-9 Author Correction: In vivo base editing gene therapy for heterozygous familial hypercholesterolemia: a phase 1 trial",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04786-9",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-03T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "04e7068d5df6",
+   "cat": "sante",
+   "titre": "Melissa Ferguene",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/melissa-ferguene/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-03T13:53:24+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "cdeed3d071e8",
+   "cat": "sante",
+   "titre": "Publisher Correction: Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
+   "resume": "Nature Medicine, Published online: 03 November 2026; doi:10.1038/s41591-026-04792-x Publisher Correction: Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04792-x",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-03T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "ad79bc8f9d4d",
+   "cat": "sante",
+   "titre": "Gowthamy Sivakuru",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/gowthamy-sivakuru/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-03T13:50:32+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "c86f1bc5d09d",
+   "cat": "sante",
+   "titre": "Regulatable membrane-bound IL-15 engineered TIL cell therapy for immune checkpoint inhibitor-resistant advanced melanoma: pooled analysis of phase 1 and 1/2 trials",
+   "resume": "Nature Medicine, Published online: 03 November 2026; doi:10.1038/s41591-026-04743-6 As presented at the Society for Immunotherapy of Cancer 2026 Annual Meeting, in a non-prespecified pooled analysis of two trials, amsokigene autoleucel, an autologous tumor-infiltrating lymphocyte therapy engineered ",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04743-6",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-03T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "8780d1ea5c9e",
+   "cat": "sante",
+   "titre": "Justine Bailly",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/justine-bailly/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-03T13:42:57+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "d2a91aec00fb",
+   "cat": "sante",
+   "titre": "Heterogeneity of microbiome responses to menopausal hormone therapy among perimenopausal women",
+   "resume": "Nature Medicine, Published online: 03 November 2026; doi:10.1038/s41591-026-04737-4 In this study, the gut, oral, urinary and vaginocervical microbiomes of women receiving menopausal hormone therapy were studied over 6 months, shedding light on how system metagenomics can inform clinical response an",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04737-4",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-03T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "c244f5f62d65",
+   "cat": "economie",
+   "titre": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-04T00:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "cb412a8bbb5b",
+   "cat": "economie",
+   "titre": "Panorama des risques climatiques en France : exposition des ménages et de leur patrimoine immobilier",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9119400",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T16:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "7f1f5a60d006",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125191591417",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "d33049a98cd4",
+   "cat": "economie",
+   "titre": "Panorama de l’économie de la mer",
+   "resume": "L’économie de la mer a atteint le niveau sans précédent de 3 500 milliards USD en 2025, contribuant à la prospérité, à l’emploi et aux perspectives de développement dans le monde entier. Parallèlement, les pressions croissantes exercées sur les écosystèmes et les ressources marines menacent la santé",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/panorama-de-l-economie-de-la-mer_1f8a77d7-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-05T08:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "5194f770ea4a",
+   "cat": "economie",
+   "titre": "Official Documents- Loan Agreement for Loan 9619-BR.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125194536043",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "9f4a5d1b320e",
+   "cat": "economie",
+   "titre": "Perspectives de l’OCDE sur les pensions 2026 (version abrégée) : Épargnons-nous suffisamment pour la retraite ?",
+   "resume": "Aujourd’hui, les systèmes de retraite par capitalisation jouent un rôle essentiel pour soutenir le niveau des retraites. La huitième édition des Perspectives de l’OCDE sur les pensions analyse l’augmentation des actifs de retraite en 2025 et leur croissance à long terme depuis 2000, en s’intéressant",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/perspectives-de-l-ocde-sur-les-pensions-2026-version-abregee_9d8a8489-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-04T13:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "29adad54cc69",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment  No. 1 to the GRPBA Grant Agreement for Grant TF0B3026.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183538911",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "2d36a27218ec",
+   "cat": "economie",
+   "titre": "Livrabilul 6: Raport privind evaluarea ex-post a concursului național de\nrecrutare",
+   "resume": "În ultimul deceniu, România a urmărit un plan ambițios de modernizare a administrației sale publice, managementul resurselor umane (MRU) reprezentând o pârghie centrală pentru profesionalizare și guvernanță meritocratică. Ghidate de strategiile naționale de consolidare a administrației publice și de",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099052826051024774",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "a5985fd294ec",
+   "cat": "economie",
+   "titre": "Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183017477",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-30T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "33392ea39364",
+   "cat": "economie",
+   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK - P151169 - Supporting the economic inclusion of youth - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626041015489",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "f46330d518a7",
+   "cat": "economie",
+   "titre": "Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626034042413",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "4c66aee67185",
+   "cat": "economie",
+   "titre": "Suriname - LATIN AMERICA AND CARIBBEAN - P166187 - Competitiveness and Sector Diversification - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626035011907",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "02305dcca946",
+   "cat": "geopolitique",
+   "titre": "L’égalité entre les genres profite aux entreprises : pourquoi certaines font-elles marche arrière ?",
+   "resume": "L’égalité entre les genres et la diversité ne sont pas seulement des enjeux sociaux : elles constituent aussi un atout économique pour les entreprises. Si les femmes accèdent de plus en plus aux postes de haute responsabilité, cette progression reste fragile et nécessite de nouveaux engagements pour",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159777",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-03T12:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "c98da0514d70",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Economic and Financial Affairs and Budget Council meetings",
+   "resume": "Press briefing ahead of the upcoming Economic and Financial Affairs and Budget Council meetings will take place on 5 November 2026 at 15:00.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-04T10:45:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "6bb9afc1d0de",
+   "cat": "geopolitique",
+   "titre": "Haïti : l’ONU prise entre les appels au dialogue des gangs et l’offensive militaire du Salvador",
+   "resume": "Un chef de gang haïtien recherché par les autorités américaines sollicite la médiation des Nations Unies, tandis que le président salvadorien, Nayib Bukele, déploie plus de 2 000 soldats dans l’île pour combattre les bandes criminelles. Dans les deux cas, l’ONU prend ses distances et précise que les",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159776",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-03T12:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "4df1434f20ab",
+   "cat": "geopolitique",
+   "titre": "Statement by President António Costa in the context of the Euronews EU Enlargement Summit 2026",
+   "resume": "President of the European Council António Costa made a statement in the context of the Euronews EU Enlargement Summit 2026 that took place in Brussels on 3 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T20:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "3e511e713037",
+   "cat": "geopolitique",
+   "titre": "Yémen : à Taëz, les combats coupent les femmes des soins et des services de protection",
+   "resume": "À Taëz, au Yémen, l’intensification des combats entre les rebelles houthis et les forces progouvernementales et la fermeture des routes paralysent les approvisionnements et privent des centaines de milliers de personnes de soins essentiels. Les femmes et les filles sont particulièrement vulnérables ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159773",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-03T12:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "d26fc40f875a",
+   "cat": "geopolitique",
+   "titre": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council",
+   "resume": "EU Heads of State or Government will gather in Dublin (Ireland), to discuss about artificial intelligence.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T19:15:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "2789460d0bb8",
+   "cat": "geopolitique",
+   "titre": "La planète se connecte, mais la fracture numérique résiste",
+   "resume": "Plus des trois quarts de la population mondiale, soit 6,3 milliards de personnes, utilisent Internet en 2026. Selon le dernier rapport de l’Union internationale des télécommunications (UIT), publié mardi, le nombre d’internautes a progressé de 200 millions en un an. Mais derrière cette avancée, les ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159774",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-03T12:00:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "1a0400678cc7",
+   "cat": "geopolitique",
+   "titre": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities",
+   "resume": "Statement by the High Representative on behalf of the European Union on the alignment of certain third countries with Council Decision (CFSP) 2026/2258 of 8 October 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T15:35:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "c1d076d3a1d8",
+   "cat": "geopolitique",
+   "titre": "HR statement on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "resume": "Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/hr-statement-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T15:25:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "41f7420478e5",
+   "cat": "geopolitique",
+   "titre": "Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia",
+   "resume": "Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T15:20:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "8a05d536b1d0",
+   "cat": "geopolitique",
+   "titre": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities",
+   "resume": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T15:10:00+00:00",
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "71e52a67ae77",
+   "cat": "geopolitique",
+   "titre": "HR statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "resume": "HR statement on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2291 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/03/hr-statement-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-03T14:35:00+00:00",
+   "lot": "2026-11-04"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-03"
+   "derniere_activite": "2026-11-04"
   }
  },
  "sources_silencieuses": [
