@@ -1,475 +1,7 @@
 {
- "maj": "2026-11-07T10:53:12.795158+00:00",
- "lot": "2026-11-07",
+ "maj": "2026-11-08T11:02:48.070154+00:00",
+ "lot": "2026-11-08",
  "articles": [
-  {
-   "id": "234dd17583b4",
-   "cat": "sante",
-   "titre": "Climate change threatens malaria elimination in the Asia Pacific",
-   "resume": "Nature Medicine, Published online: 30 October 2026; doi:10.1038/s41591-026-04722-x A multidisciplinary group of policymakers and researchers discusses the impacts of climate change on malaria in the Asia Pacific, identifies gaps in national adaptation strategies and outlines five priority actions fo",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04722-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-30T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "748e28d65a14",
-   "cat": "sante",
-   "titre": "Applying digital twins to prevent preterm births",
-   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/d41591-026-00056-w Researchers developed a digital twin framework to safely evaluate the effects of drugs on the immune system and time to labor, which could enable personalized interventions to prevent preterm births.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00056-w",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-29T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "a1ac0b0eb872",
-   "cat": "sante",
-   "titre": "A small-molecule TREM2 agonist for Alzheimer’s disease",
-   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/d41591-026-00055-x Preclinical analysis and a phase 1 trial support VG-3927 as a promising drug candidate for Alzheimer’s disease, demonstrating successful penetration of the central nervous system, target engagement and tolerability.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/d41591-026-00055-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-29T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "f4fb157a3623",
-   "cat": "sante",
-   "titre": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
-   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04723-w A 5-year secondary analysis of the phase 2 PHERGain trial supports the clinical utility of a PET-guided adaptive strategy for treatment de-escalation in HER2-positive early breast cancer and provides circulating tumor",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04723-w",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-29T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "86ae7eb5bd4f",
-   "cat": "sante",
-   "titre": "A clinical multimodal vision language foundation model with fine-grain explainability",
-   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04655-5 A multimodal vision language foundation model, EVLF-FM, integrates extensive clinical data and advanced training techniques, achieving superior diagnostic accuracy and explainability across diverse imaging modalities,",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04655-5",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-29T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "0b48ffdf5b97",
-   "cat": "sante",
-   "titre": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum",
-   "resume": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/s41591-026-04721-y A high-resolution snRNA-seq atlas of 189 colorectal tumors from patients aged 20–90+ years uncovers age-associated features of colorectal cancer.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04721-y",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-10-29T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "e0064cb67196",
-   "cat": "sante",
-   "titre": "[World Report] First human case of Shamonda virus recorded",
-   "resume": "A patient in France has died from the infection, which normally affects cattle. Virologists say the wider risk to public health is low. Marianne Guenot reports.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02189-6/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "03135deb03a2",
-   "cat": "sante",
-   "titre": "[Perspectives] Derek Griffith: transformative leader in men's health",
-   "resume": "“We know a lot about male health. We don’t know a lot about men's health”, says Derek Griffith, who is one of the authors of a new Lancet Series on men's health. “Male health is about male bodies and hormones. Men's health is more holistic and comprehensive and should consider psychological, social,",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02151-3/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "847edb2d906c",
-   "cat": "sante",
-   "titre": "[Perspectives] James W Catto: tackling the inequalities in men's health",
-   "resume": "Jim Catto, co-leading author of the Lancet Series on men's health, was reluctant to be the subject of a profile, insisting it is more important to highlight what he is trying to accomplish: tackling the inequalities in men's health. The patients he cares for come mainly from South Yorkshire, where h",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02152-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "270f2095f1e9",
-   "cat": "sante",
-   "titre": "[Perspectives] Aid cuts and the slow death of a rural lifeline",
-   "resume": "On my tenth visit, it took me two attempts to find the care and treatment centre (CTC) for people living with HIV/AIDS in Miono, Tanzania. The one-storey white building, where patients used to sit along wooden benches waiting to be called, was now filled with motorbikes and a few people milling outs",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02153-7/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "4ab2a44e95e0",
-   "cat": "sante",
-   "titre": "[Obituary] Paul Veys",
-   "resume": "Pioneer of paediatric stem cell transplantation and Director of the Bone Marrow Transplant Unit at Great Ormond Street Hospital for Children, UK. Born in Dar es Salaam, Tanzania, on Aug 7, 1960, he died of metastatic cholangiocarcinoma on July 18, 2026, in Winchelsea, UK, aged 65 years.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02154-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "19e89532eace",
-   "cat": "sante",
-   "titre": "[Correspondence] Lessons from the WHO South-East Asia Regional Director debacle",
-   "resume": "Saima Wazed, the Regional Director for WHO's South-East Asia Regional Office, resigned in September, 2026.1 Wazed's appointment drew considerable public attention and controversy, particularly when her qualifications were compared with those of other candidates.2,3",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02087-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "fb4eeae5b207",
-   "cat": "economie",
-   "titre": "Philip R. Lane: AI adoption in Europe",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-30T16:10:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "a664ad024dba",
-   "cat": "economie",
-   "titre": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-10-30T14:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "a7a0d51b75ed",
-   "cat": "economie",
-   "titre": "Indonesia - EAST ASIA AND PACIFIC- P180811- Indonesia Health Systems Strengthening Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126040017124",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "6c87ae7e6b4e",
-   "cat": "economie",
-   "titre": "India - SOUTH ASIA- P179189- Tamil Nadu Climate Resilient Urban Development Program - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026204543365",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "89342aaa4ace",
-   "cat": "economie",
-   "titre": "Burundi - EASTERN AND SOUTHERN AFRICA- P177146- Urban Resilience Emergency Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126015528514",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "dc9d3a0d90df",
-   "cat": "economie",
-   "titre": "FinHealth: Public Financial Management in Health Diagnostic Toolkit 2.0",
-   "resume": "This toolkit aims to assist practitioners to identify and address Public Financial Management (PFM) constraints that contribute to shortcomings in health service delivery. This Toolkit is anchored in its orientation toward solving health service problems. It starts by asking what is not working for ",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099101226054532238",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "fee4f9bd3bd0",
-   "cat": "economie",
-   "titre": "Rethinking Fiscal Policy to Support the Green Transition : Ensuring a Just Pathway for Bulgarian Vulnerable Household",
-   "resume": "Bulgaria's fiscal system reduces inequality substantially through in-kind health and education services, but its poverty-reducing capacity has weakened over time — and the green transition threatens to deepen this structural vulnerability. This paper provides the most comprehensive fiscal incidence ",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026072575152",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "c32ed5787099",
-   "cat": "economie",
-   "titre": "Central Africa - WESTERN AND CENTRAL AFRICA- P175235- Central Africa Regional Waterways Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026085536460",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "d9bc4fbfccba",
-   "cat": "economie",
-   "titre": "Burundi - Country Climate and Development Report",
-   "resume": "Climate change is a development challenge for Burundi, but it does not have to determine the country’s future. This first Burundi Country Climate and Development Report (CCDR) shows that ambitious climate action can protect people and livelihoods while supporting accelerated and inclusive growth. Bu",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026123517645",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "c2f44222795f",
-   "cat": "economie",
-   "titre": "Project Information Document - Support for Resilient Livelihoods in the South of Madagascar - MIONJO Project - P171056",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026150548262",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "bfa0cc4dc606",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Getting Results: Access and Delivery of Quality Education Services in Balochistan  - P507512 - Sequence No : 3",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026193040594",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "c2b9d4e2b2cf",
-   "cat": "economie",
-   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176181- Eastern Africa Regional Digital Integration Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026055034309",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "40c70b6345fb",
-   "cat": "geopolitique",
-   "titre": "À Dakar, six jeunes réfugiés entrent dans l’histoire olympique",
-   "resume": "Pour la première fois, une équipe de réfugiés participera aux Jeux olympiques de la jeunesse, qui s’ouvrent samedi au Sénégal. Derrière cette avancée symbolique, le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) rappelle que des millions d’enfants déracinés restent privés des possibilit",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159761",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "176a8e13af7d",
-   "cat": "geopolitique",
-   "titre": "Weekly schedule of President António Costa",
-   "resume": "Weekly schedule of President António Costa, 2-8 November 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/weekly-schedule-of-president-antonio-costa/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-30T17:50:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "351300449632",
-   "cat": "geopolitique",
-   "titre": "Cybercriminalité : avec l’IA, tout le monde peut devenir escroc",
-   "resume": "Faux messages, voix clonées, vidéos truquées. L’intelligence artificielle permet aux cybercriminels de multiplier les attaques tout en réduisant leurs coûts et leurs besoins en compétences techniques. L’ONU alerte sur cette démocratisation de la fraude et appelle les États à renforcer leur coopérati",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159760",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "d06125e90401",
-   "cat": "geopolitique",
-   "titre": "Intervention du président António Costa lors de la conférence de presse à l'issue du sommet UE-Canada",
-   "resume": "Le président du Conseil européen, António Costa, a présenté les principaux résultats des discussions menées par les dirigeants lors du 21e sommet UE-Canada qui s'est tenu à Montréal les 29 et 30 octobre 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-canada-summit/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-30T17:20:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "872c1ce12cb4",
-   "cat": "geopolitique",
-   "titre": "Ukraine, Syrie, Liban, Afghanistan : le HCR mobilisé face à l'urgence hivernale",
-   "resume": "Le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) a lancé vendredi un appel aux dons pour venir en aide à 9 millions de personnes en Ukraine, en Syrie, au Liban et en Afghanistan, confrontées aux rigueurs de l’hiver. L’agence espère recueillir au moins 50 millions de dollars pour financ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159755",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "df364e18f348",
-   "cat": "geopolitique",
-   "titre": "Déclaration conjointe du sommet UE-Canada, 30 octobre 2026",
-   "resume": "Les dirigeants de l’Union européenne et du Canada ont tenu leur 21e sommet UE-Canada à Montréal les 29 et 30 octobre 2026, et se sont mis d’accord sur une déclaration conjointe.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-30T16:40:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "df59f60a9755",
-   "cat": "geopolitique",
-   "titre": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
-   "resume": "Du dépistage précoce des maladies à l’automatisation des tâches administratives, l’intelligence artificielle promet de transformer les soins de santé. Mais son déploiement soulève des questions de sécurité, de confidentialité et d’égalité d’accès. Jeudi, les États de la région européenne de l’Organi",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159757",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "8eecc5427f4f",
-   "cat": "geopolitique",
-   "titre": "Calendrier à venir: 2-15 novembre 2026",
-   "resume": "Aperçu des principaux sujets qui seront examinés lors des sessions du Conseil de l'UE au cours des deux prochaines semaines et événements médias à venir.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/10/30/forward-look-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-10-30T16:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "0e4dfa3da8ba",
-   "cat": "geopolitique",
-   "titre": "Gaza : l’expansion des positions israéliennes ravive les craintes d’un « nettoyage ethnique »",
-   "resume": "À Gaza, les opérations militaires ne connaissent aucun répit. Alors que les forces israéliennes n'ont de cesse d'étendre leurs positions, les déplacements forcés de Palestiniens se multiplient et leur espace disponible au sein de l’enclave se réduit, sans perspective deretour. Une situation qui ravi",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159756",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "d366fd732900",
-   "cat": "geopolitique",
-   "titre": "RDC : la faim gagne du terrain sur fond de conflits et d’Ebola",
-   "resume": "En République démocratique du Congo (RDC), près d’un quart de la population, soit 28,8 millions de personnes, fait face à une insécurité alimentaire aiguë, selon la dernière analyse du Cadre intégré de classification de la sécurité alimentaire (IPC). Dans l’est du pays, les conflits, les déplacement",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159753",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "b1ccd6dd051c",
-   "cat": "geopolitique",
-   "titre": "Du péril de la traversée à celui de la guerre, les réfugiés pris au piège au Yémen",
-   "resume": "Plus de 65 000 réfugiés et demandeurs d’asile voient leurs conditions de vie se dégrader rapidement au Yémen. Intensification des combats, effondrement économique et restrictions de l’accès humanitaire menacent leur sécurité et leur survie. Malgré ces dangers, des milliers de personnes continuent po",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159754",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-30T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "9ebdeb515d7a",
-   "cat": "geopolitique",
-   "titre": "Femmes journalistes : témoigner de la guerre, au péril de leur vie",
-   "resume": "Menaces, harcèlement en ligne, violences sexistes et impunité : les femmes journalistes qui couvrent les conflits sont confrontées à des risques croissants. À l’ONU, des professionnelles des médias et des responsables onusiens appellent à des mesures concrètes pour garantir leur sécurité et préserve",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159743",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-28T12:00:00+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "b7fbe0d1cea0",
-   "cat": "jobs",
-   "titre": "Director of Radiology, Product Marketing",
-   "resume": "US. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016, Aidoc has raised over $500 million a",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5024228101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-10-30T11:56:56-04:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "bff37705a267",
-   "cat": "jobs",
-   "titre": "2026-17433 - Médecin du travail H/F/X",
-   "resume": "Métier : Medecin/Cadre médical (Medecin) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publique avec une ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17433&idOrigine=502&LCID=1036&offerReference=2026-17433",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-30T00:02:36+00:00",
-   "lot": "2026-10-31"
-  },
-  {
-   "id": "1e105ede104e",
-   "cat": "jobs",
-   "titre": "2026-17983 - Technicien de laboratoire - CNR Mycoses H/F/X",
-   "resume": "Métier : Autres domaines Recherche Clinique/Technicien supérieur de recherche clinique Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17983&idOrigine=502&LCID=1036&offerReference=2026-17983",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-10-28T10:33:15+00:00",
-   "lot": "2026-10-31"
-  },
   {
    "id": "7d856dd38bc2",
    "cat": "sante",
@@ -3241,29 +2773,353 @@
    "type_source": "entreprise",
    "publie": "2026-11-06T14:33:12+00:00",
    "lot": "2026-11-07"
+  },
+  {
+   "id": "7d45e06522f7",
+   "cat": "sante",
+   "titre": "Lung Hernia with a Chest-Wall Hematoma",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2607065?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T12:30:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "f642105fe586",
+   "cat": "sante",
+   "titre": "Early Days, Late Nights",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607215?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T12:30:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "f92ba3e57c57",
+   "cat": "sante",
+   "titre": "Equity in Maternal–Fetal Medicine — Technological Advances and a Potential Path Forward",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607107?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T12:30:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "0f87f97bea38",
+   "cat": "sante",
+   "titre": "Mass Surveillance with Artificial Intelligence — A New Determinant of Health?",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2611224?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T12:30:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "bddc1b60a12b",
+   "cat": "sante",
+   "titre": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612922?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T09:30:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "260b4b684288",
+   "cat": "sante",
+   "titre": "Discontinuing Statins in Older Adults without Cardiovascular Disease",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T09:15:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "fbf6d092ad30",
+   "cat": "sante",
+   "titre": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612924?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T08:15:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "7e916861193f",
+   "cat": "sante",
+   "titre": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T04:45:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "faf429a34f79",
+   "cat": "sante",
+   "titre": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2612650?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T04:45:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "4056f23d66c3",
+   "cat": "sante",
+   "titre": "Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a)",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T02:50:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "b641713a65f8",
+   "cat": "sante",
+   "titre": "Interleukin-6 Inhibition with Ziltivekimab for Atherosclerotic Disease",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612126?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T02:35:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "1a27f11dfdbe",
+   "cat": "sante",
+   "titre": "Hyperaldosteronism Remission after Extended Aldosterone Synthase Inhibition",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611265?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-07T02:35:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "71240352f25b",
+   "cat": "economie",
+   "titre": "Christine Lagarde: Interview with Yomiuri Shimbun",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-07T14:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "3d6e0aee51e7",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Water Emergency Relief Project - P179311 - Sequence No : 9",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826033539281",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-08T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "a3c24c2ce0a0",
+   "cat": "economie",
+   "titre": "Appraisal Project Information Document (PID)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826023529711",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-08T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "6a879832082c",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Global Development Awards Competition 2025-26 - P508964 - Sequence No : 1",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726092058392",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "0cb89c1d8f30",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) - Syria Smallholder Transformation for Agriculture Revitalization Project (STAR) - P515346",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726182012910",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "8eb8f04099da",
+   "cat": "economie",
+   "titre": "Lebanon - MID EAST,NORTH AFRICA,AFG,PAK- P180334- Lebanon Green Agrifood Transformation for Economic Recovery (GATE) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726130510895",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "7d323f2df392",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Transport Resilience and Connectivity Enhancement Project (Jezkazgan-Karagandy Section of TCITR (Middle Corridor)) - P500565 - Sequence No : 4",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726155016185",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "cfa98d942f0f",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Syria Smallholder Transformation for Agriculture Revitalization Project (STAR) - P515346",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726182036390",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "c1ffceee1091",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - DRC Multisectoral Nutrition and Health Project - P168756 - Sequence No : 13",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726045032769",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "cd752ad20f83",
+   "cat": "economie",
+   "titre": "Togo - WESTERN AND CENTRAL AFRICA- P176769- Inclusive Development through Electricity Access - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726133532169",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "4b911a35d55d",
+   "cat": "economie",
+   "titre": "Appraisal Project Information Document (PID)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726043517553",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "e34d06c2837b",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - DRC Multisectoral Nutrition and Health Project - P168756 - Sequence No : 13",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110726045021893",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-07T05:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "fab9727f74d1",
+   "cat": "geopolitique",
+   "titre": "L’IA pense de plus en plus à notre place. Que devient notre cerveau ?",
+   "resume": "L’intelligence artificielle promet de nous simplifier la vie. En quelques clics, elle peut rédiger des courriels, résumer des rapports, proposer des idées ou répondre à des questions complexes en quelques secondes. Pour beaucoup, cette révolution technologique est comparable à l’avènement d’Internet",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159770",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-07T12:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "16e8abf84c45",
+   "cat": "geopolitique",
+   "titre": "Message vidéo du président António Costa à l'occasion du Nueva Economía Fórum",
+   "resume": "Le président du Conseil européen, António Costa, s'est exprimé dans un message vidéo à l'occasion de la remise du prix décerné par le Nueva Economía Fórum, dans lequel il a souligné le rôle important que joue le secrétariat général ibéro-américain, lauréat du prix en 2026, dans la promotion du multi",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-06T12:00:00+00:00",
+   "lot": "2026-11-08"
+  },
+  {
+   "id": "0c99f1b085b5",
+   "cat": "geopolitique",
+   "titre": "Les candidats à la succession d'António Guterres défendent leur vision",
+   "resume": "Les prétendants au poste de Secrétaire général de l’ONU tentent de démontrer leur aptitude à diriger l’organisation lors d’une série de « dialogues interactifs » télévisés, organisés à New York.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1158714",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-06T12:00:00+00:00",
+   "lot": "2026-11-08"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "Nature Medicine": {
    "derniere_activite": "2026-11-07"
@@ -3272,28 +3128,28 @@
    "derniere_activite": "2026-11-07"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-08"
   }
  },
  "sources_silencieuses": [
