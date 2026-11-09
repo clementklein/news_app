@@ -1,307 +1,7 @@
 {
- "maj": "2026-11-08T11:02:48.070154+00:00",
- "lot": "2026-11-08",
+ "maj": "2026-11-09T12:31:55.050036+00:00",
+ "lot": "2026-11-09",
  "articles": [
-  {
-   "id": "7d856dd38bc2",
-   "cat": "sante",
-   "titre": "Disseminated Bartonellosis",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2605371?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-31T11:30:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "83fc2ab5aa35",
-   "cat": "sante",
-   "titre": "When Patients Need an Enemy",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2606011?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-31T11:30:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "b59a69c7b7e0",
-   "cat": "sante",
-   "titre": "The Learning Health System, Made Computable",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2610734?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-31T11:30:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "9dca67b9a6fa",
-   "cat": "sante",
-   "titre": "Private Health Insurance and Profit — Lessons for the United States",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2611270?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-31T11:30:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "74a907b1f45a",
-   "cat": "sante",
-   "titre": "Extended Outcomes of the ADAPT AF-DES Trial",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2612608?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-10-31T07:45:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "ee31e1354d47",
-   "cat": "sante",
-   "titre": "[Correspondence] Whose vitiligo goes untreated?",
-   "resume": "The Lancet Editorial1 on skin diseases rightly argues that vitiligo trials such as Viti-Up, in which more than 70% of participants were White, should enrol patients who reflect the population affected and measure what lies beyond the visible: stigma, comorbidity, and quality of life. The same oversi",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02090-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "438bb4783c29",
-   "cat": "sante",
-   "titre": "[Correspondence] Global health reform: a suggestion",
-   "resume": "Having worked for WHO for 5 years at the end of a career as an academic in global health, I was keen to read Richard Horton's Offline on the tragic fallacy of global health reform.1 Although the Offline summarised the reasons why current efforts might fail, I was disappointed that Horton did not mak",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02093-3/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "993aee62c040",
-   "cat": "sante",
-   "titre": "[Correspondence] Mahler, polycrisis, and the next Director-General of WHO",
-   "resume": "In his recent Offline on the upcoming elections for the new Director-General of WHO,1 Richard Horton mentions several of the previous Director-Generals, starting with Hiroshi Nakajima (1988–98); however, I believe the achievements of Halfdan Mahler (1973–88) should also be highlighted.2,3",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02091-X/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "3ab08eabd579",
-   "cat": "sante",
-   "titre": "[Correspondence] What kind of leader does WHO need?",
-   "resume": "In 2027, WHO will be embarking on a process to elect its next Director-General. It is clear that the new Director-General will have to continue dealing with important health issues globally, such as the health impacts of climate change, continuously evolving pathogens, pandemic preparedness, resurge",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02092-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "5505a5fe8262",
-   "cat": "sante",
-   "titre": "[Articles] Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial",
-   "resume": "We found no evidence to support prone positioning or HFOV as first-line strategies to improve ventilator-free days in patients with early, moderate-to-severe PARDS. Thus, the routine use of these strategies in this population is not recommended.",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01949-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "33936541c9e4",
-   "cat": "sante",
-   "titre": "[Articles] Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study",
-   "resume": "Although single markers resulted in variable and limited performance when compared to histology for detecting at-risk MASH, multimarker panels showed great potential, with a proteomic panel showing strong diagnostic performance. These findings could support the selection and implementation of non-in",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01145-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "cd14de91bfe2",
-   "cat": "sante",
-   "titre": "[Series] Men's health: an intersectional and multilevel framework for understanding syndemic patterns of health",
-   "resume": "Men occupy a privileged position within gender power relations: the male body has been the default reference point for biomedical research and therapeutic development (with the historical exclusion of women from medical trials), and men dominate health services leadership and exercise well documente",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01489-3/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "b25481e749df",
-   "cat": "economie",
-   "titre": "Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P176594- Getting Results: Access and Delivery of Quality Education Services in Punjab Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110126002533119",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-01T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "591e7ffbe8b7",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Myanmar Health Assistance and Nutrition Support (HANS) Project - P508089 - Sequence No : 4",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110126024520537",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-01T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "453287d643db",
-   "cat": "economie",
-   "titre": "Kazakhstan - EUROPE AND CENTRAL ASIA- P179204- Kazakhstan Digital Acceleration for an Inclusive Economy (DARE) Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126063071498",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "732bda7dbf0e",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Water and Sanitation Development Project - P156634 - Sequence No : 20",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126102015011",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "b1e6bd9d819c",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Angola Commercial Agriculture Development Project (PDAC) - P159052 - Sequence No : 18",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126103026696",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "a0df00c39952",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Burkina Faso Livestock Resilience and Competitiveness  Project - P178598 - Sequence No : 8",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126091528777",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "dcc41ac46825",
-   "cat": "economie",
-   "titre": "Disclosable Restructuring Paper - Transmission Investment Plan (PIT) to support Post-COVID-19 Green Economic Recovery in Peru - P174812",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126090037835",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "f1b670015268",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Tamil Nadu Women Employment and Safety (TN WESAFE) Operation - P180699 - Sequence No : 3",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103126195024672",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-31T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "5ca4b2babc3b",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Georgia I2Q - Innovation Inclusion and Quality - P168481 - Sequence No : 18",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026070027620",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "096b02a7abbe",
-   "cat": "economie",
-   "titre": "Niger - WESTERN AND CENTRAL AFRICA- P167543- Niger: Smart Villages for rural growth and digital inclusion - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026083518160",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "9df79acd1ab4",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Eastern Africa Regional Digital Integration Project SOP-II - P180931 - Sequence No : 6",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026093517909",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "7643cf6aa3c7",
-   "cat": "economie",
-   "titre": "Ghana - WESTERN AND CENTRAL AFRICA- P181123- EnABLE Ghana Country Project Supporting Social Inclusion in FCPF Emission Reductions Program - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099103026183567747",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-10-30T04:00:00+00:00",
-   "lot": "2026-11-01"
-  },
-  {
-   "id": "917684537b13",
-   "cat": "geopolitique",
-   "titre": "Prendre de la hauteur : à New York, un parc surélevé pour tenir la mer à distance",
-   "resume": "Le 29 octobre 2012, l’ouragan Sandy s’abattait sur New York, provoquant de gigantesques inondations. Des maisons, des stations de métro et des tunnels se retrouvaient sous l’eau, des quartiers étaient plongés dans le noir et des incendies faisaient plusieurs victimes.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/10/1159758",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-10-31T12:00:00+00:00",
-   "lot": "2026-11-01"
-  },
   {
    "id": "fbe11c0d50e2",
    "cat": "sante",
@@ -3097,29 +2797,281 @@
    "type_source": "organisation",
    "publie": "2026-11-06T12:00:00+00:00",
    "lot": "2026-11-08"
+  },
+  {
+   "id": "325289f203ae",
+   "cat": "sante",
+   "titre": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-08T10:15:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "6c8a875488fb",
+   "cat": "sante",
+   "titre": "Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612972?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-08T09:30:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "29b14db0e704",
+   "cat": "sante",
+   "titre": "A Liver-Targeted CIDEB siRNA in Adults with MASLD",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2612905?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-08T09:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "c745afd5111a",
+   "cat": "sante",
+   "titre": "Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610676?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-08T04:30:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "7e3ce2f4f607",
+   "cat": "sante",
+   "titre": "[Correspondence] Women with obstetric fistula in Somalia deserve better – Author's reply",
+   "resume": "I would like to thank Carrie J Ngongo and colleagues for taking the time to write their Correspondence and for highlighting important aspects of obstetric fistula care in Somalia that could not be fully addressed within the constraints of the World Report.1",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02029-5/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-07T00:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "a43af4f286b0",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Boeddinghaus J, Bima P, Crisanti L, et al, PRESC1SE-MI investigators. Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial. Lancet 2026; 408: 1941–52—In this Article, the affil",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02203-8/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-07T00:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "594ec1035eda",
+   "cat": "economie",
+   "titre": "Indonesia - EAST ASIA AND PACIFIC- P173391- Oceans for Prosperity Project - LAUTRA - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826202011059",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "eaeedc03f421",
+   "cat": "economie",
+   "titre": "Pacific 1 - EAST ASIA AND PACIFIC- P518516- Statistical Innovation and Capacity Building in the Pacific Islands Project 2 - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926004083125",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "a2461f4599ca",
+   "cat": "economie",
+   "titre": "West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital West Bank  and  Gaza Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926032029041",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "05a594fe9d72",
+   "cat": "economie",
+   "titre": "Brazil - LATIN AMERICA AND CARIBBEAN- P180429- Bahia Sustainable Rural Development Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826200034255",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "d2ddc734d30e",
+   "cat": "economie",
+   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439- Accelerating Access to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926033045191",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "923bd3067c25",
+   "cat": "economie",
+   "titre": "China - EAST ASIA AND PACIFIC- P174267- China Plastic Waste Reduction Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926045540216",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "3bb23b936fb9",
+   "cat": "economie",
+   "titre": "Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P175587- Second Regional Economic Development Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826212041584",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "11d633a857a5",
+   "cat": "economie",
+   "titre": "Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal and Early Childhood Nutrition Services Project (P180886)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926013031770",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "0ef1d80d3775",
+   "cat": "economie",
+   "titre": "Uzbekistan - EUROPE AND CENTRAL ASIA- P515715- Advancing Preparation of Uzbekistan Health Sector Reform Program  - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926023026481",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "c668d7fda140",
+   "cat": "economie",
+   "titre": "Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926040036127",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "599c05112c6b",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Lesotho Multisectoral Nutrition Project - P519176",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926052522961",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "6509075f31f8",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Dorjilung Hydroelectric Power Project - P501271 - Sequence No : 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110826215035191",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-09T05:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "b276560bb5a6",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
+   "resume": "The press briefing will take place on Wednesday 11 November 2026 at 10.00.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "71c1b3b4f8e6",
+   "cat": "geopolitique",
+   "titre": "COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables",
+   "resume": "The EU and the OACPS member states have issued a joint statement ahead of COP31, reaffirming their commitment to the full implementation of the Paris Agreement and strengthen cooperation on climate action.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T07:00:00+00:00",
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "1d90520b6aa2",
+   "cat": "jobs",
+   "titre": "2026-18122 - Infirmier vaccination internationale H/F/X",
+   "resume": "Métier : Autres domaines Santé/Infirmière Type de contrat : Contrat à durée indéterminée Description du poste : Nous recrutons un(e) Infirmer(e) pour compléter l'équipe. CDI sur notre campus Paris 15è. Les missions seront principalement au centre de vaccination internationale (CVI), mais pourront au",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18122&idOrigine=502&LCID=1036&offerReference=2026-18122",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-09T09:04:47+00:00",
+   "lot": "2026-11-09"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "Nature Medicine": {
    "derniere_activite": "2026-11-07"
@@ -3128,28 +3080,28 @@
    "derniere_activite": "2026-11-07"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-08"
+   "derniere_activite": "2026-11-09"
   }
  },
  "sources_silencieuses": [
