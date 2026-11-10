@@ -1,259 +1,7 @@
 {
- "maj": "2026-11-09T12:31:55.050036+00:00",
- "lot": "2026-11-09",
+ "maj": "2026-11-10T12:06:53.967785+00:00",
+ "lot": "2026-11-10",
  "articles": [
-  {
-   "id": "fbe11c0d50e2",
-   "cat": "sante",
-   "titre": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610771?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-01T06:45:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "a982e65e0345",
-   "cat": "sante",
-   "titre": "Antoine Loorius",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/antoine-loorius/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-02T08:00:40+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "48ab0e61fc83",
-   "cat": "sante",
-   "titre": "Paris Postdoc Seminars: “Regulatory Evolution of Streptococcus agalactiae Virulence” by Dr. Geoffrey MALLARET",
-   "resume": "Group B Streptococcus (GBS), Streptococcus agalactiae, is a commensal bacterium of the intestinal and vaginal tracts, carried by approximately 30% of healthy adults. However, GBS is also a pathobiont and a leading cause of […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/paris-postdoc-seminars-regulatory-evolution-of-streptococcus-agalactiae-virulence-by-dr-geoffrey-mallaret/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-02T07:49:49+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "e55971fcca09",
-   "cat": "sante",
-   "titre": "[Series] A global men's health epidemiology within an intersectional framework",
-   "resume": "Males have lower life expectancies and greater disability-adjusted life-years (DALYs) than females, and particularly poor outcomes are seen among males in marginalised contexts. In this paper, we provide an epidemiological overview and highlight the intersectional nature of men's health. We analyse ",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01490-X/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "bfe61a3a3aef",
-   "cat": "sante",
-   "titre": "[Series] Charting a course to men's health and wellbeing: applying a lens of power and politics to improve men's health outcomes",
-   "resume": "Despite long-standing evidence of poor health and life expectancy outcomes among men, particularly among men who are socially or structurally marginalised, men's health has generally received little and uneven attention in health policy and practice. Its gendered and intersectional aspects have been",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01488-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "c00fa1a63472",
-   "cat": "sante",
-   "titre": "[Viewpoint] Reframing the manosphere: a public health response to a commercial ecosystem",
-   "resume": "The manosphere, a diffuse commercial ecosystem and loose collection of online communities united by shared beliefs about masculinity, misogyny, and male victimisation, is an under-recognised determinant of health harms. This network has been implicated in considerable health harms: widespread mental",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02027-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-10-31T00:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "ab4c32c28811",
-   "cat": "economie",
-   "titre": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-02T09:30:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "436fcd9c1e19",
-   "cat": "economie",
-   "titre": "Rapport sur les marchés de capitaux en Afrique 2026",
-   "resume": "Les économies africaines ont été confrontées à un environnement extérieur difficile en 2025 et au début de 2026, marqué par une incertitude mondiale accrue, des changements dans les politiques commerciales et la volatilité des marchés de l’énergie. L’édition 2026 du Rapport sur les marchés de capita",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/rapport-sur-les-marches-de-capitaux-en-afrique-2026_570ef65c-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-11-06T08:30:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "e7364aa1b021",
-   "cat": "economie",
-   "titre": "Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Algérie 2026 (Deuxième cycle) : Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande",
-   "resume": "Ce rapport d’examen par les pairs analyse la mise en oeuvre de la norme de transparence et d’échange de renseignements sur demande pour l’Algérie, dans le cadre du deuxième cycle d’évaluations menées par le Forum mondial depuis 2016.",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/forum-mondial-sur-la-transparence-et-l-echange-de-renseignements-a-des-fins-fiscales-algerie-2026-deuxieme-cycle_57b13aa5-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-11-03T10:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "24254759faf1",
-   "cat": "economie",
-   "titre": "Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Congo 2026 (Deuxième cycle, Phase 1) : Rapport d’examen par les pairs sur la transparence et l’échange de renseignements sur demande",
-   "resume": "Ce rapport d’examen par les pairs analyse la mise en oeuvre de la norme de transparence et d’échange de renseignements sur demande pour la République du Congo, dans le cadre du deuxième cycle d’évaluastions menées par le Forum mondial. En raison de l’expérience pratique limitée de la la République d",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/forum-mondial-sur-la-transparence-et-l-echange-de-renseignements-a-des-fins-fiscales-congo-2026-deuxieme-cycle-phase-1_cc84a5fc-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-11-03T10:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "915dd6e011e0",
-   "cat": "economie",
-   "titre": "Politiques agricoles : suivi et évaluation 2026 (version abrégée) : Renforcer la résilience dans un monde aux risques interdépendants",
-   "resume": "Le présent rapport annuel passe en revue les politiques agricoles de 56 pays : les 38 pays Membres de l’OCDE, cinq États membres de l’UE non membres de l’OCDE et 13 économies émergentes. Alors que les chocs mondiaux deviennent plus fréquents, plus graves et plus interdépendants, et que leur impact é",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/politiques-agricoles-suivi-et-evaluation-2026-version-abregee_e1922cbe-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-11-02T09:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "617625db169e",
-   "cat": "economie",
-   "titre": "Boîte à outils pour la mise en œuvre de l’impôt minimum mondial",
-   "resume": "La Boîte à outils pour la mise en œuvre de l’impôt minimum mondial sert de feuille de route aux administrations fiscales et aux responsables de la politique fiscale en présentant une série d’étapes pour la mise en œuvre, chacune détaillée dans des modules complémentaires. Elle fournit des orientatio",
-   "limite": 0,
-   "lien": "https://www.oecd.org/fr/publications/boite-a-outils-pour-la-mise-en-oeuvre-de-l-impot-minimum-mondial_afb7e5c9-fr.html",
-   "source": "OCDE",
-   "type_source": "organisation",
-   "publie": "2026-11-01T23:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "5833671309cc",
-   "cat": "economie",
-   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - Sudan - Enhancing Community Resilience Project - P181490 - AF No: 4",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226011024731",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "17eff11d32ba",
-   "cat": "economie",
-   "titre": "Malawi - EASTERN AND SOUTHERN AFRICA- P505095- Digital Malawi Acceleration Project (DMAP) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226040035897",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "7632e90f0bee",
-   "cat": "economie",
-   "titre": "Burkina Faso - WESTERN AND CENTRAL AFRICA- P177005- Burkina Faso Entrepreneurship, Skills and Technology Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226043039471",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "721605d248a2",
-   "cat": "economie",
-   "titre": "Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P166059- Expanding Opportunities for Learning - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226044039280",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "eed12a964241",
-   "cat": "economie",
-   "titre": "AF Initial Environmental and Social Review Summary (ESRS) - Burundi Digital Foundations Project - P176396 - AF Seq No: 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226022039009",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "4383cc1178c4",
-   "cat": "economie",
-   "titre": "Madagascar - EASTERN AND SOUTHERN AFRICA- P182053- Multimodal Transport and Logistics Program - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110226023018095",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-02T05:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "d987043362d6",
-   "cat": "geopolitique",
-   "titre": "Sahara occidental : fin de la MINURSO, l’ONU demeure prête à soutenir les efforts de paix",
-   "resume": "Faute d’accord au Conseil de sécurité, la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a cessé ses opérations samedi à minuit, après 35 ans de présence. Le Secrétaire général réaffirme l’engagement des Nations Unies à aider les parties à parvenir à une",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159762",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-01T12:00:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "e374bc53cc0f",
-   "cat": "geopolitique",
-   "titre": "Statement by the High Representative on behalf of the European Union on the situation in Yemen",
-   "resume": "The European Union strongly condemns the Houthis' continued military escalation in Yemen and their attacks against Saudi Arabia, particularly those targeting civilians and civilian infrastructure.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-02T11:22:00+00:00",
-   "lot": "2026-11-02"
-  },
-  {
-   "id": "43a28c83ab43",
-   "cat": "jobs",
-   "titre": "2026-18087 - Technicien de recherche Bacteriophages H/F/X",
-   "resume": "Métier : Autres domaines Ingénierie de la recherche/Technicien de recherche Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en plein Paris ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18087&idOrigine=502&LCID=1036&offerReference=2026-18087",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-02T09:48:48+00:00",
-   "lot": "2026-11-02"
-  },
   {
    "id": "117c7a08523b",
    "cat": "sante",
@@ -3049,59 +2797,515 @@
    "type_source": "entreprise",
    "publie": "2026-11-09T09:04:47+00:00",
    "lot": "2026-11-09"
+  },
+  {
+   "id": "b6ede287b2d0",
+   "cat": "sante",
+   "titre": "Next-generation KRAS G12C inhibitor improves survival in lung cancer",
+   "resume": "Nature Medicine, Published online: 10 November 2026; doi:10.1038/d41591-026-00057-9 Phase 3 trial data show that the next-generation KRAS G12C inhibitor divarasib leads to longer progression-free survival than the first-generation inhibitors sotorasib and adagrasib in patients with non–small-cell lu",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/d41591-026-00057-9",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-10T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "d3554ebc362b",
+   "cat": "sante",
+   "titre": "ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612463?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-09T02:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "56e0160f097a",
+   "cat": "sante",
+   "titre": "Brooke Staley",
+   "resume": "Sorry, this entry is only available in FR.",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/273979/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-10T08:46:37+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "78d4b6ec0ee0",
+   "cat": "sante",
+   "titre": "A novel candidate biomarker for detecting premalignant and early ovarian cancer",
+   "resume": "Nature Medicine, Published online: 10 November 2026; doi:10.1038/s41591-026-04755-2 New data suggest that the long noncoding RNA known as Tu-Stroma represents a promising new circulating biomarker for the detection of ovarian cancer at premalignant and early stages, for which sensitive screening met",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04755-2",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-10T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "036c6c7c8b5a",
+   "cat": "sante",
+   "titre": "Elena Verlay",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/elena-verlay/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-10T08:44:59+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "c4c2c52db28b",
+   "cat": "sante",
+   "titre": "Blood-based RNA biomarker for the early detection of ovarian cancer",
+   "resume": "Nature Medicine, Published online: 10 November 2026; doi:10.1038/s41591-026-04732-9 Tested in a cohort of 506 individuals, the RNA-based biomarker of microenvironment fitness Tu-stroma shows high performance in discriminating early-stage ovarian cancer from benign lesions, outperforming CA125.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04732-9",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-10T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "43a63766e369",
+   "cat": "sante",
+   "titre": "Pasteur Joint International Research Unit (PIU) – Kumamoto University / Japan Institute for Health Security (JIHS)",
+   "resume": "Viral hepatitis remains a major global health challenge, particularly in countries where access to diagnostic tests and treatment is limited. Achieving the global goal of eliminating viral hepatitis requires not only scientific innovations but […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/project/pasteur-international-unit-kumamoto-university-japan-institute-for-health-security-jihs-japan/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-09T20:24:20+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "b01a6623c56d",
+   "cat": "sante",
+   "titre": "Deep learning-based gait analysis predicts multisystem health phenotypes",
+   "resume": "Nature Medicine, Published online: 09 November 2026; doi:10.1038/s41591-026-04725-8 We developed a gait foundation model from three-dimensional skeletal motion data of 3,328 deeply phenotyped adults, recorded using a depth camera during five motor tasks. Embeddings significantly predicted 1,887 of 3",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04725-8",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-09T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "06d8848b06ca",
+   "cat": "sante",
+   "titre": "CIRCA: Early detection of cirrhosis and hepatocellular carcinoma in sub-Saharan Africa: a pilot interventional study in The Gambia, West Africa.",
+   "resume": "In sub-Saharan Africa, cirrhosis and liver cancer are often diagnosed at an advanced stage, when treatment options are limited and survival is poor. Conventional screening approaches often focus on identifying specific causes of liver […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/project/circa-early-detection-of-cirrhosis-and-hepatocellular-carcinoma-in-sub-saharan-africa-a-pilot-interventional-study-in-the-gambia-west-africa/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-09T19:03:32+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "230e7e657a55",
+   "cat": "sante",
+   "titre": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial",
+   "resume": "Nature Medicine, Published online: 09 November 2026; doi:10.1038/s41591-026-04752-5 Participants undergoing resistance exercise while receiving tirzepatide lost less lean mass than participants receiving tirzepatide alone.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04752-5",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-09T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "68a485550cf4",
+   "cat": "sante",
+   "titre": "MORPH: Missense On Reference Protein Human Visualisation",
+   "resume": "We often think about protein structure as a unique and fixed entity, but each one of us carries ~9000 missense variants (i.e. protein altering mutation changing one amino acid in another). To move beyond […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/software/morph-missense-on-reference-protein-human-visualisation/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-09T15:02:35+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "40639fc23f84",
+   "cat": "sante",
+   "titre": "An ulcerative colitis taxonomy defined by individual patient-reported response trajectories",
+   "resume": "Nature Medicine, Published online: 09 November 2026; doi:10.1038/s41591-026-04741-8 An analysis of patient-reported trajectories of response to vedolizumab in ulcerative colitis defines disease endotypes and identifies vascular inflammation as a potential resistance mechanism.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04741-8",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-09T00:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "9aca55536411",
+   "cat": "economie",
+   "titre": "Les trajectoires de croissance régionale au travers des crises depuis 2000",
+   "resume": "En 2024, le PIB de la France métropolitaine s’élève à 2 863 milliards d’euros, dont plus de 40 % sont réalisés dans les régions Île-de-France et Auvergne‑Rhône‑Alpes. Ces deux régions se placent également en tête en matière de PIB par habitant et par emploi.Depuis 2000, la croissance des régions a é",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9129350",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-10T11:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "d6182ba9a64f",
+   "cat": "economie",
+   "titre": "Papua New Guinea - EAST ASIA AND PACIFIC- P517122- PNG Agriculture Commercialization and Diversification Project Phase 2 (PACD2)--Project Preparation - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926191523121",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "ad6726f389e3",
+   "cat": "economie",
+   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P180127- Health Emergency Preparedness, Response and Resilience Program Using the Multiphase Programmatic Approach  - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026031011037",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "f2887f888101",
+   "cat": "economie",
+   "titre": "Bangladesh - SOUTH ASIA- P169880- Western Economic Corridor and Regional Enhancement Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026050520783",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "9e057194c320",
+   "cat": "economie",
+   "titre": "Cambodia - EAST ASIA AND PACIFIC- P180664- Second Higher Education Improvement Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110926222059651",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "76a57797840a",
+   "cat": "economie",
+   "titre": "Tuvalu - EAST ASIA AND PACIFIC- P177100- Maritime Investment in Climate Resilient Operations II - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026004012509",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "847ae1d95676",
+   "cat": "economie",
+   "titre": "Georgia - EUROPE AND CENTRAL ASIA- P519916- Anaklia Regional Gateway and Overland Connectivity Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026015012263",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "d3caee687b3e",
+   "cat": "economie",
+   "titre": "Bhutan - SOUTH ASIA- P174399- Human Capital Recovery  and  Resilience Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026030551633",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "b90ca5c21ba3",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Indonesia Coral Reef Bond - P181486",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026031529878",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "2132e41cb9ba",
+   "cat": "economie",
+   "titre": "Appraisal Environmental and Social Review Summary (ESRS) - Indonesia Coral Reef Bond - P181486",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026031522695",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "cd7149cab9ea",
+   "cat": "economie",
+   "titre": "Brazil - LATIN AMERICA AND CARIBBEAN- P500570- Sergipe Efficient Digital Acceleration project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026034042585",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "b4fb0c8931f9",
+   "cat": "economie",
+   "titre": "Senegal - WESTERN AND CENTRAL AFRICA- P175830- Stormwater Management and Climate Change Adaptation Project 2 - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111026035018157",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-10T05:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "7832deecd10a",
+   "cat": "geopolitique",
+   "titre": "Plus de 50 migrants morts dans une série de naufrages durant le week-end",
+   "resume": "Au moins 56 personnes ont péri dans trois naufrages survenus au large des côtes du Sénégal et de la Grèce entre vendredi et dimanche. Alors que les traversées se multiplient sur certaines routes migratoires et que les départs s'effectuent toujours plus loin des côtes européennes, l'Organisation inte",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159813",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "73ade0367c7e",
+   "cat": "geopolitique",
+   "titre": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+   "resume": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/10/joint-statement/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-10T09:22:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "4554fea5b730",
+   "cat": "geopolitique",
+   "titre": "COP31 : les promesses climatiques peuvent-elles enfin se traduire par des résultats ?",
+   "resume": "Près de 200 pays se retrouvent à Antalya, sur la côte méditerranéenne turque, pour la conférence annuelle de l’ONU sur le climat, avec une ambition affichée : transformer les engagements accumulés au fil des sommets en résultats concrets. Alors qu’un puissant épisode El Niño menace d’intensifier les",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159809",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "ec407e8b19de",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026",
+   "resume": "Main agenda items, approximate timing and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T20:35:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "a2edad3da9a6",
+   "cat": "geopolitique",
+   "titre": "Yémen : près d’un million d’enfants visés par une campagne de vaccination contre la rougeole",
+   "resume": "Dans un pays ravagé par plus d’une décennie de guerre, l’Organisation mondiale de la santé et ses partenaires lancent une vaste campagne de vaccination contre la rougeole et la rubéole. Près d’un million d’enfants doivent être immunisés dans le sud du Yémen, où les déplacements de population et les ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159808",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "88668a43ba0c",
+   "cat": "geopolitique",
+   "titre": "Ukraine: Council extends EU Military Assistance Mission mandate for two years",
+   "resume": "The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T17:01:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "de203ef2e4cd",
+   "cat": "geopolitique",
+   "titre": "Climat : El Niño menace de faire tomber de nouveaux records en 2027",
+   "resume": "La planète accumule toujours plus de chaleur, les océans atteignent des températures inédites et les glaciers continuent de fondre. Et le phénomène El Niño, qui s’intensifie depuis août, pourrait encore aggraver la situation jusqu’en 2027.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159807",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "ce54720cc8e1",
+   "cat": "geopolitique",
+   "titre": "Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges",
+   "resume": "The Council approved conclusions reaffirming the EU’s commitment to principled humanitarian action, stronger protection of civilians and more effective action amid growing global humanitarian needs.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T15:20:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "b40929080f4d",
+   "cat": "geopolitique",
+   "titre": "Ukraine : à l’approche de l’hiver, l’ONU alerte sur l’escalade des frappes russes",
+   "resume": "Les bombardements russes contre les villes et les infrastructures énergétiques ukrainiennes s’intensifient, faisant craindre une nouvelle crise humanitaire à l’approche de l’hiver. Lundi, deux responsables onusiens ont dénoncé une multiplication des victimes civiles et averti que les secours ne pour",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159806",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "84c0f073106b",
+   "cat": "geopolitique",
+   "titre": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 9 November 2026",
+   "resume": "Remarks by Eurogroup President Kyriakos Pierrakakis on the economic outlook in the euro area, defence financing and joint procurement, progress made on the digital euro and on the outlook for the banking sector, as well as the nomination process for three vacancies on the ECB Executive Board.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T14:40:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "7cbf70960b65",
+   "cat": "geopolitique",
+   "titre": "Gaza : les camps inondés, tandis que le matériel de secours s'entasse aux portes de l'enclave",
+   "resume": "Les fortes intempéries du week-end ont touché des dizaines de milliers de familles et désorganisé les secours à Gaza. Alors que les stocks humanitaires sont presque épuisés dans l’enclave palestinienne, l’ONU dénonce les restrictions israéliennes et le manque de financements qui entravent l’achemine",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159805",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-09T12:00:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "7e58ef026a5c",
+   "cat": "geopolitique",
+   "titre": "Fiscalité: le Conseil approuve des règles de simplification concernant la TVA pour la vente en ligne",
+   "resume": "Aujourd'hui, le Conseil a arrêté de nouvelles mesures visant à améliorer la perception de la taxe sur la valeur ajoutée sur les ventes en ligne dans l'UE. Il s'agit de la dernière pierre d'une refonte plus large du cadre douanier de l'UE.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-09T14:32:00+00:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "8fdbfe1d9362",
+   "cat": "jobs",
+   "titre": "Senior Application Security Engineer",
+   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5030918101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-11-10T03:43:19-05:00",
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "e1461cf571cf",
+   "cat": "jobs",
+   "titre": "Senior Cloud Security Engineer",
+   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5030916101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-11-10T03:43:02-05:00",
+   "lot": "2026-11-10"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-10"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-07"
+   "derniere_activite": "2026-11-10"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-09"
+   "derniere_activite": "2026-11-10"
   }
  },
  "sources_silencieuses": [
