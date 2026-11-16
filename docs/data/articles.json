@@ -1,331 +1,7 @@
 {
- "maj": "2026-11-15T11:45:21.014947+00:00",
- "lot": "2026-11-15",
+ "maj": "2026-11-16T12:26:32.803479+00:00",
+ "lot": "2026-11-16",
  "articles": [
-  {
-   "id": "7d45e06522f7",
-   "cat": "sante",
-   "titre": "Lung Hernia with a Chest-Wall Hematoma",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2607065?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T12:30:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "f642105fe586",
-   "cat": "sante",
-   "titre": "Early Days, Late Nights",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607215?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T12:30:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "f92ba3e57c57",
-   "cat": "sante",
-   "titre": "Equity in Maternal–Fetal Medicine — Technological Advances and a Potential Path Forward",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2607107?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T12:30:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "0f87f97bea38",
-   "cat": "sante",
-   "titre": "Mass Surveillance with Artificial Intelligence — A New Determinant of Health?",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2611224?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T12:30:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "bddc1b60a12b",
-   "cat": "sante",
-   "titre": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612922?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T09:30:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "260b4b684288",
-   "cat": "sante",
-   "titre": "Discontinuing Statins in Older Adults without Cardiovascular Disease",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T09:15:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "fbf6d092ad30",
-   "cat": "sante",
-   "titre": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612924?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T08:15:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "7e916861193f",
-   "cat": "sante",
-   "titre": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T04:45:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "faf429a34f79",
-   "cat": "sante",
-   "titre": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2612650?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T04:45:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "4056f23d66c3",
-   "cat": "sante",
-   "titre": "Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a)",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T02:50:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "b641713a65f8",
-   "cat": "sante",
-   "titre": "Interleukin-6 Inhibition with Ziltivekimab for Atherosclerotic Disease",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612126?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T02:35:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "1a27f11dfdbe",
-   "cat": "sante",
-   "titre": "Hyperaldosteronism Remission after Extended Aldosterone Synthase Inhibition",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611265?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-07T02:35:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "71240352f25b",
-   "cat": "economie",
-   "titre": "Christine Lagarde: Interview with Yomiuri Shimbun",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-07T14:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "3d6e0aee51e7",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Water Emergency Relief Project - P179311 - Sequence No : 9",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826033539281",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-08T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "a3c24c2ce0a0",
-   "cat": "economie",
-   "titre": "Appraisal Project Information Document (PID)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826023529711",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-08T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "6a879832082c",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Global Development Awards Competition 2025-26 - P508964 - Sequence No : 1",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726092058392",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "0cb89c1d8f30",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Syria Smallholder Transformation for Agriculture Revitalization Project (STAR) - P515346",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726182012910",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "8eb8f04099da",
-   "cat": "economie",
-   "titre": "Lebanon - MID EAST,NORTH AFRICA,AFG,PAK- P180334- Lebanon Green Agrifood Transformation for Economic Recovery (GATE) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726130510895",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "7d323f2df392",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Transport Resilience and Connectivity Enhancement Project (Jezkazgan-Karagandy Section of TCITR (Middle Corridor)) - P500565 - Sequence No : 4",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726155016185",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "cfa98d942f0f",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Syria Smallholder Transformation for Agriculture Revitalization Project (STAR) - P515346",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726182036390",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "c1ffceee1091",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - DRC Multisectoral Nutrition and Health Project - P168756 - Sequence No : 13",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726045032769",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "cd752ad20f83",
-   "cat": "economie",
-   "titre": "Togo - WESTERN AND CENTRAL AFRICA- P176769- Inclusive Development through Electricity Access - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726133532169",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "4b911a35d55d",
-   "cat": "economie",
-   "titre": "Appraisal Project Information Document (PID)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726043517553",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "e34d06c2837b",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - DRC Multisectoral Nutrition and Health Project - P168756 - Sequence No : 13",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110726045021893",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-07T05:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "fab9727f74d1",
-   "cat": "geopolitique",
-   "titre": "L’IA pense de plus en plus à notre place. Que devient notre cerveau ?",
-   "resume": "L’intelligence artificielle promet de nous simplifier la vie. En quelques clics, elle peut rédiger des courriels, résumer des rapports, proposer des idées ou répondre à des questions complexes en quelques secondes. Pour beaucoup, cette révolution technologique est comparable à l’avènement d’Internet",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159770",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-07T12:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "16e8abf84c45",
-   "cat": "geopolitique",
-   "titre": "Message vidéo du président António Costa à l'occasion du Nueva Economía Fórum",
-   "resume": "Le président du Conseil européen, António Costa, s'est exprimé dans un message vidéo à l'occasion de la remise du prix décerné par le Nueva Economía Fórum, dans lequel il a souligné le rôle important que joue le secrétariat général ibéro-américain, lauréat du prix en 2026, dans la promotion du multi",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/06/video-message-of-president-antonio-costa-for-the-new-economy-forum/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-06T12:00:00+00:00",
-   "lot": "2026-11-08"
-  },
-  {
-   "id": "0c99f1b085b5",
-   "cat": "geopolitique",
-   "titre": "Les candidats à la succession d'António Guterres défendent leur vision",
-   "resume": "Les prétendants au poste de Secrétaire général de l’ONU tentent de démontrer leur aptitude à diriger l’organisation lors d’une série de « dialogues interactifs » télévisés, organisés à New York.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1158714",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-06T12:00:00+00:00",
-   "lot": "2026-11-08"
-  },
   {
    "id": "325289f203ae",
    "cat": "sante",
@@ -3013,59 +2689,383 @@
    "type_source": "entreprise",
    "publie": "2026-11-12T13:06:00+00:00",
    "lot": "2026-11-15"
+  },
+  {
+   "id": "e84ac4979c57",
+   "cat": "sante",
+   "titre": "Décision n° 2026.0883/DP/SG du 12 novembre 2026 du président de la Haute Autorité de santé portant modification de l’organisation générale des services de la Haute Autorité de santé",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4608998/fr/decision-n-2026-0883/dp/sg-du-12-novembre-2026-du-president-de-la-haute-autorite-de-sante-portant-modification-de-l-organisation-generale-des-services-de-la-haute-autorite-de-sante",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-16T10:16:07+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "7fe276fd9473",
+   "cat": "sante",
+   "titre": "Avis n° 2026.0063/AC/SG du 12 novembre 2026 du collège de la Haute Autorité de santé relatif au projet de modification de l’organisation générale des services de la Haute Autorité de santé",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4608991/fr/avis-n-2026-0063/ac/sg-du-12-novembre-2026-du-college-de-la-haute-autorite-de-sante-relatif-au-projet-de-modification-de-l-organisation-generale-des-services-de-la-haute-autorite-de-sante",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-16T10:12:25+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "c2eb43f192a3",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Slomovitz BM, Zhu J, Yin R, et al. First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator cont",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02294-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-14T00:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "23fbd8c07901",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Moraleda C, Tagarro A, Domínguez-Rodríguez S, et al. Empirical treatment with valganciclovir in infants living with HIV and hospitalised with severe pneumonia in Africa: a multicentre, open-label, factorial, randomised, controlled, superiority trial. Lancet 2026; 408: 2097–108—In this Article, row 1",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02202-6/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-14T00:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "3b3b5330b57c",
+   "cat": "sante",
+   "titre": "[Articles] Empirical tuberculosis treatment in infants living with HIV hospitalised with severe pneumonia in Africa (EMPIRICAL): a multicentre, randomised, open-label, 2 × 2 factorial, controlled superiority trial",
+   "resume": "In contrast to empirical treatment with valganciclovir, there was no evidence that eTB-T was superior to a clinically and microbiologically guided strategy in reducing all-cause mortality among infants with HIV-associated pneumonia. However, the high proportion of infants who eventually initiated tu",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01418-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-14T00:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "9e0b3a4febf4",
+   "cat": "economie",
+   "titre": "Boris Vujčić: Risks and resilience in the euro area financial system",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-16T08:30:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "c26b0002c506",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Investing in Inclusive Human Capital Development in Northern Mozambique Project - P175298 - Sequence No : 10",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626023514673",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "66f23581c911",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Uganda Strengthening Public Investment and Asset Management for Growth and Resilience Operation (PIM Plus) - P511206 - Sequence No : 3",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626050523547",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "511d21dbec52",
+   "cat": "economie",
+   "titre": "FY 2026 Honduras Country Opinion Survey Report",
+   "resume": "The Country Opinion Survey in Honduras assists the World Bank Group (WBG) in better understanding how stakeholders in Honduras perceive the WBG. It provides the WBG with systematic feedback from national government officials and institutions, parliamentarians, local governments, bilateral and multil",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099017511162638529",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "192fb793c4e2",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Enhancing Landscape and Ecosystem Management (ELEMENT) Project  - P179935 - Sequence No : 5",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111526235038656",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "08dcb854f272",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) Digital Federated States of Micronesia 2 (P518944)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626015031877",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "42db538b8888",
+   "cat": "economie",
+   "titre": "FY 2026 Honduras Country Opinion Survey Report : Appendices",
+   "resume": "The Country Opinion Survey in Honduras assists the World Bank Group (WBG) in better understanding how stakeholders in Honduras perceive the WBG. It provides the WBG with systematic feedback from national government officials and institutions, parliamentarians, local governments, bilateral and multil",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099021211162611735",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "f521b15fbe97",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - India: Haryana Clean Air Project for Sustainable Development Operation - P510686 - Sequence No : 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626020523291",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "f12775a050f0",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - IQ: Basra Electricity Dissemination and Development Project (EDDP) - P162454 - Sequence No : 13",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626033026628",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-16T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "70f13bf82b41",
+   "cat": "economie",
+   "titre": "Southern Africa - EASTERN AND SOUTHERN AFRICA- P513349- Cubango-Okavango River Basin (CORB): Financing Innovation in Transboundary Waters   - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111526065514117",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-15T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "c050702a67f3",
+   "cat": "economie",
+   "titre": "Sri Lanka - SOUTH ASIA- P511828- Tourism for Heritage, Resilience, Inclusion, and Value-driven Employment Project (THRIVE) Colombo - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111526100011284",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-15T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "7c27a6e3a69d",
+   "cat": "economie",
+   "titre": "Senegal - WESTERN AND CENTRAL AFRICA- P175915- Senegal: Natural Resources Management Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111526062042119",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-15T05:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "634e0b2d622e",
+   "cat": "geopolitique",
+   "titre": "Samarcande : faire vivre le patrimoine sans sacrifier la ville",
+   "resume": "Alors que le soleil se couche sur le majestueux Registan de Samarcande, ses derniers rayons scintillent sur les mosaïques turquoise. Le crépuscule enveloppe cette place historique, témoin de siècles d’échanges commerciaux et culturels sur la Route de la Soie. Autour des monuments, les touristes flân",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159832",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-15T12:00:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "ce8e0045a501",
+   "cat": "geopolitique",
+   "titre": "Ukraine: EU lists 113 individuals and entities to further restrict Russia’s ability to finance its war of aggression",
+   "resume": "The Council has imposed restrictive measures on 12 individuals and 101 entities active in the banking, financial and energy sectors for their role in financing Russia’s war efforts and supporting its shadow fleet.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T11:35:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "f90183596968",
+   "cat": "geopolitique",
+   "titre": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations",
+   "resume": "The Council adopted restrictive measures against four Haitian criminal armed groups responsible for grave violations against children in armed conflict, including killings, sexual violence and the recruitment of children.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/eu-global-human-rights-sanctions-regime-council-lists-four-haitian-entities-over-serious-human-rights-violations/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T11:28:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "fa454e1ea38d",
+   "cat": "geopolitique",
+   "titre": "Russia’s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities",
+   "resume": "The Council adopted restrictive measures against 30 individuals and one entity responsible for actions on behalf of the Russian Federation undermining and threatening democracy, stability or security in the EU and some its Member States or in third countries. It also listed one entity responsible fo",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T11:10:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "f5eee6c8fd43",
+   "cat": "geopolitique",
+   "titre": "Hamas and the Palestinian Islamic Jihad: EU adds one entity and its founder to the sanctions list",
+   "resume": "The Council has added one individual and one entity to the sanctions list against Hamas and the Palestinian Islamic Jihad, for their role in financing Hamas.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/hamas-and-the-palestinian-islamic-jihad-eu-adds-one-entity-and-its-founder-to-the-sanctions-list/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T10:26:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "c8fac6ce154b",
+   "cat": "geopolitique",
+   "titre": "Ukraine Facility: Council approves largest-ever payment of €8 billion to Kyiv",
+   "resume": "The Council approved a record payment of just under €8 billion for Ukraine under the Ukraine Facility, following Ukraine’s successful completion of over 20 target steps under the Ukraine Plan.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T09:38:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "b40b16cf443d",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Education, Youth, Culture and Sport Council of 19 and 20 November 2026",
+   "resume": "Press briefing ahead of the upcoming Education, Youth, Culture and Sport Council will take place on 16 November 2026 at 11.00",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/press-briefing-education-youth-culture-and-sport-council-of-19-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T08:38:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "c1a43fb605b7",
+   "cat": "geopolitique",
+   "titre": "European Peace Facility: Council increases support for maritime security in the Gulf of Guinea to €31 million",
+   "resume": "The Council increased financial support through the European Peace Facility (EPF) from €21 million to €31 million, benefitting military actors and navies of coastal states involved in maritime security operations in the Gulf of Guinea.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/european-peace-facility-council-increases-support-for-maritime-security-in-the-gulf-of-guinea-to-31-million/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T07:58:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "e6a2a1cad864",
+   "cat": "geopolitique",
+   "titre": "ISRAËL/PALESTINE: déclaration de la haute représentante, au nom de l'Union européenne, sur l'évolution de la situation humanitaire à Gaza",
+   "resume": "La haute représentante a fait une déclaration au nom de l'Union européenne sur l'évolution de la situation humanitaire à Gaza.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/14/israelpalestine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-humanitarian-developments-in-gaza/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-14T12:20:00+00:00",
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "5517998a1e98",
+   "cat": "jobs",
+   "titre": "2026-16670 - Chef d'Unité de recherche en virologie - IP Guinée H/F/X",
+   "resume": "Métier : Autres domaines Ingénierie de la recherche/Ingénieur de recherche expert Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur de Guinée, membre du Pasteur Network, joue un rôle central en matière de recherche, de surveillance épidémiologique, de diagnosti",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=16670&idOrigine=502&LCID=1036&offerReference=2026-16670",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-16T00:02:02+00:00",
+   "lot": "2026-11-16"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-15"
+   "derniere_activite": "2026-11-16"
   }
  },
  "sources_silencieuses": [
