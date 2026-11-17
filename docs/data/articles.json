@@ -1,259 +1,7 @@
 {
- "maj": "2026-11-16T12:26:32.803479+00:00",
- "lot": "2026-11-16",
+ "maj": "2026-11-17T12:47:10.632304+00:00",
+ "lot": "2026-11-17",
  "articles": [
-  {
-   "id": "325289f203ae",
-   "cat": "sante",
-   "titre": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-08T10:15:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "6c8a875488fb",
-   "cat": "sante",
-   "titre": "Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612972?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-08T09:30:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "29b14db0e704",
-   "cat": "sante",
-   "titre": "A Liver-Targeted CIDEB siRNA in Adults with MASLD",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2612905?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-08T09:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "c745afd5111a",
-   "cat": "sante",
-   "titre": "Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610676?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-08T04:30:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "7e3ce2f4f607",
-   "cat": "sante",
-   "titre": "[Correspondence] Women with obstetric fistula in Somalia deserve better – Author's reply",
-   "resume": "I would like to thank Carrie J Ngongo and colleagues for taking the time to write their Correspondence and for highlighting important aspects of obstetric fistula care in Somalia that could not be fully addressed within the constraints of the World Report.1",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02029-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-07T00:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "a43af4f286b0",
-   "cat": "sante",
-   "titre": "[Department of Error] Department of Error",
-   "resume": "Boeddinghaus J, Bima P, Crisanti L, et al, PRESC1SE-MI investigators. Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial. Lancet 2026; 408: 1941–52—In this Article, the affil",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02203-8/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-07T00:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "594ec1035eda",
-   "cat": "economie",
-   "titre": "Indonesia - EAST ASIA AND PACIFIC- P173391- Oceans for Prosperity Project - LAUTRA - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826202011059",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "eaeedc03f421",
-   "cat": "economie",
-   "titre": "Pacific 1 - EAST ASIA AND PACIFIC- P518516- Statistical Innovation and Capacity Building in the Pacific Islands Project 2 - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926004083125",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "a2461f4599ca",
-   "cat": "economie",
-   "titre": "West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital West Bank  and  Gaza Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926032029041",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "05a594fe9d72",
-   "cat": "economie",
-   "titre": "Brazil - LATIN AMERICA AND CARIBBEAN- P180429- Bahia Sustainable Rural Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826200034255",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "d2ddc734d30e",
-   "cat": "economie",
-   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439- Accelerating Access to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926033045191",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "923bd3067c25",
-   "cat": "economie",
-   "titre": "China - EAST ASIA AND PACIFIC- P174267- China Plastic Waste Reduction Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926045540216",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "3bb23b936fb9",
-   "cat": "economie",
-   "titre": "Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P175587- Second Regional Economic Development Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826212041584",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "11d633a857a5",
-   "cat": "economie",
-   "titre": "Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal and Early Childhood Nutrition Services Project (P180886)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926013031770",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "0ef1d80d3775",
-   "cat": "economie",
-   "titre": "Uzbekistan - EUROPE AND CENTRAL ASIA- P515715- Advancing Preparation of Uzbekistan Health Sector Reform Program  - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926023026481",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "c668d7fda140",
-   "cat": "economie",
-   "titre": "Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926040036127",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "599c05112c6b",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Lesotho Multisectoral Nutrition Project - P519176",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110926052522961",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "6509075f31f8",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Dorjilung Hydroelectric Power Project - P501271 - Sequence No : 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110826215035191",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-09T05:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "b276560bb5a6",
-   "cat": "geopolitique",
-   "titre": "Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
-   "resume": "The press briefing will take place on Wednesday 11 November 2026 at 10.00.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-09T12:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "71c1b3b4f8e6",
-   "cat": "geopolitique",
-   "titre": "COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables",
-   "resume": "The EU and the OACPS member states have issued a joint statement ahead of COP31, reaffirming their commitment to the full implementation of the Paris Agreement and strengthen cooperation on climate action.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-09T07:00:00+00:00",
-   "lot": "2026-11-09"
-  },
-  {
-   "id": "1d90520b6aa2",
-   "cat": "jobs",
-   "titre": "2026-18122 - Infirmier vaccination internationale H/F/X",
-   "resume": "Métier : Autres domaines Santé/Infirmière Type de contrat : Contrat à durée indéterminée Description du poste : Nous recrutons un(e) Infirmer(e) pour compléter l'équipe. CDI sur notre campus Paris 15è. Les missions seront principalement au centre de vaccination internationale (CVI), mais pourront au",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18122&idOrigine=502&LCID=1036&offerReference=2026-18122",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-09T09:04:47+00:00",
-   "lot": "2026-11-09"
-  },
   {
    "id": "b6ede287b2d0",
    "cat": "sante",
@@ -3013,59 +2761,431 @@
    "type_source": "entreprise",
    "publie": "2026-11-16T00:02:02+00:00",
    "lot": "2026-11-16"
+  },
+  {
+   "id": "fafba13ee862",
+   "cat": "sante",
+   "titre": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+   "resume": "Nature Medicine, Published online: 17 November 2026; doi:10.1038/s41591-026-04759-y A study of longitudinal cohorts from Europe and the United States over 30 years showed that later-born generations benefit from higher cognitive capacity and memory stability, which may explain the trend of declining",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04759-y",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-17T00:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "55194a061ec3",
+   "cat": "sante",
+   "titre": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-16T03:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "91108dca301a",
+   "cat": "sante",
+   "titre": "Post-Doctoral researcher/research scientist position in cancer immunotherapy,Institut Pasteur, Paris, France",
+   "resume": "Harnessing the mRNA Lipid Nano Particle technology to improve CAR T cell therapy for solid tumors. Paris, November 2026 Position : A 3 years post-doctoral/research scientist position funded by La Ligue contre le Cancer […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/job/post-doctoral-researcher-research-scientist-position-in-cancer-immunotherapyinstitut-pasteur-paris-france/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-17T10:26:18+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "cc031e7d82ba",
+   "cat": "sante",
+   "titre": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+   "resume": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04798-5",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-16T00:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "af8ce1c9b5bd",
+   "cat": "sante",
+   "titre": "Madeleine Casper",
+   "resume": "Madeleine Casper",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/274329/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-17T09:13:08+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "8c92f5ac5627",
+   "cat": "sante",
+   "titre": "An open agentic AI co-scientist for clinical and biomedical discovery",
+   "resume": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04808-6 An open agentic AI co-scientist for clinical and biomedical discovery",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04808-6",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-16T00:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "ce2b70efd3b6",
+   "cat": "sante",
+   "titre": "Charlotte Jadot",
+   "resume": "Sorry, this entry is only available in FR.",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/274320/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-16T16:40:48+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "2ff20aaab6da",
+   "cat": "sante",
+   "titre": "Décision n° 2026.0210/DC/SESPEV du 12 novembre 2026 du collège de la Haute Autorité de santé portant adoption des recommandations vaccinales intitulées « Vaccination contre les infections invasives à pneumocoques : place du vaccin CAPVAXIVE »",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4608954/fr/decision-n-2026-0210/dc/sespev-du-12-novembre-2026-du-college-de-la-haute-autorite-de-sante-portant-adoption-des-recommandations-vaccinales-intitulees-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-16T08:17:49+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "60ad73d5fe2b",
+   "cat": "economie",
+   "titre": "Frank Elderson: Smart supervision for small banks",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-16T13:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "fc2acfb820d0",
+   "cat": "economie",
+   "titre": "Project Information Document - Republic of Congo Strengthening Urban Resilience Project - P179190",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726015022000",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "6e21fe93aea8",
+   "cat": "economie",
+   "titre": "Readiness Environmental and Social Review Summary (ESRS) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726022558519",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "16e60de880b1",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726022530289",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "0aa943e44217",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Digital Acceleration Project - P173373 - Sequence No : 10",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626220514041",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "6d40a3615e7b",
+   "cat": "economie",
+   "titre": "Disclosable Restructuring Paper - Iraq Social Safety Net Enhancement Project - P178824",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726050517102",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "41b0f0115cee",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Integrated Solid Waste Management Project-Phase I - P500392 - Sequence No : 4",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726053528958",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "9c8ea43a171d",
+   "cat": "economie",
+   "titre": "Environmental and Social Management Plan (ESMP) Federated States of Micronesia Prioritized Road Investment and Management Enhancements Project (P172225)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726023510332",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "a699956401e3",
+   "cat": "economie",
+   "titre": "Project Information Document - Republic of Congo Strengthening Urban Resilience Project - P179190",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726015019511",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "f3a61620c876",
+   "cat": "economie",
+   "titre": "Bulgaria - Country Climate and Development Report",
+   "resume": "Bulgaria has undergone a remarkable transformation over the past three and a half decades. Robust growth since the turn of the century has translated into poverty reduction and improved living standards. Gradual convergence to average European Union (EU) incomes has been underpinned by deep trade in",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099110426090520239",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "aee6aec54e8a",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111726022534100",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "73e59fe8ec0f",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Assam: School Education and Adolescent Wellbeing Project (ASAP) - P507865 - Sequence No : 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099111626235518790",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-17T05:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "7a9945d6c953",
+   "cat": "geopolitique",
+   "titre": "Les coupes dans l’aide humanitaire exposent davantage les réfugiés à la traite",
+   "resume": "Au Bangladesh et en Éthiopie, la réduction des financements humanitaires prive des centaines de milliers de réfugiés de services essentiels et fragilise les mécanismes censés les protéger contre l’exploitation. Deux études publiées lundi alertent sur la progression des risques de traite, de travail ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159847",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "31c4e8ef3f3b",
+   "cat": "geopolitique",
+   "titre": "Speech by President António Costa at the EU Enlargement Forum 2026",
+   "resume": "The President of the European Council, António Costa, gave a speech at the EU Enlargement Forum on 16 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/speech-by-president-antonio-costa-at-the-eu-enlargement-forum-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T17:25:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "5c5452c3fd1c",
+   "cat": "geopolitique",
+   "titre": "Liban : l’ONU veut placer la santé mentale au cœur de la réponse humanitaire",
+   "resume": "La santé mentale ne doit plus être considérée comme un volet secondaire de l’aide humanitaire, mais comme une composante essentielle du relèvement des populations touchées par les conflits. C’est le message porté par la Vice-Secrétaire générale de l’ONU, Amina J. Mohammed, à l’issue d’une visite de ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159852",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "d76ca4be4f7e",
+   "cat": "geopolitique",
+   "titre": "Co-Chairs’ Conclusions on Cross-Regional Security and Connectivity",
+   "resume": "On 16 November, following the second cross-regional security and connectivity ministerial meetings, the Co-Chairs issued conclusions on the security, stability, and resilience in the Black Sea region, as well as the cross-regional connectivity agenda.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/co-chairs-conclusions-on-cross-regional-security-and-connectivity/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T15:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "675c3de24cba",
+   "cat": "geopolitique",
+   "titre": "L’impasse politique au Myanmar assombrit les adieux de Guterres à l’Asie du Sud-Est",
+   "resume": "Pour son dernier sommet avec les dirigeants de l’Association des nations de l’Asie du Sud-Est (ASEAN) en tant que chef de l’ONU, lundi à Manille, António Guterres a appelé à mettre fin aux violences au Myanmar et à protéger les réfugiés rohingyas. Il a également plaidé pour une réforme des instituti",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159851",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "fad528c443a7",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Foreign Affairs Council (Defence) of 17 November 2026",
+   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/media-advisory-foreign-affairs-council-defence-of-17-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-16T13:47:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "aa66738ba1c9",
+   "cat": "geopolitique",
+   "titre": "COP31 : les négociations piétinent tandis que les initiatives en matière d’IA se multiplient",
+   "resume": "À la COP31, les négociations achoppent toujours sur le financement climatique, les combustibles fossiles et l’adaptation. Alors que les ministres s’apprêtent à prendre le relais, de nouvelles initiatives sur l’intelligence artificielle et l’industrialisation verte illustrent le rôle croissant des te",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159850",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "53db5b19a493",
+   "cat": "geopolitique",
+   "titre": "Armes autonomes : l’ONU veut empêcher les machines de décider qui doit mourir",
+   "resume": "Alors que les progrès de l’intelligence artificielle accélèrent le développement d’armes capables de frapper sans intervention humaine, le chef de l’ONU a appelé lundi à négocier un traité international pour empêcher que des algorithmes décident seuls de la vie ou de la mort d’êtres humains.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159845",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "bfeafabe7a85",
+   "cat": "geopolitique",
+   "titre": "Contre la haine, l'ONU mise sur les leaders religieux, traditionnels et autochtones",
+   "resume": "Les responsables religieux, traditionnels et autochtones doivent être reconnus comme des partenaires à part entière dans la prévention des conflits, et non simplement salués pour leur contribution, ont plaidé dimanche les participants à l’ouverture du Forum sur le Plan d’action de Mascate, à Oman.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159849",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "44605a752349",
+   "cat": "geopolitique",
+   "titre": "Syrie : deux ans après la chute d’Al-Assad, la transition à l’épreuve de la pauvreté et des violences",
+   "resume": "À l’approche du deuxième anniversaire de la chute du dictateur Bachar Al-Assad, la Syrie tente de reconstruire ses institutions et son économie. Mais derrière les progrès affichés, les violences persistent, la pauvreté entrave le retour des déplacés et les libertés restent fragiles. Lundi, devant le",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159848",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "f1d2a44d6320",
+   "cat": "geopolitique",
+   "titre": "Six mois après l'apparition d'Ebola en RDC, l’accès aux populations isolées reste un défi",
+   "resume": "Six mois après le début de l’épidémie d’Ebola due au virus Bundibugyo en République démocratique du Congo (RDC), la situation demeure préoccupante, malgré des « progrès significatifs » dans la riposte sanitaire. Des centaines de nouveaux cas continuent d’être signalés chaque semaine, tandis que l’ép",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159846",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-16T12:00:00+00:00",
+   "lot": "2026-11-17"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-16"
+   "derniere_activite": "2026-11-17"
   }
  },
  "sources_silencieuses": [
