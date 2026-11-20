@@ -1,391 +1,7 @@
 {
- "maj": "2026-11-19T12:30:18.499737+00:00",
- "lot": "2026-11-19",
+ "maj": "2026-11-20T12:30:38.404797+00:00",
+ "lot": "2026-11-20",
  "articles": [
-  {
-   "id": "b623b764d74b",
-   "cat": "sante",
-   "titre": "Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial",
-   "resume": "Nature Medicine, Published online: 12 November 2026; doi:10.1038/s41591-026-04712-z In a prespecified companion study (BMT CTN 1801) of the randomized phase 3 BMT CTN 1703 trial comparing two common GVHD prophylaxis regimens, microbiome diversity at engraftment did not associate with non-relapse mor",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04712-z",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-12T00:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "6e99e16242e4",
-   "cat": "sante",
-   "titre": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1896-1910, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "50eac56d0291",
-   "cat": "sante",
-   "titre": "Preventing Malaria Infections and Moving toward Malaria Elimination",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1932-1943, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMra2508563?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "8f80b42c9ee0",
-   "cat": "sante",
-   "titre": "Subretinal Gene Therapy in X-Linked Retinoschisis",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1970-1972, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2609517?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "49d25a737e79",
-   "cat": "sante",
-   "titre": "Iptacopan in IgA Nephropathy — Final 24-Month Data",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1968-1970, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611338?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "cbacdfb8e8af",
-   "cat": "sante",
-   "titre": "Perioperative Apalutamide in High-Risk Localized Prostate Cancer",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1965-1968, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611613?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "93f2a7fa7b72",
-   "cat": "sante",
-   "titre": "Interferon-γ Underlying Thymoma-Associated Immune Dysregulation",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1960-1963, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2607434?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "c45bbd178f39",
-   "cat": "sante",
-   "titre": "Autoantibodies against Type I Interferons and Death from H7N7 Avian Influenza",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1963-1965, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2608446?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "a63d6f85ef07",
-   "cat": "sante",
-   "titre": "Aspirin Therapy — Enough after Arthroplasty?",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1956-1957, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2612392?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "8115e62c389a",
-   "cat": "sante",
-   "titre": "Lung Hernia with a Chest-Wall Bulge",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2607906?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "c674a1c9937e",
-   "cat": "sante",
-   "titre": "Case 32-2026: A 50-Year-Old Man with Recurrent Cardiomyopathy",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, Page 1945-1954, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2301034?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "f725c3508876",
-   "cat": "sante",
-   "titre": "High-Flow Oxygen Therapy with Nasal Cannula",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 19, November 12, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMvcm2517207?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-11T10:00:03+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "7f1f5a60d006",
-   "cat": "economie",
-   "titre": "Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125191591417",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "5194f770ea4a",
-   "cat": "economie",
-   "titre": "Official Documents- Loan Agreement for Loan 9619-BR.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125194536043",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "29adad54cc69",
-   "cat": "economie",
-   "titre": "Official Documents- Amendment  No. 1 to the GRPBA Grant Agreement for Grant TF0B3026.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125183538911",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-31T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "a5985fd294ec",
-   "cat": "economie",
-   "titre": "Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099010125183017477",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-30T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "33392ea39364",
-   "cat": "economie",
-   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK - P151169 - Supporting the economic inclusion of youth - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626041015489",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "f46330d518a7",
-   "cat": "economie",
-   "titre": "Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626034042413",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "4c66aee67185",
-   "cat": "economie",
-   "titre": "Suriname - LATIN AMERICA AND CARIBBEAN - P166187 - Competitiveness and Sector Diversification - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099090626035011907",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-12-08T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "48c1f0428ad2",
-   "cat": "economie",
-   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - Integrated Rurban Development and Climate Resilience Project - P505241 - AF No: 1",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111126214018281",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-12T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "70fa932c5031",
-   "cat": "economie",
-   "titre": "Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P180171- Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111126235520378",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-12T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "1d2b5c089dc3",
-   "cat": "economie",
-   "titre": "ToR of Environmental and Social Assessment Second Timor-Leste Branch Roads Project (P516518)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111226002057874",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-12T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "1e3e2932d47a",
-   "cat": "economie",
-   "titre": "Bangladesh - SOUTH ASIA- P508058- Bangladesh Sustainable Recovery, Emergency Preparedness and Response Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111226003568978",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-12T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "9a8f9819fb4b",
-   "cat": "economie",
-   "titre": "Central Asia - EUROPE AND CENTRAL ASIA- P177407- RESILAND CA+ Program: Kyrgyz Republic Resilient Landscape Restoration Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111226022032519",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-12T05:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "0a3c69131f3c",
-   "cat": "geopolitique",
-   "titre": "Climat : un pays sur trois reste privé de système d’alerte face aux catastrophes",
-   "resume": "Alors que les phénomènes météorologiques extrêmes se multiplient, 70 % des pays disposent désormais de capacités d’alerte précoce, selon un rapport de l’ONU publié mercredi. Mais les populations les plus exposées restent les moins protégées. À la COP31, en Turquie, António Guterres a appelé à comble",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159827",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "008869556ab2",
-   "cat": "geopolitique",
-   "titre": "Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
-   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-11T17:20:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "a68391b1b5e0",
-   "cat": "geopolitique",
-   "titre": "Afrique : l’OMS alerte sur les lacunes dans le recensement des décès et les données sanitaires",
-   "resume": "Des millions de décès pourraient ne pas être correctement enregistrés en Afrique, privant les autorités d’informations essentielles pour prévenir les crises sanitaires et mieux cibler les soins. Un nouveau rapport de l’Organisation mondiale de la Santé (OMS) met en lumière les importantes lacunes de",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159821",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "a463bb796c70",
-   "cat": "geopolitique",
-   "titre": "Press briefing ahead of the Foreign Affairs Council and the Foreign Affairs (Defence) Councils of 16 and 17 November 2026",
-   "resume": "Press briefing ahead of the upcoming Foreign Affairs Council and the Foreign Affairs Council (Defence) will take place on 13 November at 16.00.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-11T13:51:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "781c0a1f67c7",
-   "cat": "geopolitique",
-   "titre": "Soudan : après les drones « kamikazes », les frappes à longue portée sont désormais la norme",
-   "resume": "Les drones et la sécheresse « resserrent leur étau » sur le Soudan, alerte le Fonds des Nations Unies pour l’enfance (UNICEF), qui dénonce une intensification sans précédent des attaques contre les infrastructures du pays. Certaines frappes sont menées par des drones capables de parcourir jusqu’à 1 ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159823",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "4771404f3139",
-   "cat": "geopolitique",
-   "titre": "« C'est l’heure de vérité » : à la COP31, Guterres réclame un pacte pour la justice climatique",
-   "resume": "À l’ouverture du sommet des dirigeants mondiaux à la COP31, mercredi à Antalya, le Secrétaire général de l’ONU, António Guterres, a appelé à un nouveau pacte pour la justice climatique, fondé notamment sur la taxation des superprofits des compagnies pétrolières et gazières.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159825",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "a4fbf31b3fdb",
-   "cat": "geopolitique",
-   "titre": "Trinité-et-Tobago : la justice met fin à la criminalisation de l’homosexualité",
-   "resume": "Après près de dix ans de bataille judiciaire, la plus haute juridiction de Trinité-et-Tobago a déclaré inconstitutionnelles les lois réprimant les relations homosexuelles consenties. Une décision historique saluée mercredi par l’ONU, qui appelle les autres pays des Caraïbes à abandonner cet héritage",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159826",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
-  {
-   "id": "f8eefe6cceb2",
-   "cat": "geopolitique",
-   "titre": "Ebola : en RDC, les violences et les déplacements entravent la lutte contre l’épidémie",
-   "resume": "Près de 11 000 personnes ont contracté Ebola et plus de 5 300 en sont mortes en République démocratique du Congo. Alors que les attaques contre les soignants et les déplacements de population compliquent la riposte, l’ONU alerte sur une épidémie dont la propagation reste difficile à enrayer. Au Keny",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159824",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-11T12:00:00+00:00",
-   "lot": "2026-11-12"
-  },
   {
    "id": "5bd8dcfffd0a",
    "cat": "sante",
@@ -3085,59 +2701,491 @@
    "type_source": "organisation",
    "publie": "2026-11-19T02:45:00+00:00",
    "lot": "2026-11-19"
+  },
+  {
+   "id": "f17afb070bb8",
+   "cat": "sante",
+   "titre": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+   "resume": "Nature Medicine, Published online: 20 November 2026; doi:10.1038/s41591-026-04781-0 Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04781-0",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-20T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "5c35ee55b188",
+   "cat": "sante",
+   "titre": "[Editorial] Multiple sclerosis: beyond controlling relapses",
+   "resume": "Few neurological diseases have seen a transformation in diagnosis and treatment as remarkable as multiple sclerosis. A chronic, heterogeneous autoimmune condition, it typically begins in early adulthood and affects over 3 million people, with women roughly three times more likely to be affected than",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02345-7/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "6ab468288d72",
+   "cat": "sante",
+   "titre": "Assessing Multiple Treatment Regimens for Tuberculosis",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611913?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-19T12:15:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "8f5ef1d5dea9",
+   "cat": "sante",
+   "titre": "Respiratory Virus Activity - United States, July 2025-June 2026",
+   "resume": "This report describes respiratory virus activity in the U.S. during July 2025-2026.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766875",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-11-19T19:35:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "496e222c8a32",
+   "cat": "sante",
+   "titre": "Table ronde – “Du remède à l’arme biologique”",
+   "resume": "De quoi l’IA est-elle réellement capable dans l’étude des virus et des bactéries ?Une table ronde pour aller au-delà des gros titres Des génomes viraux conçus par une IA. Des outils d’IA utilisés pour […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/du-remede-a-larme-biologique/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-20T11:23:05+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "1899a4aef379",
+   "cat": "sante",
+   "titre": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+   "resume": "Nature Medicine, Published online: 20 November 2026; doi:10.1038/s41591-026-04782-z Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04782-z",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-20T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "2d2808e8d586",
+   "cat": "sante",
+   "titre": "[Comment] Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
+   "resume": "Bruton's tyrosine kinase (BTK) inhibitors directly modulate the functions of B lymphocytes and myeloid cells (notably macrophages and microglia) and thus target both the adaptive and innate mechanisms that contribute to the immunopathology of multiple sclerosis on either side of the blood–brain barr",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02240-3/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "0ddef2fa0ec2",
+   "cat": "sante",
+   "titre": "Slightly Alive — Improving Antituberculosis Therapy",
+   "resume": "New England Journal of Medicine, Ahead of Print.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMe2614653?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-19T12:15:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "28d4bff8b4dc",
+   "cat": "sante",
+   "titre": "Stroke Death Rates Among Adults Aged ≥18 Years - United States, 2000-2024",
+   "resume": "This report describes stroke death rates among U.S. adults during 2000-2024.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766874",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-11-19T19:35:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "7ad226940960",
+   "cat": "sante",
+   "titre": "Guillaume Beauclair",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/guillaume-beauclair/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-20T09:40:06+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "1f8998382a42",
+   "cat": "sante",
+   "titre": "Harnessing smartwatches to spot undiagnosed hypertension",
+   "resume": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/d41591-026-00058-8 With the help of artificial intelligence, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, which suggests a new strategy for population-level opportu",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/d41591-026-00058-8",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-19T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "a35e3ed6968a",
+   "cat": "sante",
+   "titre": "[Comment] Expanding the post-EGFR TKI landscape with antibody–drug conjugates",
+   "resume": "Third-generation EGFR tyrosine kinase inhibitors (TKIs), increasingly combined with chemotherapy or amivantamab, are the preferred front-line treatment for EGFR-mutant non-small-cell lung cancer (NSCLC).1,2 With actionable resistance mechanisms often absent at progression, effective second-line ther",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02260-9/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "5a2f925a88ec",
+   "cat": "economie",
+   "titre": "Christine Lagarde: Acting in time",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-20T08:30:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "e56bc8b2885f",
+   "cat": "economie",
+   "titre": "L’artisanat : une présence plus forte dans le rural et les zones touristiques",
+   "resume": "En 2023, 1,1 million d’établissements exercent une activité artisanale identifiée comme activité principale en France et contribuent au PIB national à hauteur de 5,2 %. Parmi eux, 744 000 établissements de 10 salariés ou moins, hors micro‑entrepreneurs, emploient 1,8 million de personnes, soit 28 % ",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9097249",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-19T16:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "7f1f5a60d006",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125191591417",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "5194f770ea4a",
+   "cat": "economie",
+   "titre": "Official Documents- Loan Agreement for Loan 9619-BR.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125194536043",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "29adad54cc69",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment  No. 1 to the GRPBA Grant Agreement for Grant TF0B3026.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183538911",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-31T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "a5985fd294ec",
+   "cat": "economie",
+   "titre": "Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099010125183017477",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-30T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "33392ea39364",
+   "cat": "economie",
+   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK - P151169 - Supporting the economic inclusion of youth - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626041015489",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "f46330d518a7",
+   "cat": "economie",
+   "titre": "Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626034042413",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "4c66aee67185",
+   "cat": "economie",
+   "titre": "Suriname - LATIN AMERICA AND CARIBBEAN - P166187 - Competitiveness and Sector Diversification - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099090626035011907",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-12-08T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "b653ac48d9e5",
+   "cat": "economie",
+   "titre": "Additional Financing Environmental and Social Review Summary (ESRS) - CAR - Emergency Infrastructure and Connectivity Recovery Project - P176450 - AF No: 3",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026034088937",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "0787b5fff313",
+   "cat": "economie",
+   "titre": "Resettlement Framework Water Infrastructure for Sustainability Efficiency and Resilience  (P517530)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026013512242",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "272d4915d642",
+   "cat": "economie",
+   "titre": "Labor Management Procedures Water Infrastructure for Sustainability Efficiency and Resilience  (P517530)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026013536484",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "7154bfda9dc3",
+   "cat": "geopolitique",
+   "titre": "« On est en train de perdre la bataille » : l’IA offre aux prédateurs de nouveaux moyens d’exploiter les enfants",
+   "resume": "L’intelligence artificielle (IA) donne aux prédateurs et aux réseaux criminels de nouveaux moyens de manipuler, d’extorquer et d’exploiter les enfants, tandis que les dispositifs de protection peinent à suivre le rythme de ces évolutions, ont averti jeudi des hauts responsables de l’ONU.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159877",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "896ac48a7166",
+   "cat": "geopolitique",
+   "titre": "Sustainability: Council and Parliament strike deal on simpler transparency rules for financial product",
+   "resume": "The Council and the European Parliament reached a provisional agreement on simpler transparency rules for sustainable financial products sold in the EU.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-19T20:01:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "8f6bc82c8470",
+   "cat": "geopolitique",
+   "titre": "L’égalité passe aussi par des toilettes sûres",
+   "resume": "Se priver de boire pendant la journée. Craindre une agression en allant aux toilettes. Devoir faire ses besoins à l’air libre. Manquer l’école, le travail ou des activités sociales pendant ses règles. Pour des centaines de millions de femmes et de filles, l’accès à des toilettes sûres est une questi",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159876",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "1a76ebb57824",
+   "cat": "geopolitique",
+   "titre": "Enlargement: EU and Montenegro close accession negotiations on taxation and regional policy",
+   "resume": "The EU and Montenegro provisionally closed accession negotiations on taxation (chapter 16) and regional policy and coordination of structural instruments (chapter 22).",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/enlargement-eu-and-montenegro-close-accession-negotiations-on-taxation-and-regional-policy/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-19T15:58:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "23830d33dd9f",
+   "cat": "geopolitique",
+   "titre": "COP31 : l’ambition fait défaut, les énergies fossiles effacées du projet d’accord",
+   "resume": "À la COP31, ce jeudi, un chat baptisé « Ambition » était de nouveau porté disparu. Derrière cette campagne humoristique de militants pour le climat se cache une inquiétude bien réelle : la dernière version du projet d’accord de la conférence ne mentionne plus explicitement l’abandon du charbon, du p",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159875",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "00d829da5e78",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Presentation of the revised MFF negotiating box and Press briefing ahead of the 26-27 November Special European Council",
+   "resume": "Press conference on the revised negotiating box for the EU’s next MFF will take place on Saturday 21 November at 11.00, followed by Press briefing ahead of the Special European Council meeting of 26-27 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/media-advisory-press-conference-on-the-mff-negobox-and-press-briefing-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-19T15:45:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "d7bb0ce264f0",
+   "cat": "geopolitique",
+   "titre": "Céréales : les stocks mondiaux progressent, mais les marchés agricoles sont sous tension",
+   "resume": "Les réserves mondiales de céréales devraient encore progresser d’ici à la fin de la campagne 2026-2027, tandis que la production de riz pourrait reculer pour la première fois en quatre campagnes. Dans son dernier rapport, publié jeudi, la FAO alerte sur la chute des exportations de céréales en mer N",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159873",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "a84b4f852d42",
+   "cat": "geopolitique",
+   "titre": "Préparer les Européens à l'ère de l'IA: le Conseil approuve des conclusions",
+   "resume": "Le Conseil a approuvé des conclusions soulignant la nécessité que tous les citoyens, à toutes les étapes de leur vie, soient dotés des compétences et aptitudes nécessaires pour interagir de façon critique et responsable avec l'IA.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/equipping-europeans-for-the-age-of-ai-council-approves-conclusions/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-19T13:58:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "9eb242365c3c",
+   "cat": "geopolitique",
+   "titre": "Gaza : plus de 18.000 Palestiniens menacés de déplacement, l’ONU rappelle leur droit au retour",
+   "resume": "Les dernières opérations militaires israéliennes dans le centre de la bande de Gaza pourraient provoquer le déplacement de plus de 18.000 Palestiniens et perturber des services humanitaires essentiels, a averti l'ONU, rappelant que les civils contraints de fuir doivent pouvoir regagner leur foyer dè",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159872",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "652b15eac8fb",
+   "cat": "geopolitique",
+   "titre": "La CIJ reconnaît le Myanmar coupable de génocide à l’encontre des Rohingyas",
+   "resume": "La Cour internationale de Justice (CIJ), principal organe judiciaire de l’ONU, a rendu son arrêt jeudi dans l’affaire opposant la Gambie au Myanmar concernant l’application de la Convention sur le génocide. La Cour a reconnu le Myanmar responsable de ce crime commis contre la minorité ethnique des R",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159874",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "7f745787fc48",
+   "cat": "geopolitique",
+   "titre": "Maisons abandonnées, récoltes perdues : en Haïti, les agriculteurs pris au piège de la faim et de la violence",
+   "resume": "Violences des gangs, déplacements de population, crise économique et dérèglement climatique : en Haïti, les agriculteurs font face à une accumulation de crises qui fragilise leurs moyens de subsistance et compromet leur capacité à nourrir leurs familles. Avec le phénomène El Niño, les sécheresses et",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159869",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-19T12:00:00+00:00",
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "8c60644598de",
+   "cat": "geopolitique",
+   "titre": "Emploi, logement, famille… Les jeunes peinent à prendre leur envol",
+   "resume": "Emploi précaire, logement inabordable, conflits, dérèglement climatique… Pour des millions de jeunes dans le monde, les étapes de la vie adulte sont de plus en plus difficiles à franchir, alerte le Fonds des Nations Unies pour la population (UNFPA) dans un rapport publié jeudi.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159868",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-18T12:00:00+00:00",
+   "lot": "2026-11-20"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-19"
+   "derniere_activite": "2026-11-20"
   }
  },
  "sources_silencieuses": [
