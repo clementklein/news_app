@@ -1,439 +1,7 @@
 {
- "maj": "2026-11-20T12:30:38.404797+00:00",
- "lot": "2026-11-20",
+ "maj": "2026-11-21T12:07:06.679418+00:00",
+ "lot": "2026-11-21",
  "articles": [
-  {
-   "id": "5bd8dcfffd0a",
-   "cat": "sante",
-   "titre": "Vaccines could be a new frontier in KRAS targeting",
-   "resume": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04772-1 A convergence of therapeutic and technological advances reveals KRAS-targeting vaccination as a potential new approach to preventing the recurrence of pancreatic cancer, but many hurdles remain.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04772-1",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-13T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "a2f3707bdb6a",
-   "cat": "sante",
-   "titre": "[Comment] Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?",
-   "resume": "Around a quarter of advanced or recurrent endometrial carcinomas are mismatch repair deficient (dMMR).1 Addition of a PD-1 or PD-L1 inhibitor to carboplatin plus paclitaxel has transformed first-line treatment for this subgroup, with the RUBY,1 NRG-GY018,2 AtTEnd,3 and DUO-E4 trials reporting hazard",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "ffbc4bb011ab",
-   "cat": "sante",
-   "titre": "Notes from the Field: Dengue Outbreak - American Samoa, 2025-2026",
-   "resume": "This report describes a dengue outbreak in America Samoa that resulted in 1,048 confirmed cases and 371 hospitalizations during June 2025-August 2026.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-11-12T18:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "c88828b3a748",
-   "cat": "sante",
-   "titre": "Pierre-Elie Laval",
-   "resume": "Pierre-Elie Laval",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/pierre-elie-laval/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-13T10:43:17+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "30c3768c2833",
-   "cat": "sante",
-   "titre": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes",
-   "resume": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04789-6 A 6-month study shows that menopausal hormone therapy induces multi-site microbiome remodeling, including rejuvenation of the vaginal microbial community toward a reproductive-age-like state. In turn, baseline gut an",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04789-6",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-13T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "0ad4486c064a",
-   "cat": "sante",
-   "titre": "[Comment] The overlooked role of CMV in pneumonia in infants with HIV",
-   "resume": "For decades, severe pneumonia in infants with HIV has been treated as a race against time. Clinicians rapidly initiate broad-spectrum antibiotics, empirically treat suspected Pneumocystis jirovecii pneumonia, provide supportive care, and increasingly consider empirical tuberculosis treatment in high",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "1f25b7fd2b28",
-   "cat": "sante",
-   "titre": "Use of Glucagon-Like Peptide-1 Medications and Modified Medication Use Among Adults - United States, 2025",
-   "resume": "This report describes GLP-1 and compounded GLP-1 use among adults during 2025.",
-   "limite": 0,
-   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766820",
-   "source": "CDC - MMWR",
-   "type_source": "institution",
-   "publie": "2026-11-12T18:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "5ac8133541a5",
-   "cat": "sante",
-   "titre": "Application as permanent staff scientist at Institut Pasteur",
-   "resume": "Application as permanent staff scientist at Institut Pasteur Deadline for application: Monday 11 January 2027 This call is open to all eligible candidates, provided the host research unit meets the criteria for hosting an […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/call/application-as-permanent-staff-scientist-at-institut-pasteur-call-2027/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-13T09:50:13+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "aff3854ff21f",
-   "cat": "sante",
-   "titre": "Young people with obesity deserve better care",
-   "resume": "Nature Medicine, Published online: 12 November 2026; doi:10.1038/s41591-026-04784-x The evidence available to support the treatment of obesity in children and adolescents is insufficient and requires rapid improvement.",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04784-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-12T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "b84636c38d54",
-   "cat": "sante",
-   "titre": "[Comment] Empirical tuberculosis treatment in infants living with HIV: missed opportunities and ways to improve outcomes",
-   "resume": "Pneumonia remains the leading cause of death among infants living with HIV, with the case-fatality rate approaching 40%.1 Improving outcomes for these vulnerable infants demands new diagnostic and therapeutic approaches, yet current WHO guidelines for severe pneumonia in this population recommend on",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01918-5/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "410a4bff0537",
-   "cat": "sante",
-   "titre": "DSCB weelky seminar: “ChromGEM reveals chromatin ultrastructural transitions underlying thefirst lineage decision in mammalian embryos” by Antonio GIRALDEZ",
-   "resume": "Invited speaker: Antonio GIRALDEZ, Ph.D. Yale University School of Medicine, New Haven, USA Hosted by Laure Bally-Cuif Abstract: Chromatin organization underlies gene regulation and cell fate specification, yet how nucleosome-scale chromatin architecture is established […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/dscb-weelky-seminar-chromgem-reveals-chromatin-ultrastructural-transitions-underlying-thefirst-lineage-decision-in-mammalian-embryos-by-antonio-giraldez/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-12T18:29:36+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "2f52e3396787",
-   "cat": "sante",
-   "titre": "[Comment] Offline: Anthony Fauci comes to London",
-   "resume": "“Shame on you”, screamed one protestor outside the Bloomsbury Theatre, London, UK. Anthony Fauci was to give the University College London Prize Lecture in Life and Medical Sciences. He has become a lightning rod for criticism among COVID-19 activists. Demonstrators were wearing sweatshirts emblazon",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02284-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "b0a1c9bf225c",
-   "cat": "economie",
-   "titre": "Isabel Schnabel: Made in Europe",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-13T07:20:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "63022fe4b836",
-   "cat": "economie",
-   "titre": "Le patrimoine économique national en 2025",
-   "resume": "Fin 2025, le patrimoine économique national, qui mesure la richesse économique de la Nation, s’est élevé à 20 196 milliards d’euros, en croissance de 1,2 %, après +3,1 % en 2024 et -3,0 % en 2023. Après avoir crû beaucoup plus rapidement que la richesse produite annuellement durant plus de vingt ans",
-   "limite": 0,
-   "lien": "https://www.insee.fr/fr/statistiques/9111734",
-   "source": "INSEE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T16:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "777dc3811ac0",
-   "cat": "economie",
-   "titre": "AF Readiness Environmental and Social Review Summary (ESRS) - South Sudan Health Sector Transformation Project (HSTP) - P181385",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326013525787",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "d395428d5119",
-   "cat": "economie",
-   "titre": "Disclosable Restructuring Paper - Strengthening Preparedness and Critical Emergency Infrastructure Project - P168120",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326024037234",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "f578bf6bc4a4",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - National Health Support Program - P172615 - Sequence No : 9",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326023510538",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "35ba38714b67",
-   "cat": "economie",
-   "titre": "Benin - WESTERN AND CENTRAL AFRICA- P173749- Benin Electricity Access Scale-up (BEAS) Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326023510275",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "646ae0439376",
-   "cat": "economie",
-   "titre": "Western Balkans - EUROPE AND CENTRAL ASIA- P181945- Project Preparation in relation to: SAVA AND DRINA RIVERS CORRIDOR INTEGRATED DEVELOPMENT PROJECT ? PHASE 2 (SDIP 2) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326023531546",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "45354e2cae16",
-   "cat": "economie",
-   "titre": "Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for Resilient Surveillance and Pandemic Preparedness in Indonesia Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326024038029",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "87e9538d842e",
-   "cat": "economie",
-   "titre": "Peru - LATIN AMERICA AND CARIBBEAN- P179923- Improving MIDIS?s Information Services within the National Targeting System (SINAFO) at the National Level Project - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111226191510483",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "c3e795d88590",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - South Sudan Health Sector Transformation Project (HSTP) - P181385",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326013540229",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "c2dddb908db1",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) Enhancing Community Resilience and Local Governance Project Phase II (P177093)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326022541882",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "1c8c8715a053",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - South Sudan Health Sector Transformation Project (HSTP) - P181385",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326013515739",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "760867b49773",
-   "cat": "geopolitique",
-   "titre": "Centrafrique : l’ONU renouvelle sa mission de paix pour un an, sur fond de retrait progressif",
-   "resume": "Le Conseil de sécurité a renouvelé jeudi le mandat de la mission de maintien de la paix de l’ONU en République centrafricaine jusqu’en novembre 2027. Après douze ans de présence, la MINUSCA doit préparer le transfert progressif de ses responsabilités aux autorités du pays, malgré la persistance des ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159835",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "03ac9b82c563",
-   "cat": "geopolitique",
-   "titre": "Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries",
-   "resume": "The Council reached a provisional agreement with the European Parliament on increasing free carbon allowances for industry sectors falling under the ETS heat and fuel benchmarks from 2026 to 2030.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T22:30:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "7fd2c4e2cb92",
-   "cat": "geopolitique",
-   "titre": "Climat : les villes en 1ère ligne, les dirigeants sommés d’agir",
-   "resume": "Des habitations submergées par les eaux aux glaciers de l’Himalaya menacés d’effondrement, les conséquences humaines du changement climatique ont dominé les débats de la COP31 jeudi. Alors que les dirigeants mondiaux examinent la protection des villes et des communautés vulnérables, des militants on",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159834",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "a108930fcd2f",
-   "cat": "geopolitique",
-   "titre": "Intervention du président António Costa lors de la conférence de presse à l'issue de la réunion de la Communauté politique européenne à Dublin",
-   "resume": "Le président du Conseil européen, António Costa, a présenté les principaux résultats des discussions tenues par les dirigeants lors de la réunion de la Communauté politique européenne qui s'est déroulée à Dublin (Irlande) le 12 novembre 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T18:45:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "fce904b24be8",
-   "cat": "geopolitique",
-   "titre": "Haïti : plus de 1 100 personnes tuées entre juillet et septembre",
-   "resume": "En Haïti, les gangs armés continuent de semer la terreur à Port-au-Prince et au-delà : plus de 1 100 personnes ont été tuées entre juillet et septembre, selon le dernier rapport trimestriel du Bureau intégré des Nations Unies en Haïti (BINUH).",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159831",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "fe3dec4cddfe",
-   "cat": "geopolitique",
-   "titre": "Pêche et aquaculture: le Conseil et le Parlement conviennent d’un cadre modernisé pour les statistiques",
-   "resume": "Le Conseil et le Parlement européen conviennent d’un cadre modernisé pour les statistiques dans le domaine de la pêche et de l’aquaculture, qui améliore la qualité des données et simplifie l’établissement de rapports dans l’ensemble de l’UE.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/fisheries-and-aquaculture-council-and-parliament-agree-on-modernised-framework-for-statistics/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T15:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "578fcf229cb3",
-   "cat": "geopolitique",
-   "titre": "Gaza : l’ONU dénonce des blocages meurtriers face aux intempéries",
-   "resume": "Alors que des pluies torrentielles ont inondé des milliers d’abris de fortune dans la bande de Gaza, le chef des opérations humanitaires de l’ONU accuse les autorités israéliennes et leurs partenaires internationaux de retarder l’acheminement de matériel indispensable à l’approche de l’hiver. Il dén",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159830",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "e6d3071e8a3d",
-   "cat": "geopolitique",
-   "titre": "Statement after the Leaders Meeting of the Core Group of Support to Armenia",
-   "resume": "Leaders and representatives of Estonia, France, Latvia, Lithuania, the United Kingdom and the High Representative of the Union for Foreign Affairs and Security Policy, met on 12 November 2026 with Armenian Prime Minister Nikol Pashinyan on the margins of the European Political Community summit in Du",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/statement-after-the-leaders-meeting-of-the-core-group-of-support-to-armenia/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T15:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "11e2ba504886",
-   "cat": "geopolitique",
-   "titre": "Liban : les Casques bleus sur le départ, l’avenir du Sud en suspens",
-   "resume": "Malgré une nette diminution des hostilités depuis l’accord conclu en juin entre les États-Unis, le Liban et Israël, le sud du Liban reste une région instable, où les populations peinent à reconstruire leur vie. Une situation d’autant plus préoccupante que les Casques bleus de l’ONU, présents depuis ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159829",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:00:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "ad626898274b",
-   "cat": "geopolitique",
-   "titre": "Joint statement by President Costa and President von der Leyen following their meeting with President Zelenskyy in Dublin",
-   "resume": "President Costa and President von der Leyen issued a joint statement following their meeting with President of Ukraine, Volodymyr Zelenskyy in Dublin, on 12 November 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T14:40:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "63e011366f76",
-   "cat": "geopolitique",
-   "titre": "Allocution d'ouverture du président António Costa lors de la réunion de la Communauté politique européenne à Dublin",
-   "resume": "Le 12 novembre 2026, le président du Conseil européen, António Costa, a coprésidé la neuvième réunion de la Communauté politique européenne à Dublin, en Irlande.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-12T12:25:00+00:00",
-   "lot": "2026-11-13"
-  },
-  {
-   "id": "bff37705a267",
-   "cat": "jobs",
-   "titre": "2026-17433 - Médecin du travail H/F/X",
-   "resume": "Métier : Medecin/Cadre médical (Medecin) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publique avec une ",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17433&idOrigine=502&LCID=1036&offerReference=2026-17433",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-13T10:06:45+00:00",
-   "lot": "2026-11-13"
-  },
   {
    "id": "f400ad0b3639",
    "cat": "sante",
@@ -3133,59 +2701,503 @@
    "type_source": "organisation",
    "publie": "2026-11-18T12:00:00+00:00",
    "lot": "2026-11-20"
+  },
+  {
+   "id": "223ef659272d",
+   "cat": "sante",
+   "titre": "ZENITH-FLEX",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4613807/fr/zenith-flex",
+   "source": "HAS DM",
+   "type_source": "organisation",
+   "publie": "2026-11-19T11:10:03+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "8ab1fb85cfc0",
+   "cat": "sante",
+   "titre": "Décision n° 2026.0214/DC/SEM du 18 novembre 2026 du collège de la Haute Autorité de santé portant refus d’accès précoce de la spécialité DATROWAY (datopotamab déruxtécan)",
+   "resume": "Refus d’accès précoce à la spécialité DATROWAY (datopotamab déruxtécan) dans l'indication « en monothérapie dans le traitement de première ligne des patients adultes atteints d’un cancer du sein triple négatif (CSTN) non résécable ou métastatique qui ne sont pas éligibles à un traitement par inhibit",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4614467/fr/decision-n-2026-0214/dc/sem-du-18-novembre-2026-du-college-de-la-haute-autorite-de-sante-portant-refus-d-acces-precoce-de-la-specialite-datroway-datopotamab-deruxtecan",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-20T13:17:54+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "e9b6a1a340ca",
+   "cat": "sante",
+   "titre": "JOBST FARROWWRAP",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4613804/fr/jobst-farrowwrap",
+   "source": "HAS DM",
+   "type_source": "organisation",
+   "publie": "2026-11-19T11:10:03+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "a314ccda5d57",
+   "cat": "sante",
+   "titre": "Avis n°2026.0066/AC/SED du 18 novembre 2026 du collège de la Haute Autorité de santé relatif au projet d’arrêté modifiant l’arrêté du 6 octobre 2016 limitant la pratique de l’acte de « Rétrécissement de l’orifice atrioventriculaire gauche par dispositif par voie veineuse transcutanée et voie transseptable avec guidage par échographie-doppler par voie transoesophagienne » à certains établissements de santé en application des dispositions de l’article L. 1151-1 du code de la santé publique",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4614366/fr/avis-n2026-0066/ac/sed-du-18-novembre-2026-du-college-de-la-haute-autorite-de-sante-relatif-au-projet-d-arrete-modifiant-l-arrete-du-6-octobre-2016-limitant-la-pratique-de-l-acte-de-retrecissement-de-l-orifice-atrioventriculaire-gauche-par-dispositif-par-voie-veineuse-transcutanee-et-voie-transseptable-avec-guidage-par-echographie-doppler-par-voie-transoesophagienne-a-certains-etablissements-de-sante-en-application-des-dispositions-de-l-article-l-1151-1-du-code-de-la-sante-publique",
+   "source": "HAS bulletin officiel",
+   "type_source": "organisation",
+   "publie": "2026-11-20T08:52:24+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "1a0abf122992",
+   "cat": "sante",
+   "titre": "ZENITH SPIRAL-Z",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4613801/fr/zenith-spiral-z",
+   "source": "HAS DM",
+   "type_source": "organisation",
+   "publie": "2026-11-19T11:10:03+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "5756853b455c",
+   "cat": "sante",
+   "titre": "[Comment] Sacituzumab tirumotecan in previously treated endometrial cancer",
+   "resume": "Endometrial cancer is the most common gynaecological cancer in high-income countries, the sixth most common cancer in women worldwide,1 and one of few cancers for which both the incidence and mortality rate are increasing.2,3 Although 75% of endometrial cancers present with early-stage disease when ",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02250-6/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "60cd18aaeb1d",
+   "cat": "sante",
+   "titre": "ESPRIT BTK",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4613795/fr/esprit-btk",
+   "source": "HAS DM",
+   "type_source": "organisation",
+   "publie": "2026-11-19T11:10:02+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "ad5443c2cb79",
+   "cat": "sante",
+   "titre": "[Comment] Retraction: Pharmacogenetics of morphine poisoning in a breastfed neonate of a codeine-prescribed mother",
+   "resume": "On Feb 3, 2026, The Lancet published an Expression of Concern1 for a 2006 Case Report by Gideon Koren and colleagues,2 having received new allegations of falsification of toxicological data, authorship issues, and ethical concerns. These new allegations were referred to the Research Integrity Office",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02255-5/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "b749b5039680",
+   "cat": "sante",
+   "titre": "[Comment] Offline: A manifesto for protecting public health",
+   "resume": "Public health institutions are being threatened by political attack. Governments that dislike being held accountable for their public health responsibilities deploy multiple means to undermine these institutions. At the European Public Health Conference, held in Bilbao, Spain, last week, Christina P",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02336-6/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "5f3fc628cc9e",
+   "cat": "sante",
+   "titre": "[World Report] Türkiye's coal industry draws criticism",
+   "resume": "Türkiye, which is cohosting COP31, is one of the world's biggest consumers of coal, with implications for health. Kaya Genc reports from Istanbul.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02342-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "0d12a885a4c2",
+   "cat": "sante",
+   "titre": "[World Report] Mental health in Colombia: the long legacy of armed conflict",
+   "resume": "10 years after a historic peace deal, ongoing fighting, taboos, and lack of capacity are barriers to mental health care. Daniela Díaz Rangel and Amy Booth report.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02343-3/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "96a5fe4eb67a",
+   "cat": "sante",
+   "titre": "[World Report] Research Focus: Te Poutoko Ora a Kiwa (Centre for Pacific and Global Health)",
+   "resume": "Based at the University of Auckland, the Centre seeks to better understand the intersections between health, climate change, and social inequities. Sima Barmania reports from Auckland.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02344-5/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "9af5828e2342",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Dominican Republic Emission Reductions Program - P161182 - Sequence No : 11",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026121530483",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "ae7a7f128241",
+   "cat": "economie",
+   "titre": "Project Information Document-Integrated Safeguards Data Sheet - Cameroon-Chad Transport Corridor - P167798",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026132068723",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "e814fb8c690a",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment No. 2 to the Administration Agreement with the Federal Ministry of Finance of Austria for TF074063.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026092071471",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "d63ad78c9770",
+   "cat": "economie",
+   "titre": "Initial Project Information Document (PID) - Digital Malawi Acceleration Project (DMAP) - P505095",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026094027855",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "a04a92bb1e72",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) - Bangladesh: Digital Service Transformation for Access and  Resilience  - P511786",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026024019808",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "32f4b5f18f33",
+   "cat": "economie",
+   "titre": "Appraisal Environmental and Social Review Summary (ESRS) - Bangladesh: Digital Service Transformation for Access and  Resilience  - P511786",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026024021018",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "663c55fbcef0",
+   "cat": "economie",
+   "titre": "Turkmenistan - EUROPE AND CENTRAL ASIA - P175131 - COVID-19 Response Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026034034500",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "69c425b259c7",
+   "cat": "economie",
+   "titre": "Official Documents- Amendment No. 11 to the Administration Agreement with the Gates Foundation for TF073724.pdf",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026094531252",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "c6c780802fbe",
+   "cat": "economie",
+   "titre": "Revised  Stakeholder Engagement Plan (SEP) Uganda Health Services Transformation Program (P518373)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026095582435",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "e762fdb8988b",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Mexico Credit Enhancement Platform for Sustainable and Resilient Transport - P181737 - Sequence No : 2",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026180011595",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "a4a852a00f59",
+   "cat": "economie",
+   "titre": "Initial Project Information Document (PID) - Burundi Youth Employment Project  - P520096",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026004510821",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "f1ab98a10dbe",
+   "cat": "economie",
+   "titre": "Additional Financing Stakeholder Engagement Plan (SEP) - CAR - Emergency Infrastructure and Connectivity Recovery Project - P176450 - AF No: 3",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112026034517628",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-20T05:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "225fa61de12d",
+   "cat": "geopolitique",
+   "titre": "Cisjordanie : les attaques de colons contre les récoltes d’olives atteignent un niveau record",
+   "resume": "Plus de 400 attaques de colons israéliens ayant fait des victimes ou causé des dégâts matériels ont été recensées pendant la récolte des olives cette année en Cisjordanie occupée, un bilan sans précédent, ont alerté vendredi des agences de l’ONU et des organisations humanitaires. Elles dénoncent éga",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159885",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "77daf3efe495",
+   "cat": "geopolitique",
+   "titre": "Multiannual Financial Framework - President Costa’s proposal",
+   "resume": "President of the European Council, António Costa, presented his proposal to reach an agreement on the 2028-2034 Multiannual Financial Framework during a press conference on 21 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/21/multiannual-financial-framework-president-costa-s-proposal/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-21T10:43:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "de31620dde34",
+   "cat": "geopolitique",
+   "titre": "Maintien de la paix : avec 500 demandes de paternité en suspens, l'ONU accroît la pression sur les États membres",
+   "resume": "Quelque 500 demandes de reconnaissance de paternité ou de pension alimentaire restent en suspens à la suite de cas d’exploitation et d’atteintes sexuelles dans le cadre des opérations de paix. Pour aider les familles à obtenir une réponse, l’ONU précise désormais dans son tableau de bord public quel",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159886",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "4913e17b6cac",
+   "cat": "geopolitique",
+   "titre": "Weekly schedule of President António Costa",
+   "resume": "Weekly schedule of President António Costa, 21-29 November 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/20/weekly-schedule-of-president-antonio-costa/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-20T20:15:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "b52b400216fc",
+   "cat": "geopolitique",
+   "titre": "Conflits, El Niño, routes maritimes perturbées : le PAM compte secourir 91 millions de personnes en 2027",
+   "resume": "La faim aiguë touche 266 millions de personnes dans 47 pays, soit plus du double d’il y a dix ans. Les guerres, El Niño et les perturbations du trafic maritime menacent d’alourdir ce bilan. Le Programme alimentaire mondial (PAM) demande plus de 12 milliards de dollars pour secourir 91 millions de pe",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159880",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "a6a214526ba8",
+   "cat": "geopolitique",
+   "titre": "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
+   "resume": "Eurogroup President issued a statement on the nominations for the post of ECB executive board members.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/20/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-executive-board-members/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-20T16:35:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "c5c05c6ce0de",
+   "cat": "geopolitique",
+   "titre": "Rohingyas : après le verdict historique, le Président de l’Assemblée générale réclame justice et réparation",
+   "resume": "Au lendemain de la décision historique de la Cour internationale de Justice (CIJ), qui a reconnu le Myanmar coupable de génocide à l’encontre des Rohingyas, le président de l’Assemblée générale de l’ONU, Khalilur Rahman, s’est rendu vendredi dans les camps de réfugiés de Cox’s Bazar, au Bangladesh. ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159884",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "65146a16f15b",
+   "cat": "geopolitique",
+   "titre": "Calendrier à venir: 23 novembre - 6 décembre 2026",
+   "resume": "Aperçu des principaux sujets qui seront examinés lors des sessions du Conseil de l'UE au cours des deux prochaines semaines et événements médias à venir.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/20/forward-look-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-20T16:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "ceb51e150a56",
+   "cat": "geopolitique",
+   "titre": "Afghanistan : privées de droits, les femmes sont aussi privées de soins",
+   "resume": "Depuis leur retour au pouvoir en 2021, les talibans n’ont cessé de durcir les restrictions visant les femmes et les filles en Afghanistan. Exclues des formations médicales et confrontées à des obstacles croissants pour accéder aux soignants masculins, elles voient leurs possibilités de recevoir des ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159879",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "b0bb70012fb0",
+   "cat": "geopolitique",
+   "titre": "European Peace Facility: Council mobilises additional €1 billion in new military aid to Ukraine",
+   "resume": "The Council has adopted two decisions mobilising €1 billion of European Peace Facility funds in support of the Armed Forces of Ukraine through the joint procurement of both lethal and non-lethal equipment.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/20/european-peace-facility-council-mobilises-additional-1-billion-in-new-military-aid-to-ukraine/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-20T14:50:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "811720164d03",
+   "cat": "geopolitique",
+   "titre": "COP31 : le bras de fer sur les énergies fossiles menace l'accord final",
+   "resume": "Un groupe de pays d’Europe, d’Afrique, d’Amérique latine et du Pacifique rejette le projet d’accord de la COP31 et réclame des engagements plus fermes sur la sortie des combustibles fossiles et le financement climatique. Alors que c'est officiellement le dernier jour du sommet d’Antalya, les divisio",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159882",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-20T12:00:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "80500b37bbaf",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Agriculture and Fisheries Council of 23 November 2026",
+   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/20/media-advisory-agriculture-and-fisheries-council-of-23-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-20T14:30:00+00:00",
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "1ec0c2acedd7",
+   "cat": "jobs",
+   "titre": "2026-18174 - Technicien supérieur de recherche en microbiologie H/F/X",
+   "resume": "Métier : Autres domaines Ingénierie de la recherche/Technicien supérieur de recherche Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en pl",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18174&idOrigine=502&LCID=1036&offerReference=2026-18174",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-20T15:14:58+00:00",
+   "lot": "2026-11-21"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-20"
+   "derniere_activite": "2026-11-21"
   }
  },
  "sources_silencieuses": [
