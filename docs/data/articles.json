@@ -1,367 +1,7 @@
 {
- "maj": "2026-11-22T12:17:39.377840+00:00",
- "lot": "2026-11-22",
+ "maj": "2026-11-23T14:01:37.305021+00:00",
+ "lot": "2026-11-23",
  "articles": [
-  {
-   "id": "6f7e1a67a6d6",
-   "cat": "sante",
-   "titre": "Functional Fixed Dystonia of the Foot",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMicm2608021?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-14T12:30:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "166c5720c2fe",
-   "cat": "sante",
-   "titre": "What the Robot Still Can’t Do",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2606894?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-14T12:30:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "5e6375928375",
-   "cat": "sante",
-   "titre": "The Unexamined Subsidy — Rethinking Incentives for Outpatient Clinical Preceptors",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2611160?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-14T12:30:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "c101042f2c4c",
-   "cat": "sante",
-   "titre": "Reimagining Health Policy Research",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMp2611665?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-14T12:30:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "e44dab8c4f4c",
-   "cat": "sante",
-   "titre": "Department of Parasites and Insect Vectors Seminar Nisha Philip : “Deciphering phosphorylation and ubiquitin dynamics in male gametocytes of the malaria parasite”",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/department-of-parasites-and-insect-vectors-seminar-nisha-philip-deciphering-phosphorylation-and-ubiquitin-dynamics-in-male-gametocytes-of-the-malaria-parasite/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-12T15:33:07+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "b0578abe68d0",
-   "cat": "sante",
-   "titre": "[Correspondence] The Perth Declaration to eliminate rheumatic fever and rheumatic heart disease",
-   "resume": "The persistence of rheumatic heart disease reveals how profoundly social inequity can shape who benefits from medical progress. Approximately 55 million people live with the disease, and more than 370 000 die each year.1 It is the most common acquired heart disease in people younger than 25 years, o",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02142-2/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "33fa26fcbd7b",
-   "cat": "sante",
-   "titre": "Outbreak Investigation Task Force",
-   "resume": "The Outbreak Investigation Taskforce (OITF) of the Institut Pasteur Paris (IPP) acts as a key partner in infectious disease outbreak response, operational research, and capacity strengthening, with the goal to generate evidence to inform […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/outbreak-investigation-task-force/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-12T14:45:53+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "a16bd6215aae",
-   "cat": "sante",
-   "titre": "[Correspondence] WHO's operational role in emergencies: a view from Gaza",
-   "resume": "Richard Brennan and colleagues make a timely case for maintaining WHO's operational capacity in emergencies.1 Amid severe financial constraints and wider reforms across the UN and the international humanitarian response system, WHO, like other international organisations, might need to become leaner",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02146-X/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "341645ee7b76",
-   "cat": "sante",
-   "titre": "DSCB Dpt Seminar – “Stem cell based embryo models for human development” by Cantas Alev",
-   "resume": "Invited speaker: Cantas Alev, M.D., Ph.D. Hosted by Shahragim Tajbakhsh Abstract To understand human beings came to be, we are reconstructing embryonic development in the lab, recapitulating key aspects of early development. Through a […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/event/dscb-dpt-seminar-stem-cell-based-embryo-models-for-human-development-by-cantas-alev/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-12T13:02:42+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "26b94f4f7bb1",
-   "cat": "sante",
-   "titre": "[Correspondence] Evidence and gaps for preventing postpartum haemorrhage",
-   "resume": "The claim by Ioannis D Gallos and colleagues that tranexamic acid does not have a preventive role does not reflect the scientific evidence.1 The Sustainable Development Goal is to reduce the maternal mortality ratio to fewer than 70 per 100 000 livebirths by 2030.2 Tranexamic acid is the only interv",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01820-9/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "dfe892612772",
-   "cat": "sante",
-   "titre": "[Correspondence] Evidence and gaps for preventing postpartum haemorrhage",
-   "resume": "We congratulate Arri Coomarasamy and colleagues for an excellent Series on postpartum haemorrhage (PPH),1–3 which provides an important evidence-based framework for improving maternal outcomes worldwide. We fully support the authors’ comprehensive approach to PPH prevention, diagnosis, and treatment",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01821-0/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "2c3f34b0e4d1",
-   "cat": "sante",
-   "titre": "[Correspondence] Evidence and gaps for preventing postpartum haemorrhage – Authors’ reply",
-   "resume": "We thank Judith Lieber and colleagues and Gabriele Saccone and colleagues for their responses to our Series. Lieber and colleagues’ comment highlights the importance of distinguishing evidence for prevention from evidence for treatment. We agree with them that tranexamic acid is a life-saving treatm",
-   "limite": 0,
-   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01981-1/fulltext?rss=yes",
-   "source": "The Lancet",
-   "type_source": "revue",
-   "publie": "2026-11-14T00:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "18904abdec02",
-   "cat": "economie",
-   "titre": "Western and Central Africa - WESTERN AND CENTRAL AFRICA- P180085- Harmonizing and Improving Statistics in West and Central Africa - Series of Projects Two (HISWACA - SOP 2) - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111526044023128",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-15T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "4ac31406d412",
-   "cat": "economie",
-   "titre": "Readiness Environmental and Social Review Summary (ESRS) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426064040666",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "db341d668fc3",
-   "cat": "economie",
-   "titre": "Western and Central Africa - WESTERN AND CENTRAL AFRICA- P178132- West Africa Food System Resilience Program (FSRP) Phase 2 - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426052030686",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "89d2d4af8529",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426064038706",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "b9364d8a4ea9",
-   "cat": "economie",
-   "titre": "Readiness Environmental and Social Review Summary (ESRS) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426125511796",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "401d89e10859",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426125012686",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "7b0703354ef8",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426125523182",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "36e079737942",
-   "cat": "economie",
-   "titre": "Haiti - LATIN AMERICA AND CARIBBEAN - P178188 - Decentralized Sustainable and Resilient Rural Water and Sanitation Project - Audited Financial Statement",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426053070740",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "41d147851312",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Sanitation Action for Emergency Recovery (SAFER) - P519914",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426064034234",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "bdb7fb0ffe43",
-   "cat": "economie",
-   "titre": "Concept Project Information Document (PID)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111426171028491",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-14T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "96865cab07a5",
-   "cat": "economie",
-   "titre": "Brazil - LATIN AMERICA AND CARIBBEAN- P168634- Parana Public Sector Modernization and Innovation for Service Delivery Operation - Procurement Plan",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326104529692",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "97369a19a3a7",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Food Systems Resilience Program for Eastern and Southern Africa - P178566 - Sequence No : 8",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111326105037634",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-13T05:00:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "5e2229c11ccf",
-   "cat": "geopolitique",
-   "titre": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza",
-   "resume": "The High Representative issued a statement on behalf of the European Union on the humanitarian developments in Gaza.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/14/statement/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-14T12:20:00+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "5398e6bfdf08",
-   "cat": "jobs",
-   "titre": "2026-18012 - Responsable du Centre de Conférences et du Développement événementiel H/F/X",
-   "resume": "Métier : Communication/Cadre administratif confirmé (Communication) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur conduit des recherches biomédicales de pointe et avant-gardistes depuis plus de 130 ans. Sur notre campus de 5 hectares en plein Paris (15è a",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18012&idOrigine=502&LCID=1036&offerReference=2026-18012",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-15T00:02:19+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "ecf269d20b82",
-   "cat": "jobs",
-   "titre": "Senior AI Platform Product Manager",
-   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5034843101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-11-15T02:54:32-05:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "2fbb1b5c5921",
-   "cat": "jobs",
-   "titre": "2026-18011 - Directeur de l'Institut Pasteur de Nouvelle Calédonie H/F/X",
-   "resume": "Métier : Pilotage/Cadre administratif expert (Pilotage) Type de contrat : Contrat à durée déterminée Description du poste : 🔬L'Institut Pasteur de Nouvelle-Calédonie (IPNC) est une Fondation privée reconnue d'utilité publique lié à l'Institut Pasteur à Paris dont les missions principales sont la Rec",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18011&idOrigine=502&LCID=1036&offerReference=2026-18011",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-15T00:02:16+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "23eb99ee321b",
-   "cat": "jobs",
-   "titre": "2026-17987 - Comptable Fournisseurs H/F/X",
-   "resume": "Métier : Finance/Technicien administratif (Finance) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de la santé publiqu",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17987&idOrigine=502&LCID=1036&offerReference=2026-17987",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-13T00:02:01+00:00",
-   "lot": "2026-11-15"
-  },
-  {
-   "id": "3aed91178743",
-   "cat": "jobs",
-   "titre": "2026-17058 - Ingénieur système Linux H/F/X",
-   "resume": "Métier : Informatique/Ingénieur technique confirmé (Informatique) Type de contrat : Contrat à durée indéterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de la médecine et de l",
-   "limite": 0,
-   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17058&idOrigine=502&LCID=1036&offerReference=2026-17058",
-   "source": "Pasteur ingé",
-   "type_source": "entreprise",
-   "publie": "2026-11-12T13:06:00+00:00",
-   "lot": "2026-11-15"
-  },
   {
    "id": "e84ac4979c57",
    "cat": "sante",
@@ -3073,59 +2713,371 @@
    "type_source": "organisation",
    "publie": "2026-11-20T12:30:00+00:00",
    "lot": "2026-11-22"
+  },
+  {
+   "id": "1ff6d5cae3b2",
+   "cat": "sante",
+   "titre": "Nuria Lucena Berrocal",
+   "resume": "Nuria Lucena Berrocal",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/274884/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-23T13:55:59+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "9d08a170b892",
+   "cat": "sante",
+   "titre": "Symposium – Philippe Bousso, A guiding light for immunology",
+   "resume": "The Institut Pasteur will host on Wednesday, June 2, 2027, a symposium in memory of Philippe Bousso, bringing together colleagues, collaborators, friends and former trainees to celebrate his remarkable scientific legacy and remember the […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/symposium-philippe-bousso-a-guiding-light-for-immunology/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-23T10:05:23+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "a9ec0abbd4a1",
+   "cat": "sante",
+   "titre": "Vaishnav Manoj",
+   "resume": "Vaishnav Manoj",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/274859/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-23T09:31:08+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "618211ade3fb",
+   "cat": "sante",
+   "titre": "[Correspondence] Defining success in kidney xenotransplantation – Authors' reply",
+   "resume": "We thank Christopher H Kim and colleagues for their thoughtful comments and agree that success in kidney xenotransplantation should ultimately extend beyond graft survival or dialysis independence alone. Their Correspondence highlights an important question as the field transitions from individual f",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02235-X/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "a5265f701a73",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Ginn S. Richard Dadd's beguiling art. Lancet 2026; 408: 1806–07—In this Perspectives, the position of an apostrophe in the tenth paragraph and the spelling of Siegfried Sassoon in the 11th paragraph have been corrected. These corrections have been made to the online version as of Nov 19, 2026.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02306-8/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "063b2d7ef0bd",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Davids MS, Eyre TA, Woyach JA, et al. Fixed-duration pirtobrutinib plus venetoclax–rituximab versus venetoclax–rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02307-X/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "3d0144801458",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Jenkinson MD, Rosala-Hallas A, Sahm F, et al. Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial. Lancet 2026: 408: 1473–84—In this Article, Johannes Kersch",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02308-1/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "e58fdcabad46",
+   "cat": "sante",
+   "titre": "[Department of Error] Department of Error",
+   "resume": "Black CJ, Chuah KH, Nasser Y, Remes-Troche J-M, Shin A, Ford AC. Irritable bowel syndrome and related disorders of gut–brain interaction. Lancet 2026; 408: 2254–70—In this Review, in figure 3, the second-line treatment box for chronic constipation should have read 5-HT4 receptor agonists. This corre",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02347-0/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-21T00:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "97aff51dc296",
+   "cat": "economie",
+   "titre": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-23T10:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "b4b554b96c5e",
+   "cat": "economie",
+   "titre": "Initial Program Information Document (PID) - Urban Infrastructure and Market Access Program  - P519076",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326055535965",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "114269685bec",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) - Partnership on GEF Sustainable Cities - ICLEI - P515712",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326052011384",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "bf1fff090be0",
+   "cat": "economie",
+   "titre": "Environmental and Social Commitment Plan (ESCP) Moldova Energy Efficiency Revolving Mechanism Project (P510426)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326054538757",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "06ac0917fd8d",
+   "cat": "economie",
+   "titre": "Appraisal Environmental and Social Review Summary (ESRS) - Partnership on GEF Sustainable Cities - ICLEI - P515712",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326052014768",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "4319bf71a3e1",
+   "cat": "economie",
+   "titre": "Disclosable Restructuring Paper - Strengthening Digital Governance for Service Delivery - P178162",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326065039629",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "7cbfa817bb67",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Ethiopia Flood Management Project - P176327",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326041026748",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "43f6f232bd5b",
+   "cat": "economie",
+   "titre": "Initial Project Information Document (PID) - Social Protection Project - P178973",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326045021500",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "68136c86a784",
+   "cat": "economie",
+   "titre": "Stakeholder Engagement Plan (SEP) - Partnership on GEF Sustainable Cities - ICLEI - P515712",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326051519864",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "dddc907dfb73",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - ID for Inclusive Service Delivery and Digital Transformation in Indonesia - P175218 - Sequence No : 7",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112226201079074",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "91fb775d9d1e",
+   "cat": "economie",
+   "titre": "AF Initial Environmental and Social Review Summary (ESRS) - Social Protection Project - P178973 - AF Seq No: 1",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112326045045683",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "38eb450809d2",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Institutional Foundations to Improve Services For Health - P169641 - Sequence No : 13",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112226214027242",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-23T05:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "b019ca18c52f",
+   "cat": "geopolitique",
+   "titre": "La COP31 s’achève sans accord final, les énergies fossiles au cœur des divergences entre États",
+   "resume": "La 31e conférence des ⁠Nations ‌Unies sur le changement ​climatique s’est achevée dimanche sans accord final, les négociateurs n’étant pas parvenus à surmonter leurs divisions sur les énergies fossiles pour lutter contre le réchauffement. Après plus de deux semaines de discussions à Antalya, en Turq",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159887",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-22T12:00:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "a019ba361aa8",
+   "cat": "geopolitique",
+   "titre": "EU sanctions against terrorism: Council lists the founder of 'The Base'",
+   "resume": "The Council expands its sanctions list to combat terrorism by designating the founder and leader of the EU-sanctioned organisation 'The Base'.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/23/eu-sanctions-against-terrorism-council-lists-the-founder-of-the-base/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-23T13:50:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "0f2d8b640c48",
+   "cat": "geopolitique",
+   "titre": "Tajikistan: Statement by the High Representative on behalf of the European Union on Tajikistan’s withdrawal from the Rome Statute of the International Criminal Court",
+   "resume": "The High Representative issued a statement on behalf of the European Union on Tajikistan’s withdrawal from the Rome Statute of the International Criminal Court.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/23/tajikistan-statement-by-the-high-representative-on-behalf-of-the-european-union-on-tajikistan-s-withdrawal-from-the-rome-statute-of-the-international-criminal-court/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-23T11:35:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "a6ba058e14fa",
+   "cat": "geopolitique",
+   "titre": "Council approves conclusions on the new strategic vision for the EU’s outermost regions",
+   "resume": "Council approves conclusions on the new strategic vision for the EU’s outermost regions.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/23/council-approves-conclusions-on-the-new-strategic-vision-for-the-eu-s-outermost-regions/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-23T11:13:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "e8b03ef5d35e",
+   "cat": "geopolitique",
+   "titre": "EU budget for 2027: Council gives final green light",
+   "resume": "The Council gave its final green light to the EU’s annual budget for 2027 - the seventh and final annual budget of the current multiannual financial framework (MFF) 2021-2027.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/23/eu-budget-for-2027-council-gives-final-green-light/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-23T10:40:00+00:00",
+   "lot": "2026-11-23"
+  },
+  {
+   "id": "8839cd8367d8",
+   "cat": "geopolitique",
+   "titre": "Press briefing - EU-Western Balkans summit of 25 November 2026",
+   "resume": "The press briefing will take place on Tuesday, 24 November 2026 at 10:30.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/23/press-briefing-eu-western-balkans-summit-of-25-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-23T10:00:00+00:00",
+   "lot": "2026-11-23"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-21"
+   "derniere_activite": "2026-11-23"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-22"
+   "derniere_activite": "2026-11-23"
   }
  },
  "sources_silencieuses": [
