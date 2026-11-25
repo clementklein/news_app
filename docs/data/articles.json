@@ -1,379 +1,7 @@
 {
- "maj": "2026-11-24T14:33:52.501939+00:00",
- "lot": "2026-11-24",
+ "maj": "2026-11-25T13:53:27.879866+00:00",
+ "lot": "2026-11-25",
  "articles": [
-  {
-   "id": "fafba13ee862",
-   "cat": "sante",
-   "titre": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
-   "resume": "Nature Medicine, Published online: 17 November 2026; doi:10.1038/s41591-026-04759-y A study of longitudinal cohorts from Europe and the United States over 30 years showed that later-born generations benefit from higher cognitive capacity and memory stability, which may explain the trend of declining",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04759-y",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-17T00:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "55194a061ec3",
-   "cat": "sante",
-   "titre": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age",
-   "resume": "New England Journal of Medicine, Ahead of Print.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-16T03:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "91108dca301a",
-   "cat": "sante",
-   "titre": "Post-Doctoral researcher/research scientist position in cancer immunotherapy,Institut Pasteur, Paris, France",
-   "resume": "Harnessing the mRNA Lipid Nano Particle technology to improve CAR T cell therapy for solid tumors. Paris, November 2026 Position : A 3 years post-doctoral/research scientist position funded by La Ligue contre le Cancer […]",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/job/post-doctoral-researcher-research-scientist-position-in-cancer-immunotherapyinstitut-pasteur-paris-france/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-17T10:26:18+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "cc031e7d82ba",
-   "cat": "sante",
-   "titre": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-   "resume": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04798-5",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-16T00:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "af8ce1c9b5bd",
-   "cat": "sante",
-   "titre": "Madeleine Casper",
-   "resume": "Madeleine Casper",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/274329/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-17T09:13:08+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "8c92f5ac5627",
-   "cat": "sante",
-   "titre": "An open agentic AI co-scientist for clinical and biomedical discovery",
-   "resume": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04808-6 An open agentic AI co-scientist for clinical and biomedical discovery",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04808-6",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-16T00:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "ce2b70efd3b6",
-   "cat": "sante",
-   "titre": "Charlotte Jadot",
-   "resume": "Sorry, this entry is only available in FR.",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/274320/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-16T16:40:48+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "2ff20aaab6da",
-   "cat": "sante",
-   "titre": "Décision n° 2026.0210/DC/SESPEV du 12 novembre 2026 du collège de la Haute Autorité de santé portant adoption des recommandations vaccinales intitulées « Vaccination contre les infections invasives à pneumocoques : place du vaccin CAPVAXIVE »",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4608954/fr/decision-n-2026-0210/dc/sespev-du-12-novembre-2026-du-college-de-la-haute-autorite-de-sante-portant-adoption-des-recommandations-vaccinales-intitulees-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive",
-   "source": "HAS bulletin officiel",
-   "type_source": "organisation",
-   "publie": "2026-11-16T08:17:49+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "60ad73d5fe2b",
-   "cat": "economie",
-   "titre": "Frank Elderson: Smart supervision for small banks",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-16T13:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "fc2acfb820d0",
-   "cat": "economie",
-   "titre": "Project Information Document - Republic of Congo Strengthening Urban Resilience Project - P179190",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726015022000",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "6e21fe93aea8",
-   "cat": "economie",
-   "titre": "Readiness Environmental and Social Review Summary (ESRS) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726022558519",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "16e60de880b1",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726022530289",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "0aa943e44217",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Digital Acceleration Project - P173373 - Sequence No : 10",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111626220514041",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "6d40a3615e7b",
-   "cat": "economie",
-   "titre": "Disclosable Restructuring Paper - Iraq Social Safety Net Enhancement Project - P178824",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726050517102",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "41b0f0115cee",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Integrated Solid Waste Management Project-Phase I - P500392 - Sequence No : 4",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726053528958",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "9c8ea43a171d",
-   "cat": "economie",
-   "titre": "Environmental and Social Management Plan (ESMP) Federated States of Micronesia Prioritized Road Investment and Management Enhancements Project (P172225)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726023510332",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "a699956401e3",
-   "cat": "economie",
-   "titre": "Project Information Document - Republic of Congo Strengthening Urban Resilience Project - P179190",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726015019511",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "f3a61620c876",
-   "cat": "economie",
-   "titre": "Bulgaria - Country Climate and Development Report",
-   "resume": "Bulgaria has undergone a remarkable transformation over the past three and a half decades. Robust growth since the turn of the century has translated into poverty reduction and improved living standards. Gradual convergence to average European Union (EU) incomes has been underpinned by deep trade in",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099110426090520239",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "aee6aec54e8a",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Water Infrastructure for Sustainability Efficiency and Resilience  - P517530",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726022534100",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "73e59fe8ec0f",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Assam: School Education and Adolescent Wellbeing Project (ASAP) - P507865 - Sequence No : 2",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111626235518790",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "7a9945d6c953",
-   "cat": "geopolitique",
-   "titre": "Les coupes dans l’aide humanitaire exposent davantage les réfugiés à la traite",
-   "resume": "Au Bangladesh et en Éthiopie, la réduction des financements humanitaires prive des centaines de milliers de réfugiés de services essentiels et fragilise les mécanismes censés les protéger contre l’exploitation. Deux études publiées lundi alertent sur la progression des risques de traite, de travail ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159847",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "31c4e8ef3f3b",
-   "cat": "geopolitique",
-   "titre": "Speech by President António Costa at the EU Enlargement Forum 2026",
-   "resume": "The President of the European Council, António Costa, gave a speech at the EU Enlargement Forum on 16 November 2026.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/speech-by-president-antonio-costa-at-the-eu-enlargement-forum-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-16T17:25:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "5c5452c3fd1c",
-   "cat": "geopolitique",
-   "titre": "Liban : l’ONU veut placer la santé mentale au cœur de la réponse humanitaire",
-   "resume": "La santé mentale ne doit plus être considérée comme un volet secondaire de l’aide humanitaire, mais comme une composante essentielle du relèvement des populations touchées par les conflits. C’est le message porté par la Vice-Secrétaire générale de l’ONU, Amina J. Mohammed, à l’issue d’une visite de ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159852",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "d76ca4be4f7e",
-   "cat": "geopolitique",
-   "titre": "Co-Chairs’ Conclusions on Cross-Regional Security and Connectivity",
-   "resume": "On 16 November, following the second cross-regional security and connectivity ministerial meetings, the Co-Chairs issued conclusions on the security, stability, and resilience in the Black Sea region, as well as the cross-regional connectivity agenda.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/co-chairs-conclusions-on-cross-regional-security-and-connectivity/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-16T15:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "675c3de24cba",
-   "cat": "geopolitique",
-   "titre": "L’impasse politique au Myanmar assombrit les adieux de Guterres à l’Asie du Sud-Est",
-   "resume": "Pour son dernier sommet avec les dirigeants de l’Association des nations de l’Asie du Sud-Est (ASEAN) en tant que chef de l’ONU, lundi à Manille, António Guterres a appelé à mettre fin aux violences au Myanmar et à protéger les réfugiés rohingyas. Il a également plaidé pour une réforme des instituti",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159851",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "fad528c443a7",
-   "cat": "geopolitique",
-   "titre": "Media advisory - Foreign Affairs Council (Defence) of 17 November 2026",
-   "resume": "Main agenda items, approximate timing, public sessions and press opportunities.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/16/media-advisory-foreign-affairs-council-defence-of-17-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-16T13:47:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "aa66738ba1c9",
-   "cat": "geopolitique",
-   "titre": "COP31 : les négociations piétinent tandis que les initiatives en matière d’IA se multiplient",
-   "resume": "À la COP31, les négociations achoppent toujours sur le financement climatique, les combustibles fossiles et l’adaptation. Alors que les ministres s’apprêtent à prendre le relais, de nouvelles initiatives sur l’intelligence artificielle et l’industrialisation verte illustrent le rôle croissant des te",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159850",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "53db5b19a493",
-   "cat": "geopolitique",
-   "titre": "Armes autonomes : l’ONU veut empêcher les machines de décider qui doit mourir",
-   "resume": "Alors que les progrès de l’intelligence artificielle accélèrent le développement d’armes capables de frapper sans intervention humaine, le chef de l’ONU a appelé lundi à négocier un traité international pour empêcher que des algorithmes décident seuls de la vie ou de la mort d’êtres humains.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159845",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "bfeafabe7a85",
-   "cat": "geopolitique",
-   "titre": "Contre la haine, l'ONU mise sur les leaders religieux, traditionnels et autochtones",
-   "resume": "Les responsables religieux, traditionnels et autochtones doivent être reconnus comme des partenaires à part entière dans la prévention des conflits, et non simplement salués pour leur contribution, ont plaidé dimanche les participants à l’ouverture du Forum sur le Plan d’action de Mascate, à Oman.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159849",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "44605a752349",
-   "cat": "geopolitique",
-   "titre": "Syrie : deux ans après la chute d’Al-Assad, la transition à l’épreuve de la pauvreté et des violences",
-   "resume": "À l’approche du deuxième anniversaire de la chute du dictateur Bachar Al-Assad, la Syrie tente de reconstruire ses institutions et son économie. Mais derrière les progrès affichés, les violences persistent, la pauvreté entrave le retour des déplacés et les libertés restent fragiles. Lundi, devant le",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159848",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
-  {
-   "id": "f1d2a44d6320",
-   "cat": "geopolitique",
-   "titre": "Six mois après l'apparition d'Ebola en RDC, l’accès aux populations isolées reste un défi",
-   "resume": "Six mois après le début de l’épidémie d’Ebola due au virus Bundibugyo en République démocratique du Congo (RDC), la situation demeure préoccupante, malgré des « progrès significatifs » dans la riposte sanitaire. Des centaines de nouveaux cas continuent d’être signalés chaque semaine, tandis que l’ép",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159846",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-16T12:00:00+00:00",
-   "lot": "2026-11-17"
-  },
   {
    "id": "799bab7d8b15",
    "cat": "sante",
@@ -2989,59 +2617,491 @@
    "type_source": "organisation",
    "publie": "2026-11-23T12:00:00+00:00",
    "lot": "2026-11-24"
+  },
+  {
+   "id": "03d0e64b6457",
+   "cat": "sante",
+   "titre": "STEP Young trial shows semaglutide benefits in children",
+   "resume": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/d41591-026-00059-7 In a phase 3 study, children with obesity lost significantly more weight with semaglutide than with placebo, with more than one third achieving a body mass index below the threshold for obesity.",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/d41591-026-00059-7",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-25T00:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "10e2a0f9f41d",
+   "cat": "sante",
+   "titre": "Advanced light microscopy developments",
+   "resume": "The optics developers of the Institut Pasteur (Paris), Formerly supported by the Advanced Light Microscopy initiative (ALM), is composed of scientists who are involved in cutting-edge microscopy developments, from the customisation of instruments to […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/project/advanced-light-microscopy-developments/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T13:33:57+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "8069aa7df4bf",
+   "cat": "sante",
+   "titre": "Later-born generations have better memory and lose it more slowly",
+   "resume": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04758-z Dementia risk at any age has been falling for decades. An analysis of ~219,000 people followed for up to 30 years shows that newer generations start old age with a larger cognitive capacity that declines more slowly ",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04758-z",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-25T00:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "05161b2d3056",
+   "cat": "sante",
+   "titre": "Matthias Potorel",
+   "resume": "Matthias Potorel",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275446/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T13:07:55+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "9298da5d93ae",
+   "cat": "sante",
+   "titre": "Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+   "resume": "Nature Medicine, Published online: 24 November 2026; doi:10.1038/s41591-026-04824-6 Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04824-6",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-24T00:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "6ec82a6e0666",
+   "cat": "sante",
+   "titre": "Patricia Davidson",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/patricia-davidson/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T07:34:56+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "e0c2fbc00843",
+   "cat": "sante",
+   "titre": "Ségolène Bernheim",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/segolene-bernheim/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T07:33:10+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "2125cb1423df",
+   "cat": "sante",
+   "titre": "Caroline Coste",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/caroline-coste/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T07:27:50+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "e62ec971d0c2",
+   "cat": "sante",
+   "titre": "Skaai Davison",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/skaai-davison/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-25T07:25:49+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "db13dd05c38c",
+   "cat": "sante",
+   "titre": "Marion Christophe",
+   "resume": "Sorry, this entry is only available in FR.",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275237/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-24T17:43:55+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "4f0b9bed7868",
+   "cat": "sante",
+   "titre": "Maya Thille",
+   "resume": "PhD student in the NeuroSpeech team",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/maya-thille/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-24T15:42:41+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "9ca6d694b651",
+   "cat": "economie",
+   "titre": "Card payments edge past cash in shops; euro area consumers want both",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-25T10:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "b4388548771b",
+   "cat": "economie",
+   "titre": "Les entreprises en France",
+   "resume": "Cet espace recense les analyses structurelles sur les entreprises en France, leurs caractéristiques, leur diversité, leur dynamique de croissance et de renouvellement, leurs performances, l’emploi qu’elles génèrent. Les analyses traitent également des grands enjeux de l’économie française (mondialis",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/7667330",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T09:59:17+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "1f61d20f44a8",
+   "cat": "economie",
+   "titre": "Dynamiques du développement en Afrique 2026 : Gérer la dette au service de la transformation",
+   "resume": "La publication Dynamiques du développement en Afrique analyse les dynamiques économiques et sociales à travers les cinq régions – Afrique australe, centrale, de l’Est, du Nord et de l’Ouest. Étayé par les statistiques les plus récentes, ce décryptage vise à permettre aux leaders africains de réalise",
+   "limite": 0,
+   "lien": "https://www.oecd.org/fr/publications/dynamiques-du-developpement-en-afrique-2026_431eb3d2-fr.html",
+   "source": "OCDE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T13:45:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "0faf015b2a5d",
+   "cat": "economie",
+   "titre": "Quel a été l’impact de l’augmentation de l’âge d’annulation de la décote sur l’activité des seniors ?",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9158612",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-24T16:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "ef0d85dd5747",
+   "cat": "economie",
+   "titre": "Bhutan - SOUTH ASIA- P174399- Human Capital Recovery  and  Resilience Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526024011245",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "786810ad0fa8",
+   "cat": "economie",
+   "titre": "Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P176780- Khyber Pakhtunkhwa Rural Investment and Institutional Support Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526030031160",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "1189e85c76fe",
+   "cat": "economie",
+   "titre": "Environmental and Social Management Framework (ESMF) Urban Youth Employment Project III (P518905)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526030526675",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "e217f1f51d79",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Inclusive Connectivity and Development Project - P176164 - Sequence No : 12",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526064533900",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "51303f5e9f2b",
+   "cat": "economie",
+   "titre": "Pakistan - Competitive and Livable City of Karachi Project",
+   "resume": "Ratings of the Competitive and Livable City of Karachi Project for Pakistan were as follows: relevance was substantial; overall efficacy was substantial; efficiency was substantial; overall outcome was satisfactory. Lessons learned underscore that effective implementation in multi-agency settings re",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112426222526619",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "f4eb6973db34",
+   "cat": "economie",
+   "titre": "Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P180323- Integrated Flood Resilience and Adaptation Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526010034832",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "ba317b34ab12",
+   "cat": "economie",
+   "titre": "Nigeria - WESTERN AND CENTRAL AFRICA- P170734- Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526021517709",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "cf0de369e39d",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - MSME Competitiveness Project - P177895 - Sequence No : 8",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526050539116",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-25T05:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "857a4a44d8f2",
+   "cat": "geopolitique",
+   "titre": "Violences sexuelles : le fils aîné de Gisèle Pelicot veut en finir avec le silence des hommes",
+   "resume": "Deux ans après le procès des viols de Mazan, David Pelicot a choisi de mettre son nom au service de la lutte contre les violences sexuelles. De passage aux Nations Unies, à New York, il raconte la genèse d’un engagement né autant de la violence des crimes de son père que du silence des autres hommes",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159903",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "6009dea20aa8",
+   "cat": "geopolitique",
+   "titre": "Russia’s war of aggression against Ukraine: EU restricts trade with 15 entities linked to Russia’s military and industrial complex",
+   "resume": "The Council has imposed restrictive measures on 15 Russian entities for their role in and support for Russia’s military and industrial complex in the context of Russia’s war of aggression against Ukraine.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/25/russia-s-war-of-aggression-against-ukraine-eu-restricts-trade-with-15-entities-linked-to-russia-s-military-and-industrial-complex/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T10:09:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "d7e28a5ee6ec",
+   "cat": "geopolitique",
+   "titre": "Colombie : dix ans après l’accord de paix, Guterres appelle à relancer les efforts",
+   "resume": "Le secrétaire général de l’ONU, António Guterres, a appelé mardi à un nouvel élan pour mettre pleinement en œuvre l’accord de paix historique signé il y a dix ans en Colombie, qui avait mis fin à plus d’un demi-siècle de conflit armé avec les rebelles des Forces armées révolutionnaires de Colombie (",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159902",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "5109b0594392",
+   "cat": "geopolitique",
+   "titre": "Media advisory - EU-Western Balkans summit of 25 November 2026",
+   "resume": "Approximate timings and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/24/media-advisory-eu-western-balkans-summit-of-25-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-24T17:45:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "c60ae17e7017",
+   "cat": "geopolitique",
+   "titre": "RDC : la peur d’Ebola enferme les victimes de violences dans le silence",
+   "resume": "Dans les zones de l’est de la République démocratique du Congo (RDC) touchées par Ebola, les violences faites aux femmes s’aggravent, tandis que la peur de la contamination les dissuade de chercher de l’aide. Selon une enquête de l’UNICEF, près de six femmes et adolescentes interrogées sur dix décla",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159897",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "a2b90019eb76",
+   "cat": "geopolitique",
+   "titre": "Health and safety at work: 8 August to become European day of remembrance for victims of accidents at work",
+   "resume": "EU institutions sign a joint declaration establishing a European day of remembrance for victims of accidents at work.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/24/health-and-safety-at-work-8-august-to-become-european-day-of-remembrance-for-victims-of-accidents-at-work/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-24T17:27:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "62edb45f1a73",
+   "cat": "geopolitique",
+   "titre": "VIH/Sida : les coupes budgétaires menacent de balayer des décennies de progrès",
+   "resume": "Des programmes de prévention démantelés, des structures communautaires fermées, des traitements et des services menacés. La lutte contre le VIH encaisse de plein fouet les coupes dans l’aide internationale. Dans un nouveau rapport, l’ONUSIDA alerte sur le risque de voir des décennies de progrès sani",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159898",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "ff9b1215a0c4",
+   "cat": "geopolitique",
+   "titre": "Discours du President António Costa lors de la séance d'ouverture du 108e congrès de l'Association des maires de France",
+   "resume": "Le président du Conseil européen, António Costa, a prononcé un discours lors de la séance d'ouverture du 108e congrès de l'Association des maires de France et des présidents d'intercommunalité (AMF), qui s'est tenue à Paris le 24 novembre 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/24/speech-by-president-antonio-costa-at-the-opening-session-of-the-108th-congres-of-the-association-of-mayors-of-france/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-24T15:17:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "c75e253c1cba",
+   "cat": "geopolitique",
+   "titre": "Gaza : la méningite gagne du terrain dans des conditions sanitaires alarmantes",
+   "resume": "L’Organisation mondiale de la santé (OMS) tire la sonnette d’alarme face à une forte hausse des cas de méningite dans la bande de Gaza depuis la mi-octobre. Plus de 530 cas ont été recensés, dont une majorité chez les très jeunes enfants. L’agence onusienne appelle à renforcer d’urgence l’approvisio",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159896",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "46e30c3cc995",
+   "cat": "geopolitique",
+   "titre": "CHANGE OF TIME - Press briefing - Foreign Affairs Council (Trade) of 30 November 2026",
+   "resume": "The press briefing ahead of the Foreign Affairs Councils (Trade) will take place on Wednesday, 25 November at 13.30.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/24/change-of-time-press-briefing-foreign-affairs-council-trade-of-30-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-24T11:45:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "4b56e2c42956",
+   "cat": "geopolitique",
+   "titre": "Féminicides : chaque heure, cinq femmes dans le monde tuées par leur conjoint ou un parent",
+   "resume": "Environ 47 000 femmes et filles ont été tuées en 2025 par leur partenaire ou un membre de leur famille, selon de nouvelles données rendues publiques mardi par l’ONU. Alors que les féminicides reculent moins vite que les autres homicides, les victimes de violences sont de moins en moins nombreuses à ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159900",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "db12106a39fd",
+   "cat": "geopolitique",
+   "titre": "IA et conflits : l’ONU craint une guerre échappant au contrôle humain",
+   "resume": "L’intelligence artificielle (IA) transforme les champs de bataille, accélère la désinformation et attise les rivalités géopolitiques, faisant peser de nouvelles menaces sur la paix et la sécurité internationales. Face à ces risques, le secrétaire général de l’ONU, António Guterres, a appelé mardi à ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159899",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-24T12:00:00+00:00",
+   "lot": "2026-11-25"
+  },
+  {
+   "id": "8b7f2d083dde",
+   "cat": "jobs",
+   "titre": "2026-18190 - Stagiaire Communication H/F/X",
+   "resume": "Métier : Communication/Stagiaire Support administratif (Communication) Description du poste : Sous la supervision de la chargée de communication, vous participerez à un large panel d'activités : • Community management : animation des réseaux sociaux (LinkedIn, YouTube, Bluesky – et ouverture d'Insta",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18190&idOrigine=502&LCID=1036&offerReference=2026-18190",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-25T09:15:15+00:00",
+   "lot": "2026-11-25"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-24"
+   "derniere_activite": "2026-11-25"
   }
  },
  "sources_silencieuses": [
