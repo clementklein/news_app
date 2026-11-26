@@ -1,343 +1,7 @@
 {
- "maj": "2026-11-25T13:53:27.879866+00:00",
- "lot": "2026-11-25",
+ "maj": "2026-11-26T13:33:11.784869+00:00",
+ "lot": "2026-11-26",
  "articles": [
-  {
-   "id": "799bab7d8b15",
-   "cat": "sante",
-   "titre": "Guillaume Andéol",
-   "resume": "Sorry, this entry is only available in FR.",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/274371/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-17T13:43:29+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "c8eecc387793",
-   "cat": "sante",
-   "titre": "EFFECTS",
-   "resume": "Sorry, this entry is only available in FR.",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/project/effects/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-17T13:34:54+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "a356faaaa69d",
-   "cat": "sante",
-   "titre": "Avis n°2026.0065/AC/SEAP du 12 novembre 2026 du collège de la HAS relatif à la prise en charge dérogatoire du test RadioDtect et de l’acte de protonthérapie associé en application de l’article L. 165-1-1 du CSS",
-   "resume": "Avis du 12 novembre 2026 du collège de la Haute Autorité de santé relatif à la prise en charge dérogatoire du test RadioDtect et de l’acte de protonthérapie associé en application de l’article L. 165-1-1 du code de la sécurité sociale",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4608950/fr/avis-n2026-0065/ac/seap-du-12-novembre-2026-du-college-de-la-has-relatif-a-la-prise-en-charge-derogatoire-du-test-radiodtect-et-de-l-acte-de-protontherapie-associe-en-application-de-l-article-l-165-1-1-du-css",
-   "source": "HAS bulletin officiel",
-   "type_source": "organisation",
-   "publie": "2026-11-16T08:03:38+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "f3082e5740a6",
-   "cat": "economie",
-   "titre": "Boris Vujčić: Financial Stability Review - November 2026",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-18T09:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "4d022432dfe2",
-   "cat": "economie",
-   "titre": "Les femmes représentent 35 % des dirigeants d’entreprise",
-   "resume": "En 2024, les femmes représentent 35 % des dirigeants d’entreprises. La parité est presque atteinte parmi les entrepreneurs individuels : 46 % sont des femmes, pour les micro-entrepreneurs comme pour les entreprises individuelles classiques. En revanche, dans les sociétés, les femmes ne représentent ",
-   "limite": 0,
-   "lien": "https://www.insee.fr/fr/statistiques/9128369",
-   "source": "INSEE",
-   "type_source": "organisation",
-   "publie": "2026-11-17T16:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "dcfaa3a193e2",
-   "cat": "economie",
-   "titre": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-18T09:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "8481a1d7c53f",
-   "cat": "economie",
-   "titre": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "source": "BCE - communiqués",
-   "type_source": "institution",
-   "publie": "2026-11-17T18:30:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "e3c656d1a6a2",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - One WASH—Consolidated Water Supply Sanitation and Hygiene Account Project (One WASH—CWA) - P167794 - Sequence No : 14",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826042537525",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "76949642dab6",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Philippines Accelerated Water and Sanitation Project in Selected Areas (AWSPSA) - P510359 - Sequence No : 1",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726235525494",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "ed1f24a07800",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Namibia Sectoral Transformation Investment Plan (s-TIP) Preparation - P515159 - Sequence No : 1",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826033031866",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "5979f8d42717",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project - P164130 - Sequence No : 15",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826043095361",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "0afa3c3875c4",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Cambodia Agricultural Sector Diversification Project - P163264 - Sequence No : 13",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826030519566",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "aa1a930ef03e",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Mindanao Inclusive Agriculture Development Project - P173866 - Sequence No : 7",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826025522426",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "533e2b29b7b7",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Sudan Transition to Agriculture Recovery and Resilience Project - P514272",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726111511968",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "828eea588a28",
-   "cat": "economie",
-   "titre": "Official Documents- Supplemental Contribution to the Restated and Amended Administration Agreement with the Federal Ministry of Finance of Austria for TF071226 (No. 39).pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111726125521765",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-17T05:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "eebcf6a2f0a4",
-   "cat": "geopolitique",
-   "titre": "Rougeole : les États-Unis, le Mexique et la Bolivie perdent leur statut de pays ayant éliminé la maladie",
-   "resume": "La rougeole regagne du terrain sur le continent américain. Après le Canada en 2025, trois nouveaux pays, dont les États-Unis, ont perdu mardi leur statut de pays ayant éliminé cette maladie hautement contagieuse. Avec plus de 58 000 cas confirmés depuis janvier, l’Organisation mondiale de la santé (",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159864",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "57c7207e625d",
-   "cat": "geopolitique",
-   "titre": "Grids package: Council and Parliament agree to streamline permitting for a faster clean energy transition",
-   "resume": "The Council reached a provisional agreement with the European Parliament to accelerate permitting for renewables and grids to boost their deployment in the EU.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-18T00:35:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "9df24ec1d676",
-   "cat": "geopolitique",
-   "titre": "Résistance aux antibiotiques : les plans se multiplient, mais les patients restent mal protégés",
-   "resume": "Face à la menace croissante des infections résistantes aux médicaments, 173 pays se sont dotés d’une stratégie nationale. Mais seuls 22 % déclarent disposer des financements nécessaires pour la mettre pleinement en œuvre, alerte l’Organisation mondiale de la santé (OMS). Faute de moyens de diagnosti",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159863",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "32110b270251",
-   "cat": "geopolitique",
-   "titre": "Press briefing - General Affairs Council of 19 November and General Affairs Council (Cohesion) of 23 November 2026",
-   "resume": "Press briefing ahead of the upcoming General Affairs Council and General Affairs Cohesion will take place on Wednesday, 18 November 2026 at 13.00",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/17/press-briefing-general-affairs-council-of-19-november-and-general-affairs-council-cohesion-of-23-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-17T17:33:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "e0c189f0c797",
-   "cat": "geopolitique",
-   "titre": "Haïti : près de 4.600 tués depuis janvier, l’ONU appelle à protéger les civils lors des opérations de sécurité",
-   "resume": "En Haïti, les gangs continuent de commettre des « exactions atroces » tandis que les opérations menées par les forces de sécurité soulèvent de graves préoccupations en matière de droits humains. Près de 4.600 personnes ont été tuées depuis le début de l’année, fustige le Bureau des droits de l’homme",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159857",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "f897ef405171",
-   "cat": "geopolitique",
-   "titre": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published",
-   "resume": "The eighth activity report of the article 255 panel was published.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/17/appointments-to-the-eu-court-of-justice-eighth-activity-report-of-the-article-255-panel-published/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-17T17:26:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "5d755f6fea01",
-   "cat": "geopolitique",
-   "titre": "Migrations : face aux naufrages, le HCR lance un appel mondial pour sauver des vies",
-   "resume": "Près de 2 500 personnes sont mortes ou portées disparues en neuf mois sur les routes maritimes vers l’Europe, soit une hausse de près de 20 % en un an. De la Méditerranée à la route migratoire vers le Yémen, les traversées périlleuses continuent de faire des milliers de victimes. Face à cette hécato",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159855",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "f2a32107bda3",
-   "cat": "geopolitique",
-   "titre": "Press briefing - Agriculture and Fisheries Council of 23 November 2026",
-   "resume": "Press briefing ahead of the upcoming Agriculture and Fisheries Council will take place on 20 November 2026 at 13:00.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/17/press-briefing-agriculture-and-fisheries-council-of-23-november-2026/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-17T15:30:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "4a4565fdfd94",
-   "cat": "geopolitique",
-   "titre": "Climat : les océans au cœur des négociations de la COP31",
-   "resume": "De l’ADN prélevé dans une simple tasse d’eau de mer aux savoirs ancestraux des peuples autochtones pour prévenir les incendies : à la COP31, scientifiques et communautés ont présenté mardi des solutions innovantes pour protéger la nature. Mais leur mise en œuvre se heurte toujours au manque de finan",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159861",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "bb4d3e0c0642",
-   "cat": "geopolitique",
-   "titre": "Soudan : les drones à l’origine de trois quarts des morts civiles recensées cette année",
-   "resume": "Au Soudan, les drones sont devenus l'arme majeure de la guerre contre les civils. Selon un rapport publié mardi par l’ONU, ils sont responsables de près de trois quarts des meurtres de civils recensées depuis janvier. Marchés, hôpitaux et installations électriques sont frappés loin des lignes de fro",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159858",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "aec511ec01e7",
-   "cat": "geopolitique",
-   "titre": "« La paix commence dans nos cœurs » : des enfants lancent un appel au monde depuis Mascate",
-   "resume": "Des enfants venus des quatre coins du monde ont lancé lundi un appel à la paix depuis Mascate, la capitale d’Oman. Dans un message adressé à la communauté internationale, ils ont exhorté à rejeter la haine, à respecter la diversité et à défendre les droits humains.",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159859",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "0303225b2dae",
-   "cat": "geopolitique",
-   "titre": "À Gaza, l’hiver emporte les abris et aggrave la faim, alors que l’aide s’amenuise",
-   "resume": "Les pluies détruisent les tentes et les réserves de nourriture d’une population privée de revenus. Alors que l’aide alimentaire diminue faute de financements à Gaza, trois agences de l’ONU ont alerté mardi sur les conséquences des restrictions imposées par Israël à l’entrée de matériaux indispensabl",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159860",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-17T12:00:00+00:00",
-   "lot": "2026-11-18"
-  },
-  {
-   "id": "2cb30b3162fc",
-   "cat": "jobs",
-   "titre": "Staff Security Engineer",
-   "resume": "Tel Aviv-Yafo, Tel Aviv District, Israel. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016",
-   "limite": 0,
-   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5041243101",
-   "source": "Aidoc",
-   "type_source": "entreprise",
-   "publie": "2026-11-18T07:03:42-05:00",
-   "lot": "2026-11-18"
-  },
   {
    "id": "62350a95df5d",
    "cat": "sante",
@@ -3049,59 +2713,491 @@
    "type_source": "entreprise",
    "publie": "2026-11-25T09:15:15+00:00",
    "lot": "2026-11-25"
+  },
+  {
+   "id": "6106d689463a",
+   "cat": "sante",
+   "titre": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
+   "resume": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04754-3 Whole-genome sequencing and phylogenetic analyses of wastewater and surveillance samples during the 2024−2025 measles outbreak in South Africa reveal previously undetected inter-provincial spread and transmission lin",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04754-3",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-26T00:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "5036ea25adf7",
+   "cat": "sante",
+   "titre": "Blood-Pressure–Lowering Treatment across the Cardiovascular Risk Spectrum",
+   "resume": "New England Journal of Medicine, Volume 395, Issue 21, Page 2121-2132, November 26, 2026.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607848?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-25T10:00:01+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "870e6c54dad1",
+   "cat": "sante",
+   "titre": "QuickStats: Age-Adjusted Percentage of Adults Aged ≥18 Years Who Visited a Doctor or Other Health Professional During the Preceding 12 Months, by Urbanization Level and Family Income - United States, 2025",
+   "resume": "This report describes the percentage of adults who visited a doctor or other health professional during the preceding 12 months.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766912",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-11-25T18:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "deda0e17f978",
+   "cat": "sante",
+   "titre": "Amine Essid",
+   "resume": "Amine Essid",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275650/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-26T13:21:50+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "f06045383a9c",
+   "cat": "sante",
+   "titre": "Performance of intracortical microelectrode arrays in people with implanted brain–computer interfaces over a 20-year period",
+   "resume": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04530-3 Utah arrays recorded stable spiking activity for up to 7.3 years, with modest signal decline on average and sustained movement decoding in the majority of arrays analyzed, demonstrating the long-term feasibility of i",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04530-3",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-26T00:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "7faaa3389df7",
+   "cat": "sante",
+   "titre": "Giant-Cell Arteritis",
+   "resume": "New England Journal of Medicine, Volume 395, Issue 21, Page 2133-2148, November 26, 2026.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMra2605238?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-25T10:00:01+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "ebee9417a79f",
+   "cat": "sante",
+   "titre": "Notes from the Field: Death Involving the Semisynthetic Kratom-Derived Opioid Dihydro-7-Hydroxymitragynine (MGM-15) from a Product Labeled Cat's Claw - San Francisco, California, September 2026",
+   "resume": "This report describes an accidental death in San Francisco, California, involving MGM-15.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766911",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-11-25T18:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "049d0bedf8b4",
+   "cat": "sante",
+   "titre": "Molecular uncertainties: Responding to environmental AMR and pharma-industrial pollution in India",
+   "resume": "This seminar is open for anyone to participate. It is part of the seminar cycle on Social Sciences Perspectives on One Health and Emerging Infectious Diseases (Graduate School 1H-EID) organized by Jules Villa in […]",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/event/molecular-uncertainties-responding-to-environmental-amr-and-pharma-industrial-pollution-in-india/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-26T08:25:34+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "c29358419e27",
+   "cat": "sante",
+   "titre": "Health Care–Associated Infections in U.S. Hospitals, 2023 versus 2015",
+   "resume": "New England Journal of Medicine, Volume 395, Issue 21, Page 2176-2178, November 26, 2026.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611455?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-25T10:00:01+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "1db3adc75803",
+   "cat": "sante",
+   "titre": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths - United States, 2015-2024",
+   "resume": "This report describes differences between pregnancy-related deaths in urban and rural areas during 2015-2024.",
+   "limite": 0,
+   "lien": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766910",
+   "source": "CDC - MMWR",
+   "type_source": "institution",
+   "publie": "2026-11-25T18:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "174ae7ef4c29",
+   "cat": "sante",
+   "titre": "bdext – Birth-Death Exposed-Infectious Super-spreading Contact-Tracing parameter estimator",
+   "resume": "Deep-learning estimators of epidemiological parameters under the Birth-Death Exposed-Infectious Super-spreading Contact-Tracing (BDEISS-CT) models from time-scaled phylogenetic trees.",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/software/bdext/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-26T07:51:02+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "a9d1e324ac71",
+   "cat": "sante",
+   "titre": "Author Correction: On-premise medical AI agents for reliable clinical decision-making",
+   "resume": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04822-8 Author Correction: On-premise medical AI agents for reliable clinical decision-making",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04822-8",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-25T00:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "ce9f98e7b7b2",
+   "cat": "economie",
+   "titre": "Meeting of 28-29 October 2026",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-26T12:30:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "7d63c3539b6a",
+   "cat": "economie",
+   "titre": "L’emploi en France sous contrôle étranger en 2024",
+   "resume": "En 2024, 21 400 entreprises sous contrôle étranger emploient 2,3 millions de personnes en France. Elles représentent moins de 1 % des entreprises des secteurs principalement marchands non agricoles et non financiers, mais 13 % des effectifs. L'industrie et le commerce sont surreprésentés et regroupe",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9148373",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T16:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "b1f3c3dc97c1",
+   "cat": "economie",
+   "titre": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-25T17:30:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "807d4955f575",
+   "cat": "economie",
+   "titre": "Les firmes multinationales françaises en 2024",
+   "resume": "En 2024, les 7 300 firmes multinationales françaises contrôlent 58 500 filiales à l’étranger. Elles y emploient 7,4 millions de personnes et y réalisent la moitié de leur chiffre d’affaires consolidé.Parmi elles, les grandes firmes multinationales (d’au moins 5 000 salariés ou d’un chiffre d’affaire",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9125951",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T16:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "613165ecb105",
+   "cat": "economie",
+   "titre": "Malawi - EASTERN AND SOUTHERN AFRICA- P508910- Malawi Contingent Emergency Response Project (MW CERP) - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626004512883",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "f2a02d7df554",
+   "cat": "economie",
+   "titre": "Kiribati - EAST ASIA AND PACIFIC- P162938- South Tarawa Water Supply Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626013528899",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "8823badaf4ae",
+   "cat": "economie",
+   "titre": "Djibouti - MID EAST,NORTH AFRICA,AFG,PAK - P178988 - Djibouti Emergency Food Security Crisis Response Project - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626035031472",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "0b3737466b8e",
+   "cat": "economie",
+   "titre": "Project Information Document - Economic Transformation for Inclusive Growth Project - P174684",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626052517587",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "7edb63b058ec",
+   "cat": "economie",
+   "titre": "Dominican Republic - LATIN AMERICA AND CARIBBEAN- P180349- Program to Support the Strengthening of the National Health System - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526233520342",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "16007b761574",
+   "cat": "economie",
+   "titre": "Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P181063- Primary Education Quality Improvement Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626052027297",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "f76d224b7ef8",
+   "cat": "economie",
+   "titre": "Nigeria - WESTERN AND CENTRAL AFRICA- P170664- Adolescent Girls Initiative for Learning and Empowerment - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626053517374",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "c3517981f32f",
+   "cat": "economie",
+   "titre": "Oportunidades de Inversión en la Economía Azul de Galápagos",
+   "resume": "El presente reporte se sitúa en el contexto del esfuerzo del Ecuador por impulsar una economía azul en Galápagos que permita crecer económicamente sin comprometer su equilibrio ecológico. Galápagos es un sistema altamente restringido. La mayor parte de su territorio está protegido, y toda la dinámic",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112526183542681",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-26T05:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "d49710ded342",
+   "cat": "geopolitique",
+   "titre": "Centrafrique : la paix avance, mais reste fragile, selon l’ONU",
+   "resume": "À l’heure de quitter la République centrafricaine, Valentine Rugwabiza estime que le pays a parcouru un chemin important vers la paix, malgré des défis persistants. Après quatre ans à la tête de la Mission des Nations Unies en Centrafrique (MINUSCA),elle appelle à consolider les acquis du processus ",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159908",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-25T12:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "f5ef041420a4",
+   "cat": "geopolitique",
+   "titre": "Intervention du président António Costa avant la réunion extraordinaire du Conseil européen des 26 et 27 novembre 2026",
+   "resume": "Avant le début de la réunion extraordinaire du Conseil européen du 26 novembre 2026, le président du Conseil européen, António Costa, s'est adressé à la presse à Bruxelles.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/26/remarks-by-president-antonio-costa-at-the-doorstep-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-26T08:32:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "2aadff438cf4",
+   "cat": "geopolitique",
+   "titre": "Somalie : le spectre de la famine recule, la malnutrition gagne du terrain",
+   "resume": "En Somalie, le risque de famine qui pesait sur les populations déplacées de Baidoa ne devrait finalement pas se concrétiser d’ici à la fin de l’année. Les inondations redoutées sous l’effet du phénomène El Niño se sont révélées moins dévastatrices que prévu. Mais cette amélioration reste fragile : d",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159904",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-25T12:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "e6164378e840",
+   "cat": "geopolitique",
+   "titre": "Déclaration de Bruxelles, 25 novembre 2026",
+   "resume": "Le sommet UE-Balkans occidentaux s'est tenu à Bruxelles (Belgique), le 25 novembre 2026. La déclaration de Bruxelles est disponible ci-dessous.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/25/brussels-declaration-25-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T21:28:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "c9db2ef98bb7",
+   "cat": "geopolitique",
+   "titre": "Gaza et Cisjordanie : l’ONU redoute de nouveaux « crimes atroces » contre les Palestiniens",
+   "resume": "Le Haut-Commissaire des Nations Unies aux droits de l’homme a appelé mercredi la communauté internationale à agir sans attendre pour prévenir de nouveaux « crimes atroces » contre les Palestiniens à Gaza et en Cisjordanie occupée. Volker Türk s’est dit « extrêmement préoccupé par le caractère de plu",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159906",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-25T12:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "a5735b91786d",
+   "cat": "geopolitique",
+   "titre": "Intervention du président António Costa lors de la conférence de presse à l'issue du sommet UE-Balkans occidentaux du 25 novembre 2026",
+   "resume": "Le président du Conseil européen, António Costa, s'est adressé à la presse à l'issue du sommet UE-Balkans occidentaux du 25 novembre 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/25/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-western-balkans-summit-of-25-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T19:17:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "0f9a2a2be306",
+   "cat": "geopolitique",
+   "titre": "Yémen : à Taëz, la guerre bloque les vaccins et menace des centaines de milliers d’enfants",
+   "resume": "En visite au Yémen, le chef de l'humanitaire de l’ONU, Tom Fletcher, a appelé à garantir un accès sûr et durable aux populations civiles, prises au piège de la reprise des combats et des déplacements forcés. Il a notamment tiré la sonnette d’alarme sur la situation à Taëz, où l’insécurité bloque l’a",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159905",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-25T12:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "df97b66e448e",
+   "cat": "geopolitique",
+   "titre": "Media advisory - Special European Council meeting of 26-27 November 2026",
+   "resume": "Approximate timings and press opportunities.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/25/media-advisory-special-european-council-meeting-of-26-27-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T16:45:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "4ca26ad541c8",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Transport, Telecommunications and Energy Council (Transport and Telecommunications) of 30 November and 1 December 2026",
+   "resume": "The press briefing ahead of the Transport, Telecommunications and Energy Council will take place on Friday, 27 November 2026 at 14:00.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/25/press-briefing-transport-telecommunications-and-energy-council-transport-and-telecommunications-of-30-november-and-1-december-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-25T16:00:00+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "2fbb1b5c5921",
+   "cat": "jobs",
+   "titre": "2026-18011 - Directeur de l'Institut Pasteur de Nouvelle Calédonie H/F/X",
+   "resume": "Métier : Pilotage/Cadre administratif expert (Pilotage) Type de contrat : Contrat à durée déterminée Description du poste : 🔬L'Institut Pasteur de Nouvelle-Calédonie (IPNC) est une Fondation privée reconnue d'utilité publique lié à l'Institut Pasteur à Paris dont les missions principales sont la Rec",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=18011&idOrigine=502&LCID=1036&offerReference=2026-18011",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-25T16:11:07+00:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "8a52343288a1",
+   "cat": "jobs",
+   "titre": "Value Demonstration Product Manager",
+   "resume": "US. About Aidoc Aidoc is the market leader in healthcare AI and has developed the world's largest clinical frontier model, supporting nearly 50 million patients each year. Aidoc is deployed in more than 2,000 medical centers worldwide. Since our founding in 2016, Aidoc has raised over $500 million a",
+   "limite": 0,
+   "lien": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5048726101",
+   "source": "Aidoc",
+   "type_source": "entreprise",
+   "publie": "2026-11-25T12:14:04-05:00",
+   "lot": "2026-11-26"
+  },
+  {
+   "id": "1e105ede104e",
+   "cat": "jobs",
+   "titre": "2026-17983 - Technicien de laboratoire - CNR Mycoses H/F/X",
+   "resume": "Métier : Autres domaines Recherche Clinique/Technicien supérieur de recherche clinique Type de contrat : Contrat à durée déterminée Description du poste : 🔬 L'Institut Pasteur, Institut de recherche Interdisciplinaire et International, contribue depuis plus de 130 ans à l'histoire de la science, de ",
+   "limite": 0,
+   "lien": "https://emploi.pasteur.fr/Pages/Offre/detailoffre.aspx?idOffre=17983&idOrigine=502&LCID=1036&offerReference=2026-17983",
+   "source": "Pasteur ingé",
+   "type_source": "entreprise",
+   "publie": "2026-11-25T15:31:32+00:00",
+   "lot": "2026-11-26"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-25"
+   "derniere_activite": "2026-11-26"
   }
  },
  "sources_silencieuses": [
