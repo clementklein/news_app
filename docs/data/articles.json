@@ -1,439 +1,7 @@
 {
- "maj": "2026-11-26T13:33:11.784869+00:00",
- "lot": "2026-11-26",
+ "maj": "2026-11-27T13:29:24.486964+00:00",
+ "lot": "2026-11-27",
  "articles": [
-  {
-   "id": "62350a95df5d",
-   "cat": "sante",
-   "titre": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
-   "resume": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/s41591-026-04803-x Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04803-x",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-19T00:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "05696cfe9ca1",
-   "cat": "sante",
-   "titre": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 20, Page 2063-2067, November 19, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-18T10:00:01+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "bddacfe23cc7",
-   "cat": "sante",
-   "titre": "Estelle Saifi",
-   "resume": "Estelle SAIFI",
-   "limite": 0,
-   "lien": "https://research.pasteur.fr/en/member/274423/",
-   "source": "Institut pasteur",
-   "type_source": "institution",
-   "publie": "2026-11-18T13:13:55+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "5f7aa9583e78",
-   "cat": "sante",
-   "titre": "AQUALEG",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4611555/fr/aqualeg",
-   "source": "HAS DM",
-   "type_source": "organisation",
-   "publie": "2026-11-17T11:10:02+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "1f554a6ad74e",
-   "cat": "sante",
-   "titre": "Décision n° 2026.0213/DC/SBP du collège de la Haute Autorité de santé du 18 novembre 2026 portant adoption de la recommandation de bonne pratique intitulée « Substances létales pour l’aide à mourir et conditions d'administration »",
-   "resume": "",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4613709/fr/decision-n-2026-0213/dc/sbp-du-college-de-la-haute-autorite-de-sante-du-18-novembre-2026-portant-adoption-de-la-recommandation-de-bonne-pratique-intitulee-substances-letales-pour-l-aide-a-mourir-et-conditions-d-administration",
-   "source": "HAS bulletin officiel",
-   "type_source": "organisation",
-   "publie": "2026-11-19T08:48:09+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "bfddc1b97522",
-   "cat": "sante",
-   "titre": "Expansion and cytotoxicity of mucosal CAR + T cells in enterocolitis associated with BCMA CAR-T cell therapy",
-   "resume": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/s41591-026-04731-w Multimodal profiling of patients with biopsy-confirmed immune effector cell-associated enterocolitis following ciltacabtagene autoleucel shows that CAR T cell infiltrates are concentrated in the duodenum and have a m",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04731-w",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-19T00:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "6eb7217053cd",
-   "cat": "sante",
-   "titre": "Acute Respiratory Distress Syndrome",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 20, Page 2027-2042, November 19, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMra2601172?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-18T10:00:01+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "048f75ab3aec",
-   "cat": "sante",
-   "titre": "Décision n° 2026.0211/DC/SEM du 12 novembre 2026 du collège de la Haute Autorité de santé portant autorisation d’accès précoce de la spécialité OPZELURA (ruxolitinib)",
-   "resume": "Autorisation d’accès précoce octroyée à la spécialité OPZELURA (ruxolitinib) dans l'indication « Traitement de la dermatite atopique modérée chez les adultes pour lesquels les dermocorticoïdes et les inhibiteurs de la calcineurine topiques sont inadéquats ou inappropriés. »",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4612077/fr/decision-n-2026-0211/dc/sem-du-12-novembre-2026-du-college-de-la-haute-autorite-de-sante-portant-autorisation-d-acces-precoce-de-la-specialite-opzelura-ruxolitinib",
-   "source": "HAS bulletin officiel",
-   "type_source": "organisation",
-   "publie": "2026-11-18T15:35:13+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "f64665d650b2",
-   "cat": "sante",
-   "titre": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy",
-   "resume": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/s41591-026-04783-y In a large multicenter case series, only 32% of patients who developed immune effector cell-associated enterocolitis following treatment with BCMA-directed CAR T cells had achieved disease resolution at last follow-u",
-   "limite": 0,
-   "lien": "https://www.nature.com/articles/s41591-026-04783-y",
-   "source": "Nature Medicine",
-   "type_source": "revue",
-   "publie": "2026-11-19T00:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "5e688ff80e24",
-   "cat": "sante",
-   "titre": "Enfortumab Vedotin and Pembrolizumab for Cisplatin-Eligible Bladder Cancer",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 20, Page 2073-2075, November 19, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2610895?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-18T10:00:01+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "446797588fd4",
-   "cat": "sante",
-   "titre": "Décision n°2026.0208/DC/SEAP du 12 novembre 2026 du collège de la HAS portant adoption du rapport d’évaluation technologique intitulé « Dosage sérique des chaînes légères libres kappa et lambda dans les gammapathies monoclonales »",
-   "resume": "Le document ci-dessous est la décision du collège de la Haute Autorité de santé adoptant le rapport qui est accessible par le lien situé dans la rubrique « Voir aussi »",
-   "limite": 0,
-   "lien": "https://www.has-sante.fr/jcms/p_4611915/fr/decision-n2026-0208/dc/seap-du-12-novembre-2026-du-college-de-la-has-portant-adoption-du-rapport-d-evaluation-technologique-intitule-dosage-serique-des-chaines-legeres-libres-kappa-et-lambda-dans-les-gammapathies-monoclonales",
-   "source": "HAS bulletin officiel",
-   "type_source": "organisation",
-   "publie": "2026-11-18T11:01:18+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "6eaa66bbe30f",
-   "cat": "sante",
-   "titre": "Meningococcal B Vaccine to Prevent Gonorrhea",
-   "resume": "New England Journal of Medicine, Volume 395, Issue 20, Page 2075-2076, November 19, 2026.",
-   "limite": 0,
-   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2611609?af=R&rss=currentIssue",
-   "source": "NEJM",
-   "type_source": "revue",
-   "publie": "2026-11-18T10:00:01+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "75b02f629526",
-   "cat": "economie",
-   "titre": "En milieu rural, les bourgs structurent l’accès aux services de la vie courante",
-   "resume": "En France hors Mayotte, les temps d’accès moyens en voiture aux principaux commerces et services de la vie courante varient du simple au double entre espace urbain et rural, de 3 à 6 minutes, et dépassent localement 12 minutes dans certains massifs montagneux ou territoires forestiers peu denses. Ce",
-   "limite": 0,
-   "lien": "https://www.insee.fr/fr/statistiques/9129562",
-   "source": "INSEE",
-   "type_source": "organisation",
-   "publie": "2026-11-18T16:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "3c0db8b8efad",
-   "cat": "economie",
-   "titre": "Services Publics",
-   "resume": "Cet ouvrage réunit un ensemble d'analyses et de statistiques sur les services publics et les services aux publics.",
-   "limite": 0,
-   "lien": "https://www.insee.fr/fr/statistiques/9032286",
-   "source": "INSEE",
-   "type_source": "organisation",
-   "publie": "2026-11-18T16:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "dbe111bd2d10",
-   "cat": "economie",
-   "titre": "Initial Environmental and Social Review Summary (ESRS) - Somalia Health Services Transformation Project - P518788",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926024530858",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "bbb431196cb1",
-   "cat": "economie",
-   "titre": "Disclosable Version of the ISR - Ulaanbaatar Sustainable Urban Transport Project - P174007 - Sequence No : 11",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826220521378",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "3b5cce7b6541",
-   "cat": "economie",
-   "titre": "Initial Project Information Document (PID) - Somalia Health Services Transformation Project - P518788",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926024519170",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "f48d3b56d502",
-   "cat": "economie",
-   "titre": "Environmental and Social Commitment Plan (ESCP) - Ethiopia Sustainable WASH Access Program - P516998",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926014038721",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "719f3523cdff",
-   "cat": "economie",
-   "titre": "Readiness Environmental and Social Review Summary (ESRS) - Ethiopia Sustainable WASH Access Program - P516998",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926014013409",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "5e4bef586d50",
-   "cat": "economie",
-   "titre": "Stakeholder Engagement Plan (SEP) - Ethiopia Sustainable WASH Access Program - P516998",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926014040289",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "210ae1811ec6",
-   "cat": "economie",
-   "titre": "Initial Project Information Document (PID) - Volobe Hydropower Project - P520365",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926015030400",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "dd917dc2e447",
-   "cat": "economie",
-   "titre": "Initial Environmental and Social Review Summary (ESRS) - Volobe Hydropower Project - P520365",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111926015034367",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-19T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "b68f35998272",
-   "cat": "economie",
-   "titre": "Official Documents- Amendment No. 10 to the Administration Agreement with the Gates Foundation for TF073570.pdf",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826085512323",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "bf1294f1f89d",
-   "cat": "economie",
-   "titre": "Climate Finance Assessment (P176758)",
-   "resume": "",
-   "limite": 0,
-   "lien": "http://documents.worldbank.org/curated/en/099111826160567787",
-   "source": "Banque mondiale - rapports",
-   "type_source": "organisation",
-   "publie": "2026-11-18T05:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "53de190299ef",
-   "cat": "geopolitique",
-   "titre": "De l’Iran à l’Ukraine, l’AIEA alerte sur une sécurité nucléaire de plus en plus fragile",
-   "resume": "Privée d’accès aux installations nucléaires iraniennes, confrontée à la fragilité croissante des centrales ukrainiennes et à l’expansion du programme nord-coréen, l’Agence internationale de l’énergie atomique (AIEA) multiplie les mises en garde. Mercredi, son directeur général, Rafael Grossi, a dres",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159871",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "359482b0dc6b",
-   "cat": "geopolitique",
-   "titre": "Internal market for services: Council adopts regulation on the e-declaration of posted workers",
-   "resume": "Council gives its final approval to the regulation on the e-declaration of posted workers.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/internal-market-for-services-council-adopts-regulation-on-the-e-declaration-of-posted-workers/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T09:31:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "16b5e2edea97",
-   "cat": "geopolitique",
-   "titre": "COP31 : les pays peinent à s’entendre sur le financement et la transition énergétique",
-   "resume": "Alors que le temps presse à la Conférence des Nations Unies sur le climat, COP31, réunie à Antalya, les pays ont lancé mercredi un nouvel examen mondial de leurs progrès dans la lutte contre le changement climatique. Mais les négociations restent dans l’impasse sur plusieurs dossiers sensibles : fin",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159870",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "d9242ddf6f1a",
-   "cat": "geopolitique",
-   "titre": "Council calls for action to empower young people in an evolving information environment",
-   "resume": "The Council has approved conclusions aimed at empowering young people in an evolving information environment.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/council-calls-for-action-to-empower-young-people-in-an-evolving-information-environment/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T09:30:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "b817b4b0e610",
-   "cat": "geopolitique",
-   "titre": "Yémen : Taëz s’enfonce dans l’isolement, les risques d’épidémie s’aggravent",
-   "resume": "Encerclée, la ville yéménite de Taëz fait face à une dégradation alarmante de la situation humanitaire. La fermeture de ses principaux axes d’approvisionnement entrave l’acheminement de l’aide, tandis que le manque d’eau potable, les difficultés d’accès aux soins et la poursuite des combats entre le",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159866",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "7de55912ae97",
-   "cat": "geopolitique",
-   "titre": "Council greenlights new EU rules to protect vulnerable adults",
-   "resume": "The Council today formally adopted rules ensuring that adults in need of support with decision-making are better protected in cross-border situations when it comes to medical care, managing property and moving to another country.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/council-greenlights-new-eu-rules-to-protect-vulnerable-adults/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T09:27:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "6a96f6921356",
-   "cat": "geopolitique",
-   "titre": "Libye : 15 ans après la chute de Kadhafi, la CPI prépare son premier procès",
-   "resume": "Pour la première fois depuis que le Conseil de sécurité a saisi la Cour pénale internationale (CPI) de la situation en Libye, un accusé sera jugé pour des crimes commis dans le pays. Mais derrière cette avancée historique, les mandats d’arrêt inexécutés et les résistances des autorités libyennes rap",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159867",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "991832d0ea7d",
-   "cat": "geopolitique",
-   "titre": "Simplification: Council signs off on new law simplifying and streamlining rules on chemical products",
-   "resume": "Council signs off on new law simplifying and streamlining rules on chemical products.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/simplification-council-signs-off-on-new-law-simplifying-and-streamlining-rules-on-chemical-products/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T09:24:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "1bb9084a6f81",
-   "cat": "geopolitique",
-   "titre": "Portés par la Chine, les dépôts de brevets atteignent un record",
-   "resume": "Plus de 3,9 millions de demandes de brevet ont été déposées dans le monde en 2025, soit une hausse de 6 % en un an, selon l’Organisation mondiale de la propriété intellectuelle (OMPI). La Chine est à l’origine de plus de la moitié de cette progression. L’Inde a dépassé pour la première fois les 100 ",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159865",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "6f2b2bf71d64",
-   "cat": "geopolitique",
-   "titre": "Eurogroup President Pierrakakis' report to the President of the Euro Summit",
-   "resume": "The President of the Eurogroup, Kyriakos Pierrakakis, has sent a letter to the President of the Euro Summit, António Costa, to report on the recent work by the Eurogroup and upcoming work priorities.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/eurogroup-president-pierrakakis-report-to-the-president-of-the-euro-summit/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T08:48:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "2f3fb02adc4a",
-   "cat": "geopolitique",
-   "titre": "Perturbateurs endocriniens : une exposition dès avant la naissance, des risques pour la fertilité",
-   "resume": "L’exposition aux perturbateurs endocriniens pourrait commencer dès la vie intra-utérine et affecter durablement le développement et la santé reproductive. Présentes dans de nombreux produits du quotidien, ces substances chimiques capables de dérégler le système hormonal sont détectées jusque dans le",
-   "limite": 0,
-   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159856",
-   "source": "ONU Info",
-   "type_source": "organisation",
-   "publie": "2026-11-18T12:00:00+00:00",
-   "lot": "2026-11-19"
-  },
-  {
-   "id": "9f39ee8e4c0b",
-   "cat": "geopolitique",
-   "titre": "Methane regulation: EU agrees targeted amendment to safeguard security of supply",
-   "resume": "The Council of the European Union and the European Parliament reached a provisional agreement on targeted amendments to the EU methane regulation.",
-   "limite": 0,
-   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/",
-   "source": "Conseil de l'UE",
-   "type_source": "organisation",
-   "publie": "2026-11-19T02:45:00+00:00",
-   "lot": "2026-11-19"
-  },
   {
    "id": "f17afb070bb8",
    "cat": "sante",
@@ -3145,59 +2713,431 @@
    "type_source": "entreprise",
    "publie": "2026-11-25T15:31:32+00:00",
    "lot": "2026-11-26"
+  },
+  {
+   "id": "441a2146f94d",
+   "cat": "sante",
+   "titre": "Wastewater sequencing enables scalable measles surveillance",
+   "resume": "Nature Medicine, Published online: 27 November 2026; doi:10.1038/s41591-026-04761-4 Integrated clinical and wastewater monitoring during the 2024–2025 outbreaks of measles in South Africa enabled high-resolution tracking of virus spread and evolution. Whole-genome amplicon sequencing of wastewater s",
+   "limite": 0,
+   "lien": "https://www.nature.com/articles/s41591-026-04761-4",
+   "source": "Nature Medicine",
+   "type_source": "revue",
+   "publie": "2026-11-27T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "25fb096b22f4",
+   "cat": "sante",
+   "titre": "[Editorial] COPD as a life-course disorder: possibilities and practicalities",
+   "resume": "Chronic obstructive pulmonary disease (COPD) is predicted to affect an estimated 600 million people worldwide by 2050, an increase of 23% compared with 2020. It is one of the four largest contributors to the non-communicable disease burden according to the Lancet Commission on 21st century global th",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02407-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-28T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "efa32427bd1d",
+   "cat": "sante",
+   "titre": "Intila Yalikun",
+   "resume": "x",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275839/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-27T11:00:31+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "19ff5285207d",
+   "cat": "sante",
+   "titre": "IA en contexte de soins : accompagner le bon usage – Guide CNIL et HAS",
+   "resume": "Avec la publication du guide « IA en contexte de soins : accompagner le bon usage » qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les règles et les bonnes pratiques.",
+   "limite": 0,
+   "lien": "https://www.has-sante.fr/jcms/p_4619832/fr/ia-en-contexte-de-soins-accompagner-le-bon-usage-guide-cnil-et-has",
+   "source": "HAS guides",
+   "type_source": "organisation",
+   "publie": "2026-11-26T10:32:44+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "90ed7fadcef7",
+   "cat": "sante",
+   "titre": "[Comment] Izalontamab brengitecan in metastatic breast cancer: is innovation all innovative?",
+   "resume": "Approximately two-thirds of patients with breast cancer have hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2–) disease, for which chemotherapy is generally used in the metastatic setting after endocrine-based treatment options, including targeted agents, have b",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02160-4/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-28T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "a38509965037",
+   "cat": "sante",
+   "titre": "Lorena Duret",
+   "resume": "x",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275836/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-27T10:59:45+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "251243108b21",
+   "cat": "sante",
+   "titre": "[Comment] Offline: Humanitarian health—the shameful silence",
+   "resume": "Joanne Liu was International President of Médecins Sans Frontières (MSF) from 2013 until 2019. In her compelling memoir, Ebola, Bombs, and Migrants: Humanitarian Crises in a Security-Obsessed World (2026, written with André Pratte and first published in French in 2024), she recounts her time working",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02396-2/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-28T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "26c096b6dfb0",
+   "cat": "sante",
+   "titre": "Elizabeth Goult",
+   "resume": "x",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275832/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-27T10:58:59+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "da3e0850a46d",
+   "cat": "sante",
+   "titre": "[World Report] USA loses measles elimination status",
+   "resume": "Amid weakening public health capacity, there are fears that the resurgence of measles heralds a return of vaccine-preventable diseases. Talha Burki reports.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02401-3/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-28T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "a1a4866b56da",
+   "cat": "sante",
+   "titre": "Placement of a Catheter for Acute Peritoneal Dialysis",
+   "resume": "New England Journal of Medicine, Volume 395, Issue 21, November 26, 2026.",
+   "limite": 0,
+   "lien": "https://www.nejm.org/doi/full/10.1056/NEJMc2612340?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "type_source": "revue",
+   "publie": "2026-11-25T10:00:01+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "4975ec874059",
+   "cat": "sante",
+   "titre": "Daniel Stocks",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://research.pasteur.fr/en/member/275813/",
+   "source": "Institut pasteur",
+   "type_source": "institution",
+   "publie": "2026-11-27T10:50:24+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "a68d745afcbc",
+   "cat": "sante",
+   "titre": "[World Report] WHO leadership race puts trust in the spotlight",
+   "resume": "The WHO Candidates’ Forum offered the first opportunity for member states to get an unvarnished assessment of the nominees. John Zarocostas reports from Geneva.",
+   "limite": 0,
+   "lien": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02402-5/fulltext?rss=yes",
+   "source": "The Lancet",
+   "type_source": "revue",
+   "publie": "2026-11-28T00:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "d4ec3631a117",
+   "cat": "economie",
+   "titre": "ECB Consumer Expectations Survey results – October 2026",
+   "resume": "",
+   "limite": 0,
+   "lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "source": "BCE - communiqués",
+   "type_source": "institution",
+   "publie": "2026-11-27T09:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "ee227f1a69e5",
+   "cat": "economie",
+   "titre": "Les reprises des commerces et services de la vie courante s’enrayent entre 2019 et 2022",
+   "resume": "Entre 2019 et 2022, la part des reprises des commerces et services de la vie courante s’est repliée de -3,2 points pour atteindre 19,0 %. Le nombre de reprises a baissé (-5,8 %) tandis que les sorties d’activité économique sans reprise ont augmenté (+14,9 %). La part des reprises est structurellemen",
+   "limite": 0,
+   "lien": "https://www.insee.fr/fr/statistiques/9130533",
+   "source": "INSEE",
+   "type_source": "organisation",
+   "publie": "2026-11-26T16:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "a078f259df66",
+   "cat": "economie",
+   "titre": "Disclosable Version of the ISR - Comoros Interisland Connectivity Project - P173114 - Sequence No : 12",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726005510778",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "db8df4474a7b",
+   "cat": "economie",
+   "titre": "Appraisal Program Information Document (PID)",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726043010008",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "b1a262590be2",
+   "cat": "economie",
+   "titre": "Project Information Document - Connecting Madagascar for Inclusive Growth - P173711",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726050534877",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "e89a9374ea47",
+   "cat": "economie",
+   "titre": "Bosnia and Herzegovina - EUROPE AND CENTRAL ASIA- P168943- BiH Water and Sanitation Services Modernization Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726030023516",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "1e753d3b362b",
+   "cat": "economie",
+   "titre": "Mozambique - EASTERN AND SOUTHERN AFRICA- P509890- Urban Water Security Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726041521905",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "bbd7e0755230",
+   "cat": "economie",
+   "titre": "Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P507373- Support to the Strengthening of Social Safety Nets for Human Development in Morocco?Project - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726050542431",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "eae3798baba3",
+   "cat": "economie",
+   "titre": "East Asia and Pacific - EAST ASIA AND PACIFIC- P181555- Accelerating Sustainable Energy Transition Program - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112626233017602",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "8f254c445c13",
+   "cat": "economie",
+   "titre": "India - SOUTH ASIA- P181463- Maharashtra Strengthening Institutional Capabilities in Districts for Enabling Growth Operation - Procurement Plan",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726014014033",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "3b4cc77633d5",
+   "cat": "economie",
+   "titre": "Ethiopia - EASTERN AND SOUTHERN AFRICA - P000755 - ET ROAD SEC. DEV. PROG - Audited Financial Statement",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726040521708",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "1346378f8987",
+   "cat": "economie",
+   "titre": "Project Information Document - Connecting Madagascar for Inclusive Growth - P173711",
+   "resume": "",
+   "limite": 0,
+   "lien": "http://documents.worldbank.org/curated/en/099112726050524469",
+   "source": "Banque mondiale - rapports",
+   "type_source": "organisation",
+   "publie": "2026-11-27T05:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "3d6006fcf28c",
+   "cat": "geopolitique",
+   "titre": "Le commerce maritime stagne dans un contexte d’incertitudes géopolitiques",
+   "resume": "Le commerce maritime, qui est le pilier de l’économie mondiale, continue de ralentir, tandis que les perturbations liées aux conflits et aux facteurs climatiques touchent plus durement les économies les moins développées et les petits États insulaires, ont déclaré jeudi des économistes de l’ONU.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159912",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-26T12:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "f112dcf1141e",
+   "cat": "geopolitique",
+   "titre": "Press briefing - Competitiveness Council of 3 and 4 December 2026",
+   "resume": "Press briefing ahead of the upcoming Competitiveness Council will take place on Monday, 30 November 2026 at 13:00.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/27/press-briefing-competitiveness-council-of-3-and-4-december-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-27T10:15:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "be5b3a5d4b5e",
+   "cat": "geopolitique",
+   "titre": "Ebola en RDC : la barre des 12 000 cas franchie, plus de 5 900 décès",
+   "resume": "Le nombre de cas confirmés d’Ebola a franchi le cap des 12 000 cas confirmés en République démocratique du Congo (RDC) alors que l’insécurité dans certaines parties orientales du pays perturbe les efforts pour contenir la propagation de la maladie.",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159911",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-26T12:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "955491cb7d59",
+   "cat": "geopolitique",
+   "titre": "Intervention du président António Costa lors de la conférence de presse tenue à l'issue de la réunion extraordinaire du Conseil européen du 26 novembre 2026",
+   "resume": "Lors de la conférence de presse qui s'est tenue à l'issue de la réunion extraordinaire du Conseil européen du 26 novembre 2026, le président António Costa a présenté les principaux résultats des discussions menées sur le prochain cadre financier pluriannuel et les besoins de financement de l'Ukraine",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/27/remarks-by-president-antonio-costa-at-the-press-conference-following-the-special-european-council-meeting-of-26-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-27T00:30:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "1205f298170c",
+   "cat": "geopolitique",
+   "titre": "Haïti : un système de santé au bord de la rupture",
+   "resume": "En Haïti, les violences des gangs armés, les déplacements massifs de population et la propagation des épidémies aggravent une crise sanitaire déjà alarmante. Confrontées à un afflux croissant de patients, notamment de victimes de traumatismes et de blessures par balle, ainsi qu’à la fermeture de nom",
+   "limite": 0,
+   "lien": "https://news.un.org/feed/view/fr/story/2026/11/1159910",
+   "source": "ONU Info",
+   "type_source": "organisation",
+   "publie": "2026-11-26T12:00:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "9b69aaf7d2a7",
+   "cat": "geopolitique",
+   "titre": "Le Conseil européen propose Pablo Hernández de Cos comme prochain président de la Banque centrale européenne",
+   "resume": "Le Conseil européen a proposé Pablo Hernández de Cos comme prochain président de la Banque centrale européenne, et Laurence Boone et Markus Brunnermeier comme membres de son directoire.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-26T22:50:00+00:00",
+   "lot": "2026-11-27"
+  },
+  {
+   "id": "aadbcc8fd98c",
+   "cat": "geopolitique",
+   "titre": "Déclaration du sommet de la zone euro, 26 novembre 2026",
+   "resume": "Les membres du sommet de la zone euro, réunis en configuration ouverte, ont adopté une déclaration le 26 novembre 2026.",
+   "limite": 0,
+   "lien": "https://www.consilium.europa.eu/fr/press/press-releases/2026/11/26/statement-of-the-euro-summit-26-november-2026/",
+   "source": "Conseil de l'UE",
+   "type_source": "organisation",
+   "publie": "2026-11-26T16:05:00+00:00",
+   "lot": "2026-11-27"
   }
  ],
  "etat_sources": {
   "OMS": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "The Lancet": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "NEJM": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "CDC - MMWR": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "BCE - communiqués": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "ONU Info": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Conseil de l'UE": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Nature Medicine": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Institut pasteur": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "INSEE": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "OCDE": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Banque mondiale - rapports": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Aidoc": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "Pasteur ingé": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "HAS guides": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "HAS DM": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   },
   "HAS bulletin officiel": {
-   "derniere_activite": "2026-11-26"
+   "derniere_activite": "2026-11-27"
   }
  },
  "sources_silencieuses": [
